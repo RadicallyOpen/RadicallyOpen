@@ -31,7 +31,7 @@
 
         {% for event in site.data.events %}
           <li>
-              <a href="/professionals/#fast">{{ event.name }}</a> From {{event.from|date: '%-d %B'}} to {{event.to|date: '%-d %B, %Y'}} ({{ event.location }})
+              <a href="/professionals/#fast">{{ event.name }}</a> from {{event.from|date: '%-d %B'}} to {{event.to|date: '%-d %B, %Y'}} ({{ event.location }})
             </a>
           </li>
         {% endfor %}
