@@ -252,7 +252,7 @@ p {
 }
 
 a, a:visited, a:active {
-  color: #8ab9d1;
+  color: #4D84A1;
   -moz-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
   -webkit-transition: all 0.25s ease-in-out;
@@ -261,7 +261,7 @@ a, a:visited, a:active {
 }
 
 a:hover {
-  color: #24536b;
+  color: #1E495E;
   -moz-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
   -webkit-transition: all 0.25s ease-in-out;

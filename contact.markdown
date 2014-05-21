@@ -6,7 +6,7 @@ tags: RO-DBT
 ---
 
 
-For enquiries, please contact [Erica Smith](mailto:site.owner.email)
+For enquiries, please contact [Erica Smith](mailto:{{site.bookings.email}})
 
 {% if site.owner.twitter %}
 Follow us on Twitter:
