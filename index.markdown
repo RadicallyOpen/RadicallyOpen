@@ -15,3 +15,7 @@ We specialise in fast track training and online support for professionals who wa
 [Find out more about the Radically Open DBT treatment](/about/)
 
 [More about our training courses for health professionals](/professionals/)
+
+
+
+<small>Main image: [Children's Games, Pieter Bruegel](http://en.wikipedia.org/wiki/Children's_Games_(Bruegel)).</small>
