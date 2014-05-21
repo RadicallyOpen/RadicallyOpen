@@ -1,0 +1,47 @@
+title:            RadicallyOpen
+tagline:          Radically Open; Training, supervision, and support for patients, carers, and health professionals.
+description:      We specialise in fast track training and online support for professionals who want to develop Radically-Open DBT services, or enhance their existing practice for patients with emotional over-control.
+#Comment out url when working locally to resolve base urls correctly
+# url: http://jekyll.gtat.me
+
+# Owner/author information
+owner:
+  name:           Ben Whalley
+  twitter:        radicallyopen
+
+bookings:
+  email:          ericasmith52@gmail.com
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Patients & Carers
+    url: /patientscarers/
+  - title: Professionals
+    url: /professionals
+  - title: Events & Training
+    url: /events
+  - title: Contact
+    url: /contact
+
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/London
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]

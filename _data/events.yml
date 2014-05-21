@@ -1,0 +1,72 @@
+- name: Fast Track
+  part: 1
+  date: April 28th – May 2nd
+  from: 2014-04-28
+  to: 2014-05-02
+  location: Seattle
+
+- name: Fast Track
+  part: 2
+  date: September 15th - 19th
+  from: 2014-09-15
+  to: 2014-09-19
+  location: Seattle
+
+- name: Fast Track
+  part: 1
+  date: April 28th – May 2nd
+  from: 2015-04-28
+  to: 2015-05-02
+  location: Southampton, UK
+
+- name: Fast Track
+  part: 2
+  date: March 23rd - 27th 2015
+  from: 2015-03-23
+  to: 2015-03-27
+  location: Southampton, UK
+
+
+- name: Fast Track
+  part: 1
+  date: February 2nd - 6th 2015
+  from: 2015-02-02
+  to: 2015-02-06
+  location: San Francisco
+
+- name: Fast Track
+  part: 2
+  date: June 8th - 12th 2015
+  from: 2015-06-08
+  to: 2015-06-12
+  location: San Francisco
+
+- name: Fast Track
+  part: 1
+  date: March 2nd - 6th 2015
+  from: 2015-03-02
+  to: 2015-03-06
+  location: Exeter, UK
+
+- name: Fast Track
+  part: 2
+  date: October 5th - 9th 2015
+  from: 2015-10-05
+  to: 2015-10-09
+  location: Exeter, UK
+
+- name: Fast Track
+  part: 1
+  date: June 22nd - 26th 2015
+  from: 2015-06-22
+  to: 2015-06-26
+  location: New York
+
+- name: Fast Track
+  part: 2
+  date: December 2nd - 5th 2015
+  from: 2015-12-02
+  to: 2015-12-05
+  location: New York
+
+
