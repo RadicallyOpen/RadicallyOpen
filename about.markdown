@@ -21,4 +21,4 @@ Although Radically Open DBT (RO-DBT) builds upon many of the core principles of 
 
 The [RO-DBT research website](http://www.radical-openness.com) has more information on the latest research and development of the treatment.
 
-
+You can also [find out more about RO-DBT training](/professionals/)
