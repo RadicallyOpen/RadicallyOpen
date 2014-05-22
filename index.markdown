@@ -29,6 +29,8 @@ Our research group are still recruiting patients with treatment resistent depres
 [Find out how to take part or refer patients.](http://www.reframed.org.uk).
 
 
+
+<hr>
 <small>Main image: [Children's Games, Pieter Bruegel](http://en.wikipedia.org/wiki/Children's_Games_(Bruegel)).</small>
 
 
