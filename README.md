@@ -1,4 +1,3 @@
 RadicallyOpen
 =============
 
-RadicallyOpen

@@ -7,19 +7,7 @@ tags: research ro-dbt training
 
 
 
-
-### Current studies recruiting
-
-Our research group are still recruiting patients with treatment resistent depression in [Dorset, Hampshire and North Wales](www.reframed.org.uk).
-
-
-### The RO-DBT treatment manual
-
-The RO-DBT treatment manual is forthcoming from Guilford Press. A working draft of the book is available for all fast-track attendees.
-
-
-
-### Training Pathways:
+## Training Pathways
 
 There are 2 training pathways in RO-DBT and 4 levels of proficiency: Certificates of Attendance will be given to everyone who completes a training module, and attendees also have the opportunity of Certification. Certification requires the submission of homework assignments demonstrating an understanding of the material taught. Therapist can only progress to proficiency levels 3 and 4 if they have achieved Certification at levels 1 and 2.
 
@@ -31,6 +19,10 @@ Comprising 3 x 5 day workshops (Parts I II and III). These are sequential, must 
 #### Modular {#modular}
 
 Comprising a series of 1, 2 and 3 day workshops. The levels are sequential and need to be taken in order, but within each level the modules can be taken in any order*.
+
+
+[See the current list of training courses and dates](/events/).
+
 
 <!--
 
@@ -72,3 +64,13 @@ Total 5 days.
 
 
  -->
+
+
+
+
+
+
+### The RO-DBT treatment manual
+
+The RO-DBT treatment manual is forthcoming from Guilford Press. A working draft of the book is available for all fast-track attendees.
+

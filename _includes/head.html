@@ -43,14 +43,13 @@
 <!-- Load Modernizr -->
 <script src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
-
 <!-- Icons -->
 <!-- 16x16 -->
 <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
 
 <div id="bump">
   <body class="">
-    <header class="site-header">
+    <header class="site-header {%if page.header.colour %}{{page.header.colour}}{%else%}darken{% endif %}">
       <div class="wrap">
         <hgroup>
           <h1><a href="/">{{ site.title }}</a></h1>

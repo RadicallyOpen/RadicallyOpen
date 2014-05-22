@@ -2,6 +2,8 @@
   <footer>
     <aside class="wrap">
       <ol class="prev-posts">
+
+        <!--
         <p class="list-title">Recent Posts</p>
         {% for post in site.posts | limit:3 %} <!-- for1 -->
             <li>
@@ -9,14 +11,13 @@
               <span class="date">{{post.date | date: "%b %d, %Y" }}</span>
             </li>
         {% endfor %}
+      -->
       </ol>
 
       <div class="social">
         <ul>
-            <li><a id="mail" href="/contact/"><span class="foot-link">Contact</span></a></li>
-
             {% if site.owner.twitter %}
-            <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank"><span class="foot-link">@{{ site.owner.twitter }}</span></a></li>
+            <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank"><span class="foot-link">@{{ site.owner.twitter }}</span></a> <span class="icon-twitter"></span></li>
             {% endif %}
 
 
@@ -37,16 +38,17 @@
   <script src="{{ site.url }}/assets/js/scripts.js"></script>
 
 
+  {% if site.owner.google_analytics %}
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-51230909-1', 'radicallyopen.net');
+    ga('create', '{{site.owner.google_analytics.key}}', '{{site.owner.google_analytics.key}}');
     ga('require', 'displayfeatures');
     ga('send', 'pageview');
-
   </script>
+  {% endif %}
+
   </body>
 </html>

@@ -4,18 +4,25 @@ description:      We specialise in fast track training and online support for pr
 #Comment out url when working locally to resolve base urls correctly
 # url: http://jekyll.gtat.me
 
+
 # Owner/author information
 owner:
   name:           Ben Whalley
   twitter:        radicallyopen
+  disqus:         None
+  google_analytics:
+    key: "UA-51230909-1"
+    domain: "radicallyopen.net"
+
 
 bookings:
   email:          ericasmith52@gmail.com
 
+
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About RO-DBT
+  - title: About
     url: /about
   - title: Patients & Carers
     url: /patientscarers/
@@ -26,6 +33,9 @@ links:
   - title: Contact
     url: /contact
 
+collections:
+- people:
+    output: true
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
