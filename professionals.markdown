@@ -13,12 +13,12 @@ There are 2 training pathways in RO-DBT and 4 levels of proficiency: Certificate
 
 #### Fast track {#fast}
 
-Comprising 3 x 5 day workshops (Parts I II and III). These are sequential, must be taken in order. Practitioners will be able to progress to Advanced level training if they have attained certification in these 3 workshops.
+Our fast track training is an intensive course, comprisong 3 x 5-day workshops (Parts I, II and III). These are sequential, must be taken in order. Practitioners will be able to progress to advanced level training if they have attained certification in all 3 workshops.
 
 
 #### Modular {#modular}
 
-Comprising a series of 1, 2 and 3 day workshops. The levels are sequential and need to be taken in order, but within each level the modules can be taken in any order*.
+Our modular course comprises a series of 1, 2 or 3-day workshops, grouped into three modules. These modules are sequential and need to be taken in order, but within each level the workshops can be attended in any order.
 
 
 [See the current list of training courses and dates](/events/).

@@ -7,6 +7,7 @@ image:
 header:
     colour: None
 tweet: Radically Open—Training, supervision and support for patients, carers and health professionals.
+footertext: "Main image [Children's Games, Pieter Bruegel](http://en.wikipedia.org/wiki/Children's_Games_(Bruegel))."
 ---
 
 {{site.people}}
