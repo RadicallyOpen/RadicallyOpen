@@ -24,9 +24,9 @@ Although Radically Open DBT (RO-DBT) builds upon many of the core principles of 
 > In short, whereas under-controlled problems require interventions designed to enhance constraint or inhibitory control, over-controlled problems require interventions designed to relax rigid inhibitory control, and to increase emotional expressiveness, receptivity, and flexibility.
 
 
-The [RO-DBT research website](http://www.radical-openness.com) has more information on the latest research and development of the treatment.
+- The [RO-DBT research website](http://www.radical-openness.com) has more information on the latest research and development of the treatment.
 
-You can also [find out more about RO-DBT training](/events/)
+- You can also [find out more about RO-DBT training](/events/)
 
 
 

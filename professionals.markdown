@@ -21,7 +21,7 @@ Our fast track training is an intensive course, comprisong 3 x 5-day workshops (
 Our modular course comprises a series of 1, 2 or 3-day workshops, grouped into three modules. These modules are sequential and need to be taken in order, but within each level the workshops can be attended in any order.
 
 
-[See the current list of training courses and dates](/events/).
+- [See the current list of training courses and dates](/events/).
 
 
 <!--
