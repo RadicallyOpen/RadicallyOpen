@@ -22,9 +22,9 @@ We specialise in fast-track training and online support for professionals who wa
 
 
 
-#### Current studies recruiting
+#### Research studies recruiting patients
 
-Our research group are still recruiting patients with treatment resistent depression in [Dorset, Hampshire and North Wales](http://www.reframed.org.uk).
+Our research group are still recruiting patients with treatment resistent depression in Dorset, Hampshire and North Wales. [Find out how to take part or refer patients.](http://www.reframed.org.uk).
 
 
 <small>Main image: [Children's Games, Pieter Bruegel](http://en.wikipedia.org/wiki/Children's_Games_(Bruegel)).</small>
