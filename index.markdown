@@ -26,7 +26,7 @@ We specialise in fast-track training and online support for professionals who wa
 
 Our research group are still recruiting patients with treatment resistent depression in Dorset, Hampshire and North Wales.
 
-[Find out how to take part or refer patients.](http://www.reframed.org.uk).
+[Find out how to take part or refer patients.](http://www.reframed.org.uk)
 
 
 
