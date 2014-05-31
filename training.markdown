@@ -1,7 +1,7 @@
 ---
-permalink: /events/index.html
+permalink: /training/index.html
 layout: post-no-feature
-title: "Events & Training"
+title: "Training"
 tags: RO-DBT, events, training
 ---
 

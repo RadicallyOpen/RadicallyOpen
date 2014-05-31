@@ -1,17 +1,23 @@
 ---
 permalink: /about/index.html
 layout: post-no-feature
-title: ""
+title: Radically Open DBT
 tags: RO-DBT
 ---
 
 
-## Introducing Radically Open DBT {#ro-dbt}
+
+<center>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/TAWHeK5Cefg" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
 <small>Tom Lynch explains why RO-DBT was developed.</small>
 
-<hr>
+</center>
+
+<br>
 
 > Radically Open Dialectical Behaviour Therapy (RO-DBT) is a major adaptation of standard DBT for patients who suffer from emotional over-control.
 
@@ -26,7 +32,7 @@ Although Radically Open DBT (RO-DBT) builds upon many of the core principles of 
 
 - The [RO-DBT research website](http://www.radical-openness.com) has more information on the latest research and development of the treatment.
 
-- You can also [find out more about RO-DBT training](/events/)
+- You can also [find out more about RO-DBT training](/training/)
 
 
 
