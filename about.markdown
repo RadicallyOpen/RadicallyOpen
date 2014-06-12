@@ -23,16 +23,34 @@ tags: RO-DBT
 
 RO-DBT was developed at the University of Southampton for patients with chronic depression or anorexia nervosa, and [research results](http://www.radical-openness.com/research.html) suggest that it is effective in these hard-to-treat groups.
 
-RO-DBT targets emotional over-control, the mechanism underlying many *treatment-resistant conditions*. Although lack of self-control is typically considered undesirable, too much self-control can be equally problematic. Excessive self-control is associated with social isolation, poor interpersonal functioning, and severe and difficult-to-treat mental health problems, such as *anorexia nervosa*, *chronic depression*, and obsessive-compulsive personality disorder (e.g., Lynch & Cheavens, 2008; Riso et al., 2003; Zucker et al., 2007).
 
-Although Radically Open DBT (RO-DBT) builds upon many of the core principles of DBT for borderline personality disorder (Linehan, 1993) the history of DBT as a treatment for patients who lack inhibitory control demanded significant adaptations for patients with emotional over-control.  RO-DBT treatment strategies  are derived from three overlapping traits posited to be associated with emotional well-being: 1) receptivity or *openness* to disconfirming feedback; 2) *flexible-responding* to changing environmental demands, and 3) recognition that emotions evolved to *communicate* and the importance of social signaling to the formation of close interpersonal bonds.
+#### Emotional over control {#overcontrol}
 
-> In short, whereas under-controlled problems require interventions designed to enhance constraint or inhibitory control, over-controlled problems require interventions designed to relax rigid inhibitory control, and to increase emotional expressiveness, receptivity, and flexibility.
+Although self-control is often thought desirable --- and uncontrolled behaviour is often censured --- too much self-control is an underlying factor in many treatment-resistant conditions. Excessive self-control is associated with social isolation, poor interpersonal functioning, and severe and difficult-to-treat mental health problems, such as anorexia nervosa, chronic depression, and obsessive-compulsive personality disorder (e.g., Lynch & Cheavens, 2008; Riso et al., 2003; Zucker et al., 2007).
 
 
-- The [RO-DBT research website](http://www.radical-openness.com) has more information on the latest research and development of the treatment.
+#### A significant adaptation of standard DBT
 
-- You can also [find out more about RO-DBT training](/training/)
+Standard DBT was developed for patients with Borderline Personality Disorder (Linehan, 1993) and is highly effective for under-controlled patients. However, DBT is a treatment for patients who lack inhibitory control. As a consequence, RO-DBT makes substantial adaptations to meet the needs of patients who exhibit emotional over-control.
+
+
+> Some patients lack emotional control and need interventions designed to enhance constraint or inhibitory control; others require interventions designed to relax rigid or inflexible inhibitory control.
+
+Treatment strategies in RO-DBT derive from the theory that three, interrelated traits are required for emotional well-being:
+
+1. Receptivity and *openness* to feedback, even when this is challenging.
+2. *Flexibility* in our responses to changing environmental demands, and
+3. Recognition that emotions evolved to communicate, and that *expressing emotion* is an important social signal to others which helps us form close interpersonal bonds.
+
+
+
+#### A growing evidence base
+
+RO-DBT is now practised in the UK, Europe, and North America, and is increasingly recognised as effective for patients who exhibit emotional over-control.
+
+- The [RO-DBT research website](http://www.radical-openness.com) has more information on the latest research and development of the treatment, and the growing evidence base for RO-DBT in patients with chronic depression and anorexia nervosa.
+
+- [Find out more about RO-DBT training](/training/)
 
 
 

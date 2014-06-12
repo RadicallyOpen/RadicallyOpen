@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Radically Open"
-tags: blah
+tags: emotional over control, DBT, RO-DBT
 image:
     feature: bruegel.jpg
 header:
@@ -14,7 +14,7 @@ footertext: "Main image [Children's Games, Pieter Bruegel](http://en.wikipedia.o
 
 ### Training, supervision and support for patients, carers, and health professionals.
 
-We specialise in fast-track training and online support for professionals who want to develop Radically Open DBT services, or enhance their existing practice, for patients with emotional over-control.
+We specialise in fast-track training and online support for professionals who want to develop Radically Open DBT services, or enhance their existing practice, for patients with [emotional over-control](/about/#overcontrol).
 
 - [Find out more about the Radically Open DBT treatment](/about/)
 - [More about our training courses for health professionals](/professionals/)
@@ -22,16 +22,8 @@ We specialise in fast-track training and online support for professionals who wa
 
 
 
-### Studies recruiting patients now
-
-Our research group are recruiting patients with treatment resistent depression to a trial of RO-DBT in Dorset, Hampshire, and North Wales.
-
-- [Find out how to take part or refer patients.](http://www.reframed.org.uk)
-
-
-
-
 <hr>
+
 <small>Main image: [Children's Games, Pieter Bruegel](http://en.wikipedia.org/wiki/Children's_Games_(Bruegel)).</small>
 
 
