@@ -26,7 +26,7 @@ RO-DBT was developed at the University of Southampton for patients with chronic 
 
 #### Emotional over control {#overcontrol}
 
-Although self-control is often thought desirable --- and uncontrolled behaviour is often censured --- too much self-control is an underlying factor in many treatment-resistant conditions. Excessive self-control is associated with social isolation, poor interpersonal functioning, and severe and difficult-to-treat mental health problems, such as anorexia nervosa, chronic depression, and obsessive-compulsive personality disorder (e.g., Lynch & Cheavens, 2008; Riso et al., 2003; Zucker et al., 2007).
+Although 'self-control' is thought desirable---and uncontrolled behaviour is often censured---self-control is an underlying factor in many treatment-resistant conditions. Excessive self-control is associated with social isolation, poor interpersonal functioning, and can result in severe and difficult-to-treat mental health problems, such as anorexia nervosa, chronic depression, and obsessive-compulsive personality disorder (e.g., Lynch & Cheavens, 2008; Riso et al., 2003; Zucker et al., 2007).
 
 
 #### A significant adaptation of standard DBT
@@ -50,7 +50,9 @@ RO-DBT is now practised in the UK, Europe, and North America, and is increasingl
 
 - The [RO-DBT research website](http://www.radical-openness.com) has more information on the latest research and development of the treatment, and the growing evidence base for RO-DBT in patients with chronic depression and anorexia nervosa.
 
-- [Find out more about RO-DBT training](/training/)
+- [Find out more about RO-DBT training for health professionals](/professionals/)
+
+- [Check the latest dates for fast-track and modular training](/training/)
 
 
 
