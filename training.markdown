@@ -17,3 +17,9 @@ Over the next few months we will be adding further training days in the UK and E
 
 <span class="icon-twitter"></span> follow [@radicallyopen](http://twitter.com/{{ site.owner.twitter }}") on Twitter for updates to training dates.
 
+
+
+
+
+
+
