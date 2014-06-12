@@ -6,14 +6,16 @@ tags: research ro-dbt training
 ---
 
 
-
 ### Training Pathways
 
-There are 2 training pathways in RO-DBT and 4 levels of proficiency: Certificates of Attendance will be given to everyone who completes a training module, and attendees also have the opportunity of Certification. Certification requires the submission of homework assignments demonstrating an understanding of the material taught. Therapist can only progress to proficiency levels 3 and 4 if they have achieved Certification at levels 1 and 2.
+We offer 2 training pathways in RO-DBT, leading to four levels of proficiency: a series of week-long fast-track workshops, and a modular programme of 1-day workshops.
 
-#### Fast track {#fast}
+Certificates of attendance are issued for all training modules. In addition, by submitting homework assignments to demonstrate their understanding of the material taught, fast-track attendees have the opportunity of to register for certification as an RO-DBT practioner.
 
-Our fast track training is an intensive course, comprisong 3 x 5-day workshops (Parts I, II and III). These are sequential, must be taken in order. Practitioners will be able to progress to advanced level training if they have attained certification in all 3 workshops.
+
+#### Fast-track {#fast}
+
+Our fast-track training is an intensive programme of 3 x 5-day workshops. The workshops are sequential, and must be taken in order. After completing the fast-track training, practitioners may choose to progress to advanced level training and supervision.
 
 
 #### Modular {#modular}
