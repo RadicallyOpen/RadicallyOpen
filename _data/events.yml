@@ -8,25 +8,15 @@
   to: 2014-05-02
   location: Seattle, USA
 
+
+
+
 - name: Fast-track
   part: 2
   from: 2014-09-15
   to: 2014-09-19
-  location: Seattle, USA
-
-
-- name: RO-101 (Introduction to RO-DBT)
-  part: 1
-  from: 2014-11-8
-  location: London
-
-
-- name: Fast-track
-  part: 1
-  from: 2015-04-28
-  to: 2015-05-02
-  added: 2014-05-21
   location: Southampton, UK
+
 
 - name: Fast-track
   part: 2
@@ -34,6 +24,14 @@
   to: 2015-03-27
   added: 2014-05-21
   location: Southampton, UK
+
+
+
+- name: RO-101 (Introduction to RO-DBT)
+  part: 1
+  from: 2014-11-8
+  location: London
+
 
 
 - name: Fast-track
