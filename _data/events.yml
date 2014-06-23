@@ -12,7 +12,7 @@
 
 
 - name: Fast-track
-  part: 2
+  part: 1
   from: 2014-09-15
   to: 2014-09-19
   location: Southampton, UK
@@ -24,6 +24,8 @@
   to: 2015-03-27
   added: 2014-05-21
   location: Southampton, UK
+
+
 
 
 
@@ -46,6 +48,9 @@
   to: 2015-06-12
   location: San Francisco, USA
 
+
+
+
 - name: Fast-track
   part: 1
   from: 2015-03-02
@@ -57,6 +62,9 @@
   from: 2015-10-05
   to: 2015-10-09
   location: Exeter, UK
+
+
+
 
 
 - name: Modular
@@ -76,6 +84,8 @@
   from: 2015-10-22
   to: 2015-10-26
   location: Munich, Germany
+
+
 
 
 - name: Fast-track
