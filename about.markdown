@@ -52,7 +52,7 @@ RO-DBT is now practised in the UK, Europe, and North America, and is increasingl
 
 - [Find out more about RO-DBT training for health professionals](/professionals/)
 
-- [Check the latest dates for fast-track and modular training](/training/)
+- [Check the latest dates for intensive and modular training](/training/)
 
 
 

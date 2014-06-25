@@ -2,7 +2,7 @@
 # listings pages
 
 
-- name: Fast-track
+- name: Intensive
   part: 1
   from: 2014-04-28
   to: 2014-05-02
@@ -11,14 +11,14 @@
 
 
 
-- name: Fast-track
+- name: Intensive
   part: 1
   from: 2014-09-15
   to: 2014-09-19
   location: Southampton, UK
 
 
-- name: Fast-track
+- name: Intensive
   part: 2
   from: 2015-03-23
   to: 2015-03-27
@@ -36,13 +36,13 @@
 
 
 
-- name: Fast-track
+- name: Intensive
   part: 1
   from: 2015-02-02
   to: 2015-02-06
   location: San Francisco, USA
 
-- name: Fast-track
+- name: Intensive
   part: 2
   from: 2015-06-08
   to: 2015-06-12
@@ -51,13 +51,13 @@
 
 
 
-- name: Fast-track
+- name: Intensive
   part: 1
   from: 2015-03-02
   to: 2015-03-06
   location: Exeter, UK
 
-- name: Fast-track
+- name: Intensive
   part: 2
   from: 2015-10-05
   to: 2015-10-09
@@ -88,13 +88,13 @@
 
 
 
-- name: Fast-track
+- name: Intensive
   part: 1
   from: 2015-06-22
   to: 2015-06-26
   location: New York, USA
 
-- name: Fast-track
+- name: Intensive
   part: 2
   from: 2015-12-02
   to: 2015-12-05

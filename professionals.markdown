@@ -8,14 +8,14 @@ tags: research ro-dbt training
 
 ### Training Pathways
 
-We offer 2 training pathways in RO-DBT, leading to four levels of proficiency: a series of week-long fast-track workshops, and a modular programme of 1-day workshops.
+We offer 2 training pathways in RO-DBT, leading to four levels of proficiency: a series of week-long intensive workshops, and a modular programme of 1-day workshops.
 
-Certificates of attendance are issued for all training modules. In addition, by submitting homework assignments to demonstrate their understanding of the material taught, fast-track attendees have the opportunity of to register for certification as an RO-DBT practioner.
+Certificates of attendance are issued for all training modules. In addition, by submitting homework assignments to demonstrate their understanding of the material taught, intensive course attendees have the opportunity of to register for certification as an RO-DBT practioner.
 
 
-#### Fast-track {#fast}
+#### Intensive {#intensive}
 
-Our fast-track training is an intensive programme of 3 x 5-day workshops. The workshops are sequential, and must be taken in order. After completing the fast-track training, practitioners may choose to progress to advanced level training and supervision.
+Our intensive training is a fast-track programme of 3 x 5-day workshops. The workshops are sequential, and must be taken in order. After completing the intensive training, practitioners may choose to progress to advanced level training and supervision.
 
 
 #### Modular {#modular}
@@ -69,11 +69,3 @@ Total 5 days.
 
 
 
-
-
-
-<!-- ### The RO-DBT treatment manual
-
-The RO-DBT treatment manual is forthcoming from Guilford Press. A working draft of the book is available for all fast-track attendees.
-
- -->
