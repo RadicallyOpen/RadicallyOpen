@@ -1,15 +1,15 @@
 title:            RadicallyOpen
 tagline:          Radically Open; Training, supervision, and support for patients, carers, and health professionals.
 description:      We specialise in intensive training and online support for professionals who want to develop Radically Open DBT services, or enhance their existing practice for patients with emotional over-control.
-#Comment out url when working locally to resolve base urls correctly
-# url: http://jekyll.gtat.me
 
 
 # Owner/author information
 owner:
+  email:  web@radicallyopen.net
   name:           Ben Whalley
   twitter:        radicallyopen
   disqus:         None
+  location: Winchester, UK
   google_analytics:
     key: "UA-51230909-1"
     domain: "radicallyopen.net"
