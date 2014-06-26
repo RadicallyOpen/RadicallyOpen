@@ -12,6 +12,8 @@ tags: RO-DBT
 
 We are now offering intensive training in Radically Open DBT, in the UK, Europe and USA. The course is designed for practising clinical psychologists, psychotherapists, mental health nurses and other health professionals.
 
+Our courses are engaging and hands on — we leave you with the skills and confidence to use RO-DBT in your practice, and explain the treatment to your wider team.
+
 Our next date is in Southampton, running from the 15th to the 19th of September, 2014.
 
 
