@@ -3,22 +3,9 @@
     <aside class="wrap">
 
 
-      <ol class="prev-posts">
-
-
-        <!--
-        <p class="list-title">Recent Posts</p>
-        {% for post in site.posts | limit:3 %} <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | strip_html | strip_newlines | truncate: 30 }} </a></span>
-              <span class="date">{{post.date | date: "%b %d, %Y" }}</span>
-            </li>
-        {% endfor %}
-      -->
-      </ol>
-
       <div class="social">
         <ul>
+            <li><a href="/cookies.html">Privacy policy</a></li>
             {% if site.owner.twitter %}
             <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank"><span class="foot-link">@{{ site.owner.twitter }}</span></a> <span class="icon-twitter"></span></li>
             {% endif %}
@@ -42,7 +29,7 @@
 
 
   {% if site.owner.google_analytics %}
-  <script>
+  <script type="text/javascript" class="cc-onconsent-social">
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -52,6 +39,33 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
+
+  <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+  <link rel="stylesheet" type="text/css" href="https://s3-eu-west-1.amazonaws.com/assets.cookieconsent.silktide.com/current/style.min.css"/>
+  <script type="text/javascript" src="https://s3-eu-west-1.amazonaws.com/assets.cookieconsent.silktide.com/current/plugin.min.js"></script>
+  <script type="text/javascript">
+  // <![CDATA[
+  cc.initialise({
+    cookies: {
+      social: {},
+      analytics: {},
+      necessary: {}
+    },
+    settings: {
+      consenttype: "implicit",
+      onlyshowbanneronce: true,
+      disableallsites: true,
+      tagPosition: "bottom-right",
+      hideallsitesbutton: true,
+      hideprivacysettingstab: true,
+      useSSL: true
+    }
+  });
+  // ]]>
+  </script>
+  <!-- End Cookie Consent plugin -->
+
+
 
   </body>
 </html>
