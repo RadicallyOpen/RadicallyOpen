@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9.3//EN
+N:;;;;
+FN:RadicallyOpen
+ORG:RadicallyOpen;
+EMAIL;type=INTERNET;type=WORK;type=pref:info@radicallyopen.net
+TEL;type=MAIN;type=pref:+4423 8000 1543
+ADR;type=HOME;type=pref:;Baybridge Park;The Lodge;Owslebury;;SO21 1JN;UK
+X-ABShowAs:COMPANY
+UID:3e13a796-0b38-4e6e-a0c4-01f773833cb6
+X-ABUID:3E13A796-0B38-4E6E-A0C4-01F773833CB6:ABPerson
+END:VCARD

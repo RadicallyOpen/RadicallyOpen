@@ -19,7 +19,7 @@ Our next date is in Southampton, running from the 15th to the 19th of September,
 
 - [Check the latest dates for intensive and modular training](/training/)
 
-- [For booking, contact Erica Smith on +44 (0)7584 574526](/contact/)
+- [For booking, contact Erica Smith on +44 (0)23 8000 1543](/contact/)
 
 
 
