@@ -6,7 +6,7 @@ tags: RO-DBT
 ---
 
 
-For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or call on +44 (0)23 8000 1543. Tweet us <a id="twit" href="http://twitter.com/{{ site.owner.twitter }}"><span class="foot-link">@{{ site.owner.twitter }}</span></a>
+For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or call on +44 (0)7584 574526. Tweet us <a id="twit" href="http://twitter.com/{{ site.owner.twitter }}"><span class="foot-link">@{{ site.owner.twitter }}</span></a>
 
 
 

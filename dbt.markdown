@@ -21,7 +21,7 @@ We are now offering intensive training in Radically Open DBT in the UK. The 5-da
 Our next date is in Southampton, running from the 15th to the 19th of September, 2014.
 
 
-- [To book a place, contact Erica Smith on +44 (0)23 8000 1543](/contact/)
+- [To book a place, contact Erica Smith on +44 (0)7584 574526](/contact/)
 
 - [More details on RO-DBT training for health professionals](/professionals/)
 
