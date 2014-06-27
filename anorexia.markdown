@@ -11,7 +11,7 @@ tags: RO-DBT
 
 RO-DBT was developed at the University of Southampton for patients with disorders of emotional over-control, and the treatment was informed by our clinical partners at the [Haldon Eating Disorders Unit](http://www.devonpartnership.nhs.uk/The-Haldon.474.0.html) in Exeter.
 
-Our approach to treating anorexia is novel. In the video below, XXX explains the effect of RO-DBT on patients and staff at the Haldon Unit:
+Our approach to treating anorexia is novel. In the video below we show the effect of RO-DBT on patients and staff at the Haldon Unit:
 
 <center>
 
