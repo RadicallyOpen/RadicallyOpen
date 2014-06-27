@@ -1,7 +1,7 @@
 ---
 permalink: /cookies.html
 layout: post-no-feature
-title: Our privay and cookie policy
+title: Our privacy and cookie policy
 tags: Cookies
 ---
 
