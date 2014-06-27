@@ -9,8 +9,9 @@
 {% assign addedtime = addedtime | plus: 0 %}
 {% assign inonemonth = nowunix | plus: 60*60*24*30 %}
 
-  <li {% if dateofevent < nowunix %}style="text-decoration:line-through;"{% endif %}>
-      <a href="/professionals/">
+  {% if dateofevent > nowunix %}
+  <li>
+      <a href="/events/{{event.slug}}.html">
         {{ event.name }} {% if event.part %}part {{event.part}}{% endif %}
       </a>
 
@@ -29,5 +30,6 @@
     </a>
 
   </li>
+  {% endif %}
 {% endfor %}
 </ul>
