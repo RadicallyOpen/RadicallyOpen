@@ -8,7 +8,7 @@ tags: RO-DBT
 
 ![](/images/presentation.png)
 
-[Radically Open Dialectical Behaviour Therapy (RO-DBT)](/about/) is a major adaptation of standard DBT for patients who suffer from emotional over-control. RO-DBT was developed at the University of Southampton for patients with chronic depression and anorexia nervosa, and [research results](http://www.radical-openness.com/research.html) suggest that it is effective in these hard-to-treat groups.
+[Radically Open Dialectical Behaviour Therapy (RO-DBT)](/about/) is a major adaptation of standard DBT for patients who suffer from emotional over-control. RO-DBT was developed over the past 20 years, in labs in the US and UK, for patients with chronic depression and anorexia nervosa, and [research results](http://www.radical-openness.com/research.html) suggest that it is effective in these hard-to-treat groups.
 
 We are now offering intensive training in Radically Open DBT, in the UK, Europe and USA. The course is designed for practising clinical psychologists, psychotherapists, mental health nurses and other health professionals.
 

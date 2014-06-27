@@ -9,12 +9,11 @@
   location: Seattle, USA
 
 
-
-
 - name: Intensive
   part: 1
   from: 2014-09-15
   to: 2014-09-19
+  added: 2014-05-21
   location: Southampton, UK
 
 
@@ -22,15 +21,14 @@
   part: 2
   from: 2015-03-23
   to: 2015-03-27
-  added: 2014-05-21
+  added: 2014-01-21
   location: Southampton, UK
 
 
 
 
 
-- name: RO-101 (Introduction to RO-DBT)
-  part: 1
+- name: Introduction to RO-DBT
   from: 2014-11-8
   location: London
 
@@ -40,13 +38,13 @@
   part: 1
   from: 2015-02-02
   to: 2015-02-06
-  location: San Francisco, USA
+  location: West Coast, USA
 
 - name: Intensive
   part: 2
   from: 2015-06-08
   to: 2015-06-12
-  location: San Francisco, USA
+  location: West Coast, USA
 
 
 
@@ -67,19 +65,19 @@
 
 
 
-- name: Modular
+- name: Mini-intensive
   part: 1
   from: 2015-05-1
   to: 2015-05-4
   location: Munich, Germany
 
-- name: Modular
+- name: Mini-intensive
   part: 2
   from: 2015-07-10
   to: 2015-07-13
   location: Munich, Germany
 
-- name: Modular
+- name: Mini-intensive
   part: 3
   from: 2015-10-22
   to: 2015-10-26
@@ -92,12 +90,12 @@
   part: 1
   from: 2015-06-22
   to: 2015-06-26
-  location: New York, USA
+  location: East Coast, USA
 
 - name: Intensive
   part: 2
   from: 2015-12-02
   to: 2015-12-05
-  location: New York, USA
+  location: East Coast, USA
 
 

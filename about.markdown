@@ -9,7 +9,7 @@ tags: RO-DBT
 
 <center>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/TAWHeK5Cefg" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="315" src="//www.youtube.com/embed/TAWHeK5Cefg" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
@@ -21,7 +21,7 @@ tags: RO-DBT
 
 > Radically Open Dialectical Behaviour Therapy (RO-DBT) is a major adaptation of standard DBT for patients who suffer from emotional over-control.
 
-RO-DBT was developed at the University of Southampton for patients with chronic depression or anorexia nervosa, and [research results](http://www.radical-openness.com/research.html) suggest that it is effective in these hard-to-treat groups.
+RO-DBT was developed over the past 20 years, in labs in the US and UK, for patients with chronic depression or anorexia nervosa, and [research results](http://www.radical-openness.com/research.html) suggest that it is effective in these, and other, hard-to-treat groups.
 
 
 #### Emotional over control {#overcontrol}
@@ -31,7 +31,7 @@ Although 'self-control' is thought desirable---and uncontrolled behaviour is oft
 
 #### A significant adaptation of standard DBT
 
-Standard DBT was developed for patients with Borderline Personality Disorder (Linehan, 1993) and is highly effective for under-controlled patients. However, DBT is a treatment for patients who lack inhibitory control. As a consequence, RO-DBT makes substantial adaptations to meet the needs of patients who exhibit emotional over-control.
+Standard DBT was developed for patients with Borderline Personality Disorder (Linehan, 1993) and is highly effective for these under-controlled patients. Nonetheless, DBT is a treatment for patients who lack inhibitory control; as a consequence, RO-DBT makes substantial adaptations to meet the needs of patients who exhibit emotional over-control.
 
 
 > Some patients lack emotional control and need interventions designed to enhance constraint or inhibitory control; others require interventions designed to relax rigid or inflexible inhibitory control.
