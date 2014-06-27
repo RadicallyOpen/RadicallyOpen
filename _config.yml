@@ -1,4 +1,4 @@
-title:            RadicallyOpen
+title:            Radically Open
 tagline:          Radically Open; Training, supervision, and support for patients, carers, and health professionals.
 description:      We specialise in intensive training and online support for professionals who want to develop Radically Open DBT services, or enhance their existing practice for patients with emotional over-control.
 
@@ -55,3 +55,8 @@ permalink:   /:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+
+intensive_generic_description: Our intensive training is a two-part fast-track programme, consistening of 2 x 5-day workshops. After completing the intensive training, practitioners may choose to progress to advanced level training and supervision.
+
+
