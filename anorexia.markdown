@@ -20,7 +20,7 @@ Our approach to treating anorexia is novel. In the video below we show the effec
 </center>
 
 
-[Research results](http://www.radical-openness.com/research.html) suggest that RO-DBT  is effective in patients with anorexia, and leads to sustained gains in weight.
+[Research results](http://www.southampton.ac.uk/psychology/research/groups/emotion_and_personality_bio_behavioural_laboratory.page) suggest that RO-DBT  is effective in patients with anorexia, and leads to sustained gains in weight.
 
 
 ### Intensive training in RO-DBT
