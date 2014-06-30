@@ -2,13 +2,11 @@
 layout: post-no-feature
 from: 2014-11-8
 location: London
-venue: TBC
+venue: Birbeck College, University of London
 title: "An Introduction to Radically Open DBT"
 ---
 
 ### {{page.location}}, {{page.from|date: '%B %-d, %Y'}}
-
-
 
 
 #### Overview
@@ -28,4 +26,4 @@ title: "An Introduction to Radically Open DBT"
 
 #### Venue: {{page.venue}}
 
-TBC
+For travel see: http://www.bbk.ac.uk/maps/directions-central

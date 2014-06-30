@@ -12,6 +12,7 @@ tags: RO-DBT introduction
 
 ### Course Objectives
 
+- Overview of treatment structure
 - Recognise a new biosocial theory for OC and new RO-DBT treatment strategies designed
 to enhance willingness for self- inquiry and flexible responding
 - Identify new skills designed to enhance intimate relationships and vulnerable expression of emotion, learn from critical feedback, and enhance loving- kindness-forgiveness.
