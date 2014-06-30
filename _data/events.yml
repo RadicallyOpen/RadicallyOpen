@@ -7,97 +7,82 @@
   from: 2014-04-28
   to: 2014-05-02
   location: Seattle, USA
+  hide: true
 
 
 - name: Intensive
   part: 1
-  from: 2014-09-15
-  to: 2014-09-19
+  parts:
+      - 1:
+        from: 2014-09-15
+        to: 2014-09-19
+      - 2:
+        from: 2015-03-23
+        to: 2015-03-27
   added: 2014-05-21
   slug: 2014-september-intensive
   location: Southampton, UK
 
 
-- name: Intensive
-  part: 2
-  from: 2015-03-23
-  to: 2015-03-27
-  added: 2014-01-21
-  slug: 2014-september-intensive
-  location: Southampton, UK
-
-
-
-
-
 - name: Introduction to RO-DBT
-  from: 2014-11-8
+  slug: 2014-london-introduction
+  parts:
+    - 1:
+      from: 2014-11-8
   location: London
 
 
-
 - name: Intensive
-  part: 1
-  from: 2015-02-02
-  to: 2015-02-06
+  slug: 2015-february-westcoast
   location: West Coast, USA
+  parts:
+    - 1:
+      from: 2015-02-02
+      to: 2015-02-06
+    - 2:
+      from: 2015-06-08
+      to: 2015-06-12
+
 
 - name: Intensive
-  part: 2
-  from: 2015-06-08
-  to: 2015-06-12
-  location: West Coast, USA
-
-
-
-
-- name: Intensive
-  part: 1
-  from: 2015-03-02
-  to: 2015-03-06
+  slug: 2015-march-haldon-intensive
   location: Exeter, UK
-
-- name: Intensive
-  part: 2
-  from: 2015-10-05
-  to: 2015-10-09
-  location: Exeter, UK
-
-
-
+  parts:
+      - 1:
+        from: 2014-09-15
+        to: 2014-09-19
+      - 2:
+        from: 2015-10-05
+        to: 2015-10-09
 
 
 - name: Mini-intensive
-  part: 1
-  from: 2015-05-1
-  to: 2015-05-4
+  slug: 2015-may-germany
   location: Munich, Germany
+  parts:
+    - 1:
+      from: 2015-05-1
+      to: 2015-05-4
 
-- name: Mini-intensive
-  part: 2
-  from: 2015-07-10
-  to: 2015-07-13
-  location: Munich, Germany
+    - 2:
+      from: 2015-07-10
+      to: 2015-07-13
 
-- name: Mini-intensive
-  part: 3
-  from: 2015-10-22
-  to: 2015-10-26
-  location: Munich, Germany
+    - 3:
+      from: 2015-10-22
+      to: 2015-10-26
 
 
 
 
 - name: Intensive
-  part: 1
-  from: 2015-06-22
-  to: 2015-06-26
+  slug: 2015-june-eastcoast
+  parts:
+    - 1:
+      from: 2015-06-22
+      to: 2015-06-26
+    - 2:
+      from: 2015-12-02
+      to: 2015-12-05
   location: East Coast, USA
-
-- name: Intensive
-  part: 2
-  from: 2015-12-02
-  to: 2015-12-05
-  location: East Coast, USA
-
 

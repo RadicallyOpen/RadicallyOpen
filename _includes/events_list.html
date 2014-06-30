@@ -1,4 +1,5 @@
-<ul>
+
+
 {% for event in site.data.events %}
 
 {% capture nowunix %}{{site.time| date: '%s'}}{% endcapture %}
@@ -9,27 +10,31 @@
 {% assign addedtime = addedtime | plus: 0 %}
 {% assign inonemonth = nowunix | plus: 60*60*24*30 %}
 
-  {% if dateofevent > nowunix %}
-  <li>
-      <a href="/events/{{event.slug}}.html">
-        {{ event.name }} {% if event.part %}part {{event.part}}{% endif %}
-      </a>
 
-    {% if event.added and addedtime < inonemonth %}
-        (NEW DATE!)
-    {% endif %}
+{% if event.hide %}{%else%}
 
-    <br>
-      {% if event.to %}
-        {{event.from|date: '%-d %B'}} to {{event.to|date: '%-d %B, %Y'}}
-        {% else %}
-        on {{event.from|date: '%-d %B, %Y'}}
-      {% endif %}
-      <div style="float:right;"><small>{{ event.location }}
-      </small></div>
-    </a>
+<h4>
+  <a href="/events/{{event.slug}}.html">
+    {{event.name}}, {{event.location}}
+  </a>
+</h4>
 
-  </li>
+
+
+<ul>
+  {% for part in event.parts %}
+<li>
+  {% if part.to %}
+    {{part.from|date: '%-d %B'}} to {{part.to|date: '%-d %B, %Y'}}
+    {% if forloop.length > 1 %}(part {{forloop.index}}){% endif %}
+    {% else %}
+    {{part.from|date: '%-d %B, %Y'}}
   {% endif %}
+</li>
 {% endfor %}
+
 </ul>
+
+{% endif %}
+{% endfor %}
+

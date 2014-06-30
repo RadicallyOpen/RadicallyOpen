@@ -1,18 +1,19 @@
 ---
 layout: post-no-feature
+when: June and December, 2015
 part1:
-    from: 2014-09-15
-    to: 2014-09-19
+    from: 2015-06-22
+    to: 2015-06-26
 part2:
-    to: 2015-03-27
-    added: 2014-01-21
-location: Southampton
-venue: University of Southampton
-title: "RO-DBT Intensive Southampton"
+    from: 2015-12-02
+    to: 2015-12-05
+location: East Coast, USA
+venue: TBC
+title: "RO-DBT Intensive, East Coast, USA"
 ---
 
 
-### {{page.part1.from|date: '%B %Y'}}  and {{page.part2.from|date: '%B %Y'}}
+### {{page.when}}
 
 Part 1:
     {{page.part1.from|date: '%-d %B'}} to {{page.part1.to|date: '%-d %B, %Y'}}
@@ -42,9 +43,4 @@ Prices are for the complete 10 day intensive workshop (2 x 5 days).
 
 #### Travel information
 
-[Information on travelling to the campus](http://www.southampton.ac.uk/visitus/campuses/highfield.html) is available on the university website.
-
-
-
-
-
+TBC
