@@ -1,5 +1,6 @@
 ---
 layout: post-no-feature
+when: Sept 2014 and March 2015
 part1:
     from: 2014-09-15
     to: 2014-09-19
@@ -12,7 +13,7 @@ title: "RO-DBT Intensive Southampton"
 ---
 
 
-### {{page.part1.from|date: '%B %Y'}}  and {{page.part2.from|date: '%B %Y'}}
+### {{page.location}}, {{page.when}}
 
 Part 1:
     {{page.part1.from|date: '%-d %B'}} to {{page.part1.to|date: '%-d %B, %Y'}}

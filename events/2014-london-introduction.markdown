@@ -6,7 +6,7 @@ venue: TBC
 title: "An Introduction to Radically Open DBT"
 ---
 
-### {{page.from|date: '%B %-d, %Y'}}
+### {{page.location}}, {{page.from|date: '%B %-d, %Y'}}
 
 
 

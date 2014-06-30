@@ -12,7 +12,7 @@ title: "RO-DBT Intensive Exeter"
 ---
 
 
-### {{page.part1.from|date: '%B %Y'}}  and {{page.part2.from|date: '%B %Y'}}
+### {{page.location}}, {{page.part1.from|date: '%B %Y'}}  and {{page.part2.from|date: '%B %Y'}}
 
 Part 1:
     {{page.part1.from|date: '%-d %B'}} to {{page.part1.to|date: '%-d %B, %Y'}}
