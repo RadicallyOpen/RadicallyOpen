@@ -5,15 +5,15 @@ part1:
     from: 2014-09-15
     to: 2014-09-19
 part2:
+    from: 2015-03-23
     to: 2015-03-27
-    added: 2014-01-21
 location: Southampton
 venue: University of Southampton
 title: "RO-DBT Intensive Southampton"
 ---
 
 
-### {{page.location}}, {{page.when}}
+### {{page.venue}}, {{page.when}}
 
 Part 1:
     {{page.part1.from|date: '%-d %B'}} to {{page.part1.to|date: '%-d %B, %Y'}}
@@ -41,7 +41,7 @@ Prices are for the complete 10 day intensive workshop (2 x 5 days).
 
 > {{site.forbooking}}
 
-#### Travel information
+#### Travel information to {{page.venue}}
 
 [Information on travelling to the campus](http://www.southampton.ac.uk/visitus/campuses/highfield.html) is available on the university website.
 
