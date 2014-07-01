@@ -4,6 +4,10 @@ title: "RO-DBT Intensive Daily Schedule"
 ---
 
 
+The following is an *indicative* schedule for fast track training events. The exact running order may be subject to amendment and change, but this timetable gives a good feel for the scope and depth of the material covered in the 10 days --- this really is an intensive course!
+
+
+
 ## Part 1
 
 ### Day One
