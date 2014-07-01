@@ -428,9 +428,15 @@ header.site-header {
   width: 100%;
   z-index: 5000;
 }
+
+.post-header h1 {
+  margin-left:-.5em;
+}
+
 header.site-header .wrap {
   max-width: 90vw;
 }
+
 
 #bump .darken a {
   color: #3b3b3b;
