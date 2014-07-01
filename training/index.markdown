@@ -8,8 +8,6 @@ tags: RO-DBT, events, training
 ### Forthcoming workshops and training events
 
 
-Over the next few months we will be adding further training days in the UK and Europe. To book places please contact [Erica Smith](mailto:{{site.bookings.email}}).
-
 
 {% include events_list.html %}
 

@@ -2,7 +2,7 @@
 # listings pages
 
 
-- name: Intensive
+- name: Intensive workshop
   part: 1
   from: 2014-04-28
   to: 2014-05-02
@@ -10,7 +10,7 @@
   hide: true
 
 
-- name: Intensive
+- name: Intensive workshop
   part: 1
   parts:
       - 1:
@@ -32,7 +32,7 @@
   location: London
 
 
-- name: Intensive
+- name: Intensive workshop
   slug: 2015-february-westcoast
   location: West Coast, USA
   parts:
@@ -44,7 +44,7 @@
       to: 2015-06-12
 
 
-- name: Intensive
+- name: Intensive workshop
   slug: 2015-march-haldon-intensive
   location: Exeter, UK
   parts:
@@ -63,19 +63,15 @@
     - 1:
       from: 2015-05-1
       to: 2015-05-4
-
     - 2:
       from: 2015-07-10
       to: 2015-07-13
-
     - 3:
       from: 2015-10-22
       to: 2015-10-26
 
 
-
-
-- name: Intensive
+- name: Intensive workshop
   slug: 2015-june-eastcoast
   parts:
     - 1:

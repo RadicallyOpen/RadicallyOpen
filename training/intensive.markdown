@@ -27,7 +27,12 @@ This intensive training provides a strong foundation in the theory and practice 
 - Micro-analytic supervision
 
 Delegates are required to read two texts prior to the course and to undertake written and practical assignments between parts 1 and 2. Delegates are encouraged to attend in teams, but individual practitioners who attend without a team will be encouraged to form study groups for the duration for the course.
+
+> Previous training  in DBT is not a requirement for the RO-DBT intensive.
+
 Apart from a professional qualification in a mental health or related field there are no further prerequisites for the course, and it is not necessary for participants to have had any previous DBT training.
+
+
 
 
 [See the latest dates for training and book a place](/events/)
