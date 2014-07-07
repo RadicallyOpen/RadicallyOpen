@@ -2,6 +2,8 @@ title:            Radically Open
 tagline:          Radically Open; Training, supervision, and support for patients, carers, and health professionals.
 description:      Training, supervision and support for patients, carers, and health professionals. We specialise in intensive training and online support for professionals who want to develop Radically Open DBT services, or enhance their existing practice for patients with emotional over-control.
 
+url: http://www.radicallyopen.net
+
 gems:
   - jekyll-redirect-from
 
