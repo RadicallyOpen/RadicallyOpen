@@ -3,6 +3,7 @@ permalink: /professionals/index.html
 layout: post-no-feature
 title: "Health professionals"
 tags: research ro-dbt training
+description: Information for professionals wishing to train in RO-DBT.
 ---
 
 
