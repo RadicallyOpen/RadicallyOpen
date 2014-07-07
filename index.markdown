@@ -11,7 +11,6 @@ footertext: "Main image [Children's Games, Pieter Bruegel](http://en.wikipedia.o
 redirect_from:
   - /radical-openness.html
   - /professor-lynch.markdown
-  -
 ---
 
 {{site.people}}
