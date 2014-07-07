@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "RO-DBT Intensive Daily Schedule"
+title: "Daily schedule: RO-DBT intensive Training course."
 ---
 
 

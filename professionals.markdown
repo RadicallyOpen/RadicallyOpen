@@ -1,7 +1,7 @@
 ---
 permalink: /professionals/index.html
 layout: post-no-feature
-title: "Health professionals"
+title: "Training in Radically Open DBT for health professionals (RO-DBT)"
 tags: research ro-dbt training
 description: Information for professionals wishing to train in RO-DBT.
 ---

@@ -9,7 +9,7 @@ part2:
     to: 2015-06-12
 location: West Coast, USA
 venue: TBC
-title: "RO-DBT Intensive, West Coast, USA"
+title: "RO-DBT intensive training course, West Coast USA, 2015"
 ---
 
 

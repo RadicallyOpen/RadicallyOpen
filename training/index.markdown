@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "Training"
+title: "Forthcoming training events in Radically Open DBT (RO-DBT)"
 tags: RO-DBT, events, training
 ---
 

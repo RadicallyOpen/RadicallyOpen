@@ -9,7 +9,7 @@ part2:
     to: 2015-03-27
 location: Southampton
 venue: University of Southampton
-title: "RO-DBT Intensive Southampton"
+title: "RO-DBT intensive training course, Southampton UK, 2014-2015"
 ---
 
 

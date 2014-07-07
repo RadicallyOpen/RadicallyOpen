@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: An introduction to Radically Open DBT
+title: Introductory training course in Radically Open DBT (RO-DBT).
 tags: RO-DBT introduction
 ---
 

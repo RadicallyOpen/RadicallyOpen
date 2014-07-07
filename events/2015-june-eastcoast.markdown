@@ -9,7 +9,7 @@ part2:
     to: 2015-12-05
 location: East Coast, USA
 venue: TBC
-title: "RO-DBT Intensive, East Coast, USA"
+title: "RO-DBT intensive training course, East Coast USA, 2015"
 ---
 
 

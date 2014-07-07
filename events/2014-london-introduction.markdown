@@ -3,7 +3,7 @@ layout: post-no-feature
 from: 2014-11-8
 location: London
 venue: Birbeck College, University of London
-title: "An Introduction to Radically Open DBT"
+title: "RO-DBT introductory training course, 1-day, London, 2014"
 ---
 
 ### {{page.location}}, {{page.from|date: '%B %-d, %Y'}}

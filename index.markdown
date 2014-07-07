@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "Radically Open"
+title: "Radically Open Ltd. Training, supervision and support in Radically Open DBT (RO-DBT)."
 tags: emotional over control, DBT, RO-DBT
 image:
     feature: bruegel.jpg
