@@ -4,6 +4,8 @@ layout: post-no-feature
 title: "Patients & carers"
 tags: RO-DBT
 description: Information for patients and carers interested in RO-DBT
+redirect_from:
+  - /patientscarers.html
 ---
 
 
