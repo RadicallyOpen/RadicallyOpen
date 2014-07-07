@@ -1,8 +1,9 @@
 ---
-permalink: /intensive.html
 layout: post-no-feature
 title: Intensive training in Radically Open DBT
 tags: RO-DBT
+redirect_from:
+  - /intensive.html
 ---
 
 

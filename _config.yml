@@ -2,6 +2,9 @@ title:            Radically Open
 tagline:          Radically Open; Training, supervision, and support for patients, carers, and health professionals.
 description:      We specialise in intensive training and online support for professionals who want to develop Radically Open DBT services, or enhance their existing practice for patients with emotional over-control.
 
+gems:
+  - jekyll-redirect-from
+
 
 # Owner/author information
 owner:
@@ -63,4 +66,6 @@ introduction_generic_description: This one-day workshop is a comprehensive intro
 
 
 forbooking: For booking, please contact [Erica Smith](mailto:info@radicallyopen.net) on +44 (0)7584 574526.
+
+
 
