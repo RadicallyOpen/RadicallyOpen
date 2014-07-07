@@ -2,7 +2,6 @@
 ---
 
 /* TEAM */
-Creator: {{ site.owner.name }}
 Contact: {{ site.owner.email }}
 Twitter: {{ site.owner.twitter }}
 Location: {{ site.owner.location }}
