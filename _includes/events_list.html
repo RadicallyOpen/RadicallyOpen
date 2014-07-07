@@ -12,29 +12,29 @@
 
 
 {% if event.hide %}{%else%}
-
+<div  itemscope itemtype="http://data-vocabulary.org/Event">
 <h4>
   <a href="/events/{{event.slug}}.html">
-    {{event.name}}, {{event.location}}
+    <span itemprop="summary">{{event.name}}, {{event.location}}</span>
   </a>
 </h4>
-
-
 
 <ul>
   {% for part in event.parts %}
 <li>
   {% if part.to %}
-    {{part.from|date: '%-d %B'}} to {{part.to|date: '%-d %B, %Y'}}
+    <time itemprop="startDate" datetime="{{part.from|date: '%FT%R'}}">{{part.from|date: '%-d %B'}}</time>
+      to
+    <time itemprop="startDate" datetime="{{part.to|date: '%FT%R'}}">{{part.to|date: '%-d %B, %Y'}}</time>
     {% if forloop.length > 1 %}(part {{forloop.index}}){% endif %}
     {% else %}
-    {{part.from|date: '%-d %B, %Y'}}
+    <time itemprop="startDate" datetime="{{part.from|date: '%FT%R'}}">{{part.from|date: '%-d %B, %Y'}}</time>
   {% endif %}
 </li>
 {% endfor %}
 
 </ul>
-
+</div>
 {% endif %}
 {% endfor %}
 
