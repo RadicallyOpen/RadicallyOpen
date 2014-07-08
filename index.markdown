@@ -1,8 +1,8 @@
 ---
 layout: post-no-feature
-html_title: "Radically Open Ltd: Training, supervision and support in Radically Open DBT (RO-DBT)"
+html_title: "Radically Open Ltd: Training, supervision and support for radical-openness and Radically Open DBT (RO-DBT)"
 title: Radically Open
-tags: emotional over control, DBT, RO-DBT
+tags: emotional over control, DBT, RO-DBT, radical-openness
 image:
     feature: bruegel.jpg
 header:
@@ -21,7 +21,7 @@ redirect_from:
 
 We specialise in intensive training and online support for professionals who want to develop **Radically Open DBT** services, or enhance their existing practice, for patients with [emotional over-control](/about/#overcontrol).
 
-- [Find out more about the Radically Open DBT treatment](/about/)
+- [Find out more about radical-openness and the Radically Open DBT treatment](/about/)
 - [More about our training courses for health professionals](/professionals/)
 
 
