@@ -1,7 +1,8 @@
 ---
 permalink: /patientscarers/index.html
 layout: post-no-feature
-title: "Information for patients & carers."
+html_title: "Information for patients & carers."
+title: "Patients & carers"
 tags: RO-DBT
 description: Information for patients and carers interested in RO-DBT
 redirect_from:

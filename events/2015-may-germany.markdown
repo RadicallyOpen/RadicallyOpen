@@ -12,7 +12,8 @@ part3:
       to: 2015-10-26
 location: Munich, Germany
 venue: TBC
-title: "RO-DBT mini-intensive training course, Germany, 2015"
+html_title: "RO-DBT mini-intensive training course, Germany, 2015"
+title: "RO-DBT Mini-Intensive, Germany"
 ---
 
 

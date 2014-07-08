@@ -1,6 +1,7 @@
 ---
 layout: post-no-feature
-title: Intensive training in Radically Open DBT
+html_title: Intensive training in Radically Open DBT
+title: The RO-DBT intensive training course
 tags: RO-DBT
 redirect_from:
   - /intensive.html

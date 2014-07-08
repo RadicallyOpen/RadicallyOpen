@@ -1,6 +1,7 @@
 ---
 layout: post-no-feature
-title: "Radically Open Ltd. Training, supervision and support in Radically Open DBT (RO-DBT)."
+html_title: "Radically Open Ltd: Training, supervision and support in Radically Open DBT (RO-DBT)"
+title: Radically Open
 tags: emotional over control, DBT, RO-DBT
 image:
     feature: bruegel.jpg
@@ -11,6 +12,7 @@ footertext: "Main image [Children's Games, Pieter Bruegel](http://en.wikipedia.o
 redirect_from:
   - /radical-openness.html
   - /professor-lynch.markdown
+  - /selected-publications.html
 ---
 
 {{site.people}}
