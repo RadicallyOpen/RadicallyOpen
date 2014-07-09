@@ -4,8 +4,8 @@ location: 48th Annual ABCT Convention, Philadelphia
 venue: Philadelphia Marriott Hotel
 from: 2014-11-20
 to: 2014-11-23
-html_title: "ABCT Institute Workshop: Radically Open Dialectical Behavior Therapy (RO-DBT) for disorders of overcontrol"
-title: ABCT Workshop, Philadelphia
+html_title: "RO-DBT Institute at ABCT Philadelphia: Radically Open Dialectical Behavior Therapy (RO-DBT) for disorders of overcontrol"
+title: RO-DBT Institute, ABCT Philadelphia
 ---
 
 ## November 2015, {{page.location}}
@@ -15,7 +15,7 @@ title: ABCT Workshop, Philadelphia
 
 #### Overview
 
-The [ABCT Annual Conference](http://www.abct.org/conv2013/) brings together 4,000 mental health professionals and students who specialize in the Behavioral and Cognitive Therapies. This year Professor Tom Lynch will present a workshop introducing RO-DBT as a transdiagnostic approach to disorders of over-control.
+The [ABCT Annual Conference](http://www.abct.org/conv2013/) brings together 4,000 mental health professionals and students who specialize in the Behavioral and Cognitive Therapies. This year Professor Tom Lynch will present an introduction to RO-DBT as a transdiagnostic approach to disorders of over-control.
 
 
 #### Abstract
@@ -27,7 +27,7 @@ RO-DBT posits emotional loneliness as the core problem underlying maladaptive ov
 
 #### Learning Objectives:
 
-At the end of the workshop, participants will be able to...
+At the end of the institute, participants will be able to...
 
 1. Explain the biosocial theory for overcontrol (OC) and recognize core differences between undercontrol and overcontrol.
 
