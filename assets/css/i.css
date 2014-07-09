@@ -178,9 +178,6 @@ blockquote, blockquote p {
   font-size: 48px;
 }
 
-.archive input {
-  font-size: 48px;
-}
 
 @media only screen and (max-width: 480px) {
   p {
@@ -231,9 +228,7 @@ blockquote, blockquote p {
     font-size: 24px;
   }
 
-  .archive input {
-    font-size: 32px;
-  }
+
 }
 /************ Basic *************/
 body {
@@ -350,22 +345,6 @@ hr {
   border-radius: 2px;
 }
 
-input {
-  background: none;
-  border: none;
-  outline: none;
-}
-
-.archive input {
-  background: none;
-  outline: none;
-  width: 100%;
-  font-family: "Crimson Text", "Hoefler Text", "Georgia", serif;
-}
-.archive input:focus {
-  background: white;
-  color: #3b3b3b;
-}
 
 /* Variables and Building Blocks */
 .icons {

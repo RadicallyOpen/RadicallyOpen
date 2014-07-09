@@ -7,7 +7,7 @@
 <title>{% if page.html_title %}{{ page.html_title }}{% elsif page.title %}{{ page.title }}{%else%}{{site.title}}{%endif%}</title>
 <meta name="description" content="{% if page.description%}{{ page.description }}{%else%}{{site.description}}{%endif%}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
-
+<meta name="description" content="{{page.meta_description}}">
 
 
 <script>
@@ -40,6 +40,9 @@
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,400italic' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="{{ site.url }}/assets/css/entypo.css" media="all">
+
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 
 
 <!-- For all browsers -->

@@ -4,11 +4,8 @@ layout: post-no-feature
 html_title: "Training in Radically Open DBT for health professionals (RO-DBT)"
 title: "Health professionals"
 tags: research ro-dbt training
-description: Information for professionals wishing to train in RO-DBT.
+meta_description: Information for professionals wishing to train in RO-DBT.
 ---
-
-
-## Training pathways
 
 
 ### [Introduction to RO-DBT](/training/introduction.html)

@@ -4,7 +4,7 @@ layout: post-no-feature
 html_title: "Information for patients & carers."
 title: "Patients & carers"
 tags: RO-DBT
-description: Information for patients and carers interested in RO-DBT
+meta_description: Information for patients and carers interested in RO-DBT
 redirect_from:
   - /patientscarers.html
 ---
