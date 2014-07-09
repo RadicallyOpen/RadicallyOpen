@@ -32,6 +32,15 @@
   location: London
 
 
+- name: Introduction to RO-DBT, ABCT Workshop
+  slug: 2014-abct-institute-workshop
+  parts:
+    - 1:
+      from: 2014-11-20
+  location: Philadelphia, USA
+
+
+
 - name: Intensive workshop
   slug: 2015-february-westcoast
   location: West Coast, USA
