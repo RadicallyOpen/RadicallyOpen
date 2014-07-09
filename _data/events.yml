@@ -32,8 +32,8 @@
   location: London
 
 
-- name: Introduction to RO-DBT, ABCT Workshop
-  slug: 2014-abct-institute-workshop
+- name: Introduction to RO-DBT, RO-DBT Institute at ABCT
+  slug: 2014-abct-institute
   parts:
     - 1:
       from: 2014-11-20
