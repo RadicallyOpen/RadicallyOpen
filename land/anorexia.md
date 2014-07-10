@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: page
 title: Radically Open DBT for Anorexia Nervosa
 tags: RO-DBT
 redirect_from:

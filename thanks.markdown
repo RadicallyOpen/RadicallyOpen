@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: page
 html_title: "Thanks, we'll be in touch soon."
 title: "Thanks"
 tags: RO-DBT

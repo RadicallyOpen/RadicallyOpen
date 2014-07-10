@@ -1,6 +1,6 @@
 ---
 permalink: /patientscarers/index.html
-layout: post-no-feature
+layout: page
 html_title: "Information for patients & carers."
 title: "Patients & carers"
 tags: RO-DBT

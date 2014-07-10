@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: page
 location: 48th Annual ABCT Convention, Philadelphia
 venue: Philadelphia Marriott Hotel
 from: 2014-11-20
@@ -10,7 +10,14 @@ title: RO-DBT Institute, ABCT Philadelphia
 
 ## November 2015, {{page.location}}
 
+<center>
+<div markdown="1" style="width:200px;">
+![](/images/lynch_head_hand.jpg)
+</div>
+</center>
+
 #### Presenter: Thomas. R. Lynch, Ph.D., Professor of Clinical Psychology
+
 
 
 #### Overview

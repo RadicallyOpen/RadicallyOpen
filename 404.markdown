@@ -1,6 +1,6 @@
 ---
 permalink: /404.html
-layout: post-no-feature
+layout: page
 title: Page not found
 tags: 404
 ---

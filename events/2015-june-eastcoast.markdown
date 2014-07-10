@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: page
 when: June and December, 2015
 part1:
     from: 2015-06-22

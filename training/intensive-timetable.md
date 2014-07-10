@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: page
 html_title: "Daily schedule: RO-DBT intensive Training course."
 title: "RO-DBT Intensive Daily Schedule"
 ---

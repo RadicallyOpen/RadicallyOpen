@@ -1,6 +1,6 @@
 ---
 permalink: /cookies.html
-layout: post-no-feature
+layout: page
 title: Our privacy and cookie policy
 tags: Cookies
 ---

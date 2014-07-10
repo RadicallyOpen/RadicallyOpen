@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: page
 title: The Radically Open DBT intensive training course (RO-DBT).
 tags: RO-DBT intensive training
 ---

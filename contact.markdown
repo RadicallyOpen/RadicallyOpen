@@ -1,6 +1,6 @@
 ---
 permalink: /contact/index.html
-layout: post-no-feature
+layout: page
 html_title: "Contact RadicallyOpen Ltd. +44 (0)7584 574526"
 title: "Contact"
 tags: RO-DBT

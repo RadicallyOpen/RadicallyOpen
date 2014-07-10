@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: page
 part1:
     from: 2014-03-02
     to: 2014-03-06

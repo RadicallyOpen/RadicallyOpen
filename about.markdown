@@ -1,6 +1,6 @@
 ---
 permalink: /about/index.html
-layout: post-no-feature
+layout: page
 html_title: About Radically Open DBT (RO-DBT)
 title: Radically Open DBT
 tags: RO-DBT

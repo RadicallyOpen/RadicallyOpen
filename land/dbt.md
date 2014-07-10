@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: page
 title: Radically Open Dialectical Behaviour Therapy
 tags: RO-DBT, DBT adaptation
 redirect_from:

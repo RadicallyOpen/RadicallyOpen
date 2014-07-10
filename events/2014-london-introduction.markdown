@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: page
 from: 2014-11-8
 location: London
 venue: Birbeck College, University of London
