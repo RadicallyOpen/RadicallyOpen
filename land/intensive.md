@@ -16,7 +16,7 @@ We are now offering intensive training in Radically Open DBT, in the UK, Europe 
 
 Our courses are engaging and hands on — we leave you with the skills and confidence to use RO-DBT in your practice, and explain the treatment to your wider team.
 
-Our next date is in Southampton, running from the 15th to the 19th of September, 2014.
+Our next date is in [Southampton, running from the 15th to the 19th of September, 2014](/events/2014-september-intensive.html).
 
 
 - [More details on RO-DBT training for health professionals](/professionals/)
