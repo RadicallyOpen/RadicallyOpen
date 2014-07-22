@@ -37,8 +37,9 @@ Our intensive training is a normally a two-part fast-track programme, consisteni
 
 Prices are for the complete 10 day intensive workshop (2 x 5 days).
 
+- Base price: £2250
 - With earlybird discount (30 days before event): £2000
-- Otherwise: £2250
+
 - £250 discount per person for group booking (min 6)
 
 

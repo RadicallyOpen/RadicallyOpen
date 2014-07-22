@@ -32,8 +32,9 @@ title: "RO-DBT Intensive, West Coast, USA"
 
 Prices are for the complete 10 day intensive workshop (2 x 5 days).
 
+- Base price $2500
 - With earlybird discount (30 days before event): $2000
-- Otherwise $2500
+
 - $300 discount per person for group booking (min 6)
 
 
