@@ -40,9 +40,6 @@ links:
   - title: Contact
     url: /contact/
 
-collections:
-- people:
-    output: true
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
