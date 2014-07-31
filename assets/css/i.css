@@ -32,6 +32,10 @@ blockquote, q {
   quotes: none;
 }
 
+sup {
+  font-size:60%;
+  font-weight:600;
+}
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
