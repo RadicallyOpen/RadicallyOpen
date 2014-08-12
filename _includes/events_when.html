@@ -1,0 +1,15 @@
+
+
+{% if page.parts.size > 1 %}
+
+### {{page.when}}
+
+{% assign parts = page.parts %}
+{% include when_list_fragment.html %}
+
+{% else %}
+
+### {{page.parts[0].from|date: '%-d %B %Y'}}
+
+{% endif %}
+

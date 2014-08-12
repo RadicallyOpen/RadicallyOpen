@@ -1,12 +1,13 @@
 ---
 layout: page
 when: Sept 2014 and March 2015
-part1:
-    from: 2014-09-15
-    to: 2014-09-19
-part2:
-    from: 2015-03-23
-    to: 2015-03-27
+starts: 2014-09-15
+name: RO-DBT Intensive
+parts:
+    - from: 2014-09-15
+      to: 2014-09-19
+    - from: 2015-03-23
+      to: 2015-03-27
 location: Southampton
 venue: University of Southampton
 html_title: "RO-DBT intensive training course, Southampton UK, 2014-2015"
@@ -14,10 +15,7 @@ title: "RO-DBT Intensive Southampton"
 ---
 
 
-### {{page.venue}}, {{page.when}}
-
-- {{page.part1.from|date: '%-d %B'}} to {{page.part1.to|date: '%-d %B, %Y'}} (part 1)
-- {{page.part2.from|date: '%-d %B'}} to {{page.part2.to|date: '%-d %B, %Y'}} (part 2)
+{% include events_when.html %}
 
 
 #### Overview

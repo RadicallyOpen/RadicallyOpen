@@ -1,6 +1,6 @@
 
-
-{% for event in site.data.events %}
+{% assign events = site.events |  sort: 'document.starts'  %}
+{% for event in events %}
 
 {% capture nowunix %}{{site.time| date: '%s'}}{% endcapture %}
 {% capture addedtime %}{{event.added | date: '%s'}}{% endcapture %}
@@ -13,27 +13,16 @@
 
 {% if event.hide %}{%else%}
 <div  itemscope itemtype="http://data-vocabulary.org/Event">
+
 <h4>
-  <a href="/events/{{event.slug}}.html">
+  <a href="{{event.url}}">
     <span itemprop="summary">{{event.name}}, {{event.location}}</span>
   </a>
 </h4>
 
-<ul>
-  {% for part in event.parts %}
-<li>
-  {% if part.to %}
-    <time itemprop="startDate" datetime="{{part.from|date: '%FT%R'}}">{{part.from|date: '%-d %B'}}</time>
-      to
-    <time itemprop="startDate" datetime="{{part.to|date: '%FT%R'}}">{{part.to|date: '%-d %B, %Y'}}</time>
-    {% if forloop.length > 1 %}(part {{forloop.index}}){% endif %}
-    {% else %}
-    <time itemprop="startDate" datetime="{{part.from|date: '%FT%R'}}">{{part.from|date: '%-d %B, %Y'}}</time>
-  {% endif %}
-</li>
-{% endfor %}
+{% assign parts = event.parts %}
+{% include when_list_fragment.html %}
 
-</ul>
 </div>
 {% endif %}
 {% endfor %}

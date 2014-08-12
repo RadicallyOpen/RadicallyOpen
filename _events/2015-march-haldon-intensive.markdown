@@ -1,11 +1,12 @@
 ---
 layout: page
-part1:
-    from: 2014-03-02
-    to: 2014-03-06
-part2:
-    from: 2015-10-05
-    to: 2015-10-09
+starts: 2014-03-02
+name: RO-DBT Intensive
+parts:
+    - from: 2014-03-02
+      to: 2014-03-06
+    - from: 2015-10-05
+      to: 2015-10-09
 location: Exeter
 venue: The Haldon Clinic, Exeter
 html_title: "RO-DBT intensive training course, Exeter, 2014-2015"
@@ -13,10 +14,7 @@ title: "RO-DBT Intensive Exeter"
 ---
 
 
-### {{page.location}}, {{page.part1.from|date: '%B %Y'}}  and {{page.part2.from|date: '%B %Y'}}
-
-- {{page.part1.from|date: '%-d %B'}} to {{page.part1.to|date: '%-d %B, %Y'}} (part 1)
-- {{page.part2.from|date: '%-d %B'}} to {{page.part2.to|date: '%-d %B, %Y'}} (part 2)
+{% include events_when.html %}
 
 
 

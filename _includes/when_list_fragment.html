@@ -1,0 +1,15 @@
+<ul>
+  {% for part in parts %}
+<li>
+  {% if part.to %}
+    <time itemprop="startDate" datetime="{{part.from|date: '%FT%R'}}">{{part.from|date: '%-d %B'}}</time>
+      to
+    <time itemprop="startDate" datetime="{{part.to|date: '%FT%R'}}">{{part.to|date: '%-d %B, %Y'}}</time>
+    {% if forloop.length > 1 %}(part {{forloop.index}}){% endif %}
+    {% else %}
+    <time itemprop="startDate" datetime="{{part.from|date: '%FT%R'}}">{{part.from|date: '%-d %B, %Y'}}</time>
+  {% endif %}
+</li>
+{% endfor %}
+
+</ul>

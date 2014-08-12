@@ -1,15 +1,15 @@
 ---
 layout: page
+starts: 2015-05-1
+name: RO-DBT Mini-Intensive
 when: May, July and October, 2010
-part1:
-      from: 2015-05-1
-      to: 2015-05-4
-part2:
-      from: 2015-07-10
-      to: 2015-07-13
-part3:
-      from: 2015-10-22
-      to: 2015-10-26
+parts:
+  - from: 2015-05-1
+    to: 2015-05-4
+  - from: 2015-07-10
+    to: 2015-07-13
+  - from: 2015-10-22
+    to: 2015-10-26
 location: Munich, Germany
 venue: TBC
 html_title: "RO-DBT mini-intensive training course, Germany, 2015"
@@ -17,11 +17,8 @@ title: "RO-DBT Mini-Intensive, Germany"
 ---
 
 
-### {{page.when}}
+{% include events_when.html %}
 
-- {{page.part1.from|date: '%-d %B'}} to {{page.part1.to|date: '%-d %B, %Y'}} (part 1)
-- {{page.part2.from|date: '%-d %B'}} to {{page.part2.to|date: '%-d %B, %Y'}} (part 2)
-- {{page.part3.from|date: '%-d %B'}} to {{page.part3.to|date: '%-d %B, %Y'}} (part 3)
 
 
 

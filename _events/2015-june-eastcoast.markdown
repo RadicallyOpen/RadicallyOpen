@@ -1,22 +1,20 @@
 ---
 layout: page
 when: June and December, 2015
-part1:
-    from: 2015-06-22
-    to: 2015-06-26
-part2:
-    from: 2015-12-02
-    to: 2015-12-05
+starts: 2015-06-22
+name: RO-DBT intensive
+parts:
+    - from: 2015-06-22
+      to: 2015-06-26
+    - from: 2015-12-02
+      to: 2015-12-05
 location: East Coast, USA
 venue: TBC
 title: "RO-DBT intensive training course, East Coast USA, 2015"
 ---
 
 
-### {{page.when}}
-
-- {{page.part1.from|date: '%-d %B'}} to {{page.part1.to|date: '%-d %B, %Y'}} (part 1)
-- {{page.part2.from|date: '%-d %B'}} to {{page.part2.to|date: '%-d %B, %Y'}} (part 2)
+{% include events_when.html %}
 
 
 #### Overview

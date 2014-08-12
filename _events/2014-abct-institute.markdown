@@ -2,8 +2,11 @@
 layout: page
 location: 48th Annual ABCT Convention, Philadelphia
 venue: Philadelphia Marriott Hotel
-from: 2014-11-20
-to: 2014-11-23
+starts: 2014-11-20
+name: RO-DBT Institute at ABCT
+parts:
+    - from: 2014-11-20
+      to: 2014-11-23
 html_title: "RO-DBT Institute at ABCT Philadelphia: Radically Open Dialectical Behavior Therapy (RO-DBT) for disorders of overcontrol"
 title: RO-DBT Institute, ABCT Philadelphia
 ---

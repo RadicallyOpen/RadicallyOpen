@@ -4,8 +4,8 @@ html_title: "Forthcoming training events for Radically Open DBT (RO-DBT)"
 title: "Forthcoming RO-DBT training events"
 tags: RO-DBT, events, training
 meta_description: Full listing of forthcoming RO-DBT training events.
+permalink: /events/
 ---
-
 
 ### Forthcoming workshops and training events
 
