@@ -1,8 +1,8 @@
 ---
 layout: page
-html_title: "Radically Open Ltd: Training, supervision and support for radical-openness and Radically Open DBT (RO-DBT)"
+html_title: "Radically Open Ltd: Training, supervision and support for radical-openness and Radically Open DBT (RODBT)"
 title: Radically Open
-tags: emotional over control, DBT, RO-DBT, radical-openness
+tags: emotional over control, DBT, RODBT, radical-openness
 image:
     feature: bruegel.jpg
 header:

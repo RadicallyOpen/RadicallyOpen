@@ -1,7 +1,7 @@
 ---
 layout: page
 starts: 2014-03-02
-name: RO-DBT Intensive
+name: RODBT Intensive
 parts:
     - from: 2014-03-02
       to: 2014-03-06
@@ -9,8 +9,8 @@ parts:
       to: 2015-10-09
 location: Exeter
 venue: The Haldon Clinic, Exeter
-html_title: "RO-DBT intensive training course, Exeter, 2014-2015"
-title: "RO-DBT Intensive Exeter"
+html_title: "RODBT intensive training course, Exeter, 2014-2015"
+title: "RODBT Intensive Exeter"
 ---
 
 
@@ -23,7 +23,7 @@ title: "RO-DBT Intensive Exeter"
 {{site.intensive_generic_description}}
 
 - [Read an overview of our intensive course](/training/intensive.html)
-- [The schedule for the RO-DBT intensive courses is available here.](/training/intensive-timetable.html)
+- [The schedule for the RODBT intensive courses is available here.](/training/intensive-timetable.html)
 
 
 #### Prices and booking

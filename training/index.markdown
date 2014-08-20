@@ -1,8 +1,8 @@
 ---
 layout: page
-html_title: "Forthcoming training events in Radically Open DBT (RO-DBT)"
+html_title: "Forthcoming training events in Radically Open DBT (RODBT)"
 title: "Training"
-tags: RO-DBT, events, training
+tags: RODBT, events, training
 ---
 
 

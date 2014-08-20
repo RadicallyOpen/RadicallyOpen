@@ -1,9 +1,9 @@
 ---
 permalink: /about/index.html
 layout: page
-html_title: About Radically Open DBT (RO-DBT)
+html_title: About Radically Open DBT (RODBT)
 title: Radically Open DBT
-tags: RO-DBT
+tags: RODBT
 ---
 
 
@@ -14,15 +14,15 @@ tags: RO-DBT
 
 <br>
 
-<small>Tom Lynch explains why RO-DBT was developed.</small>
+<small>Tom Lynch explains why RODBT was developed.</small>
 
 </center>
 
 <br>
 
-> Radically Open Dialectical Behaviour Therapy (RO-DBT) is a major adaptation of standard DBT for patients who suffer from emotional over-control.
+> Radically Open Dialectical Behaviour Therapy (RODBT) is a major adaptation of standard DBT for patients who suffer from emotional over-control.
 
-RO-DBT has been developed over the past 20 years, in labs in the US and UK, for patients with chronic depression or anorexia nervosa. [Research results](http://www.southampton.ac.uk/psychology/research/groups/emotion_and_personality_bio_behavioural_laboratory.page#projects) suggest that it is effective in these, and other, hard-to-treat groups.
+RODBT has been developed over the past 20 years, in labs in the US and UK, for patients with chronic depression or anorexia nervosa. [Research results](http://www.southampton.ac.uk/psychology/research/groups/emotion_and_personality_bio_behavioural_laboratory.page#projects) suggest that it is effective in these, and other, hard-to-treat groups.
 
 
 #### Emotional over control {#overcontrol}
@@ -32,12 +32,12 @@ Although 'self-control' is thought desirable---and uncontrolled behaviour is oft
 
 #### A significant adaptation of standard DBT
 
-Standard DBT was developed for patients with Borderline Personality Disorder (Linehan, 1993) and is highly effective for these under-controlled patients. Nonetheless, DBT is a treatment for patients who lack inhibitory control; as a consequence, RO-DBT makes substantial adaptations to meet the needs of patients who exhibit emotional over-control.
+Standard DBT was developed for patients with Borderline Personality Disorder (Linehan, 1993) and is highly effective for these under-controlled patients. Nonetheless, DBT is a treatment for patients who lack inhibitory control; as a consequence, RODBT makes substantial adaptations to meet the needs of patients who exhibit emotional over-control.
 
 
 > Some patients lack emotional control and need interventions designed to enhance constraint or inhibitory control; others require interventions designed to relax rigid or inflexible inhibitory control.
 
-Treatment strategies in RO-DBT derive from the theory that three, interrelated traits are required for emotional well-being:
+Treatment strategies in RODBT derive from the theory that three, interrelated traits are required for emotional well-being:
 
 1. Receptivity and *openness* to feedback, even when this is challenging.
 2. *Flexibility* in our responses to changing environmental demands, and
@@ -47,11 +47,11 @@ Treatment strategies in RO-DBT derive from the theory that three, interrelated t
 
 #### A growing evidence base
 
-RO-DBT is now practised in the UK, Europe, and North America, and is increasingly recognised as effective for patients who exhibit emotional over-control.
+RODBT is now practised in the UK, Europe, and North America, and is increasingly recognised as effective for patients who exhibit emotional over-control.
 
-- The [RO-DBT and radical-openness research website](http://www.southampton.ac.uk/psychology/research/groups/emotion_and_personality_bio_behavioural_laboratory.page) has more information on the latest research and development of the treatment, and the growing evidence base for RO-DBT in patients with chronic depression and anorexia nervosa.
+- The [RODBT and radical-openness research website](http://www.southampton.ac.uk/psychology/research/groups/emotion_and_personality_bio_behavioural_laboratory.page) has more information on the latest research and development of the treatment, and the growing evidence base for RODBT in patients with chronic depression and anorexia nervosa.
 
-- [Find out more about RO-DBT training for health professionals](/professionals/)
+- [Find out more about RODBT training for health professionals](/professionals/)
 
 - [Check the latest dates for introductory and intensive](/training/)
 

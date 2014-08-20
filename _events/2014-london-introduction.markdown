@@ -1,13 +1,13 @@
 ---
 layout: page
 starts: 2014-11-8
-name: "RO-DBT introductory training course"
+name: "RODBT introductory training course"
 when: November 2014
 parts:
     - from: 2014-11-8
 location: London
 venue: Birbeck College, University of London
-title: "RO-DBT introductory training course, 1-day, London, 2014"
+title: "RODBT introductory training course, 1-day, London, 2014"
 ---
 
 

@@ -3,7 +3,7 @@ permalink: /contact/index.html
 layout: page
 html_title: "Contact RadicallyOpen Ltd. +44 (0)7584 574526"
 title: "Contact"
-tags: RO-DBT
+tags: RODBT
 ---
 
 
@@ -12,7 +12,7 @@ For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or ca
 
 ### Let us contact you
 
-If you would like us to contact you regarding RO-DBT or forthcoming training events, please complete the form below:
+If you would like us to contact you regarding RODBT or forthcoming training events, please complete the form below:
 
 
 

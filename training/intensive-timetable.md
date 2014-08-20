@@ -1,7 +1,7 @@
 ---
 layout: page
-html_title: "Daily schedule: RO-DBT intensive Training course."
-title: "RO-DBT Intensive Daily Schedule"
+html_title: "Daily schedule: RODBT intensive Training course."
+title: "RODBT Intensive Daily Schedule"
 ---
 
 
@@ -24,7 +24,7 @@ The following is an *indicative* schedule for fast track training events. The ex
 
 
 10:30 – 12:00:
-    RO-DBT Research; The Neuroregulatory Model
+    RODBT Research; The Neuroregulatory Model
 
 
 *Lunch*
@@ -53,7 +53,7 @@ The following is an *indicative* schedule for fast track training events. The ex
     CE/CME Sign-In
 
 8:30 – 10:15:
-       RO-DBT Treatment Strategies for Activation of the PNS Social Safety System
+       RODBT Treatment Strategies for Activation of the PNS Social Safety System
 
 
 *Break*
@@ -71,7 +71,7 @@ The following is an *indicative* schedule for fast track training events. The ex
 *Break*
 
 3:00 – 4:15:
-    RO-DBT Treatment Overview
+    RODBT Treatment Overview
 
 4:15 – 4:30:
     Q & A, Completion of Evaluation, and CE/CME Sign Out
@@ -83,14 +83,14 @@ The following is an *indicative* schedule for fast track training events. The ex
     CE/CME Sign-In
 
 8:30 – 10:15:
-    RO-DBT Treatment Hierarchy; RO-DBT Behavioral Themes
+    RODBT Treatment Hierarchy; RODBT Behavioral Themes
 
 
 *Break*
 
 
 10:30 – 12:00:
-      RO-DBT Team Consultation -- Practicing RO Ourselves
+      RODBT Team Consultation -- Practicing RO Ourselves
 
 *Lunch*
 
@@ -102,7 +102,7 @@ The following is an *indicative* schedule for fast track training events. The ex
 *Break*
 
 3:00 – 4:15:
-    RO-DBT Orientation and Commitment; Loving Kindness Meditation Principles and Practice: Activating a Social-Safety Mood State
+    RODBT Orientation and Commitment; Loving Kindness Meditation Principles and Practice: Activating a Social-Safety Mood State
 
 4:15 – 4:30:
     Q & A, Completion of Evaluation, and CE/CME Sign Out
@@ -269,7 +269,7 @@ The following is an *indicative* schedule for fast track training events. The ex
     CE/CME Sign-In
 
 8:30 – 10:15:
-    RO-DBT Mindfulness Practice: Urge Surfing; Case Study 6: Linking Targets to Chain Analyses
+    RODBT Mindfulness Practice: Urge Surfing; Case Study 6: Linking Targets to Chain Analyses
 
 *Break*
 
@@ -298,7 +298,7 @@ The following is an *indicative* schedule for fast track training events. The ex
     CE/CME Sign-In
 
 8:30 – 10:15:
-    Mindfulness Practice: Laugh Yoga; Structuring and Leading an RO-DBT Consultation Team; Programme Implementation: Questions and Discussion
+    Mindfulness Practice: Laugh Yoga; Structuring and Leading an RODBT Consultation Team; Programme Implementation: Questions and Discussion
 
 10:15 – 10:30:
 

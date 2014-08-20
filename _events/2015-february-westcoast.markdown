@@ -2,7 +2,7 @@
 layout: page
 when: February and June, 2015
 starts: 2015-02-02
-name: RO-DBT Intensive
+name: RODBT Intensive
 parts:
     - from: 2015-02-02
       to: 2015-02-06
@@ -10,8 +10,8 @@ parts:
       to: 2015-06-12
 location: West Coast, USA
 venue: TBC
-html_title: "RO-DBT intensive training course, West Coast USA, 2015"
-title: "RO-DBT Intensive, West Coast, USA"
+html_title: "RODBT intensive training course, West Coast USA, 2015"
+title: "RODBT Intensive, West Coast, USA"
 ---
 
 
@@ -23,7 +23,7 @@ title: "RO-DBT Intensive, West Coast, USA"
 {{site.intensive_generic_description}}
 
 - [Read an overview of our intensive course](/training/intensive.html)
-- [The schedule for the RO-DBT intensive courses is available here.](/training/intensive-timetable.html)
+- [The schedule for the RODBT intensive courses is available here.](/training/intensive-timetable.html)
 
 
 #### Prices and booking
