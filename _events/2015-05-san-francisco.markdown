@@ -1,17 +1,17 @@
 ---
 layout: page
-when: February and June, 2015
-starts: 2015-02-02
+when: May 2015 and Jan 2016
+starts: 2015-05-11
 name: RODBT Intensive
 parts:
-    - from: 2015-02-02
-      to: 2015-02-06
-    - from: 2015-06-08
-      to: 2015-06-12
-location: West Coast, USA
+    - from: 2015-05-11
+      to: 2015-05-15
+    - from: 2016-01-18
+      to: 2016-01-22
+location: San Franciso, USA
 venue: TBC
-html_title: "RODBT intensive training course, West Coast USA, 2015"
-title: "RODBT Intensive, West Coast, USA"
+html_title: "RODBT intensive training course, San Francisco, 2015/6"
+title: "RODBT Intensive, San Franciso"
 eventtype: intensive
 ---
 
