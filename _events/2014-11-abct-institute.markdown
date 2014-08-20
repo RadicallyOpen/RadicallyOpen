@@ -9,6 +9,8 @@ parts:
       to: 2014-11-23
 html_title: "RODBT Institute at ABCT Philadelphia: Radically Open Dialectical Behavior Therapy (RODBT) for disorders of overcontrol"
 title: RODBT Institute, ABCT Philadelphia
+redirect_from:
+    - /events/2014-abct-institute.html
 eventtype: other
 ---
 

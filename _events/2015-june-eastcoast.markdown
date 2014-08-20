@@ -11,6 +11,7 @@ parts:
 location: East Coast, USA
 venue: TBC
 title: "RODBT intensive training course, East Coast USA, 2015"
+eventtype: intensive
 ---
 
 

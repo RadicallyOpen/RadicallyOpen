@@ -11,6 +11,7 @@ parts:
 location: Edinburgh, UK
 venue: SEEDS (South East Eating Disorders Scotland)
 title: "RODBT intensive training course, Edinburgh, UK, 2015"
+eventtype: intensive
 ---
 
 

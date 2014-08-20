@@ -8,6 +8,9 @@ parts:
 location: London
 venue: Birbeck College, University of London
 title: "RODBT introductory training course, 1-day, London, 2014"
+redirect_from:
+    - /events/2014-london-introduction.html
+eventtype: introduction
 ---
 
 

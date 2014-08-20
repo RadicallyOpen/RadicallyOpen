@@ -8,6 +8,7 @@ parts:
 location: Hatfield, London, UK
 venue: TBC
 title: "RODBT introductory training course, 1-day, Hatfield, 2015"
+eventtype: introduction
 ---
 
 

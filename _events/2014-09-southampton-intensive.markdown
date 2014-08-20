@@ -8,12 +8,12 @@ parts:
       to: 2014-09-19
     - from: 2015-03-23
       to: 2015-03-27
-redirect_from:
-    - /events/2014-september-intensive.html
 location: Southampton
 venue: University of Southampton
 html_title: "RODBT intensive training course, Southampton UK, 2014-2015"
 title: "RODBT Intensive Southampton"
+redirect_from:
+    - /events/2014-southampton-intensive.html
 eventtype: intensive
 ---
 

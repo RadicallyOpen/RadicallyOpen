@@ -11,6 +11,7 @@ location: Exeter
 venue: The Haldon Clinic, Exeter
 html_title: "RODBT intensive training course, Exeter, 2014-2015"
 title: "RODBT Intensive Exeter"
+eventtype: intensive
 ---
 
 

@@ -12,6 +12,7 @@ location: West Coast, USA
 venue: TBC
 html_title: "RODBT intensive training course, West Coast USA, 2015"
 title: "RODBT Intensive, West Coast, USA"
+eventtype: intensive
 ---
 
 
