@@ -41,6 +41,6 @@ Prices are for the complete 10 day intensive workshop (2 x 5 days).
 
 #### Venue
 
-The workshop will be held at the [Mercy Center, Burlingame, CA](www.mercy-center.org).
+The workshop will be held at the [Mercy Center, Burlingame, CA](http://www.mercy-center.org).
 
 A limited number of bedrooms are available at the retreat center, so book early to avoid disappointment. Mention the "RODBT workshop" for special rates when booking.
