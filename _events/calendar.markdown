@@ -52,4 +52,11 @@ $(document).ready(function() {
 
 </script>
 
+
+
+The calendar below shows all forthcoming training events for RO DBT.
+Please click on an event to see full details and information on booking.
+[You can also see a listing of our training events here.](/events/)
+
+
 <div id='calendar'></div>
