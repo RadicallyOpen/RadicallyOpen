@@ -51,6 +51,14 @@ Carl Dunn Jr, Mental Health Educator, Houston Texas, [recently tweeted](https://
 > I think Radically Open - DBT treats a significant, often overlooked, group of people-those who "quietly" control emotions.
 
 
+
+Amy Gaglia, NHS Therapist and DBT specialist at East London Foundation Trust:
+
+> I have found it to be very user-friendly. The patients themselves have said that they have found it very impactful... For me, I have found that it’s been very helpful to me to provide the therapy but also for my own personal life. RODBT focuses in on social functioning and getting better relationships. Very few other therapeutic techniques teach patients actual skills — how to use their own body to help to them interact differently with and influence their environment. People pick the skills up fairly quickly.
+
+
+
+
 ------------------------------------
 
 Our [introduction to RODBT](/training/introduction.html) is the ideal way to find out more about the treatment.
