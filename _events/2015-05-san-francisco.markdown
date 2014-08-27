@@ -48,4 +48,4 @@ The workshop will be held at the [Mercy Center, Burlingame, CA](http://www.mercy
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3161.8024192486646!2d-122.38330499999998!3d37.583270000000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f764873db34d1%3A0x629145fa05321ed3!2sMercy+Center!5e0!3m2!1sen!2suk!4v1408541369398" width="400" height="300" frameborder="0" style="border:0"></iframe>
 
-A limited number of bedrooms are available at the retreat center, so book early to avoid disappointment. Mention the "RODBT workshop" for special rates when booking.
+A limited number of bedrooms are available at the retreat center --- please contact Erica Smith for details.
