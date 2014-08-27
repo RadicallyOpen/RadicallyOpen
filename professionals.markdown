@@ -24,11 +24,14 @@ Our [intensive training](/training/intensive.html) is a two-part fast-track prog
 
 ### What do clinicians think of RO DBT?
 
+
+
+
 RO DBT is a new treatment, but we regularly hear very positive accounts from clinicians learning and applying these new ideas in their own practice. We've collected some of these reports below:
 
 Mark Sanbrook FRANZCP, (Senior Staff Specialist Psychiatrist, Hornsby Mental Health Service Private Practice, Australia) [reflects on radical openness](/assets/Mindcafe_issue 02_final.pdf) in a recent Mindcafe article [^subs]:
 
-> It also made me think about us as clinicians... we inhibit our feelings to remain the calmest person in the room, when we may feel anything but. It seems crucial that we practice some radical openness with someone in our life to promote our own emotional health.
+<quote>It also made me think about us as clinicians... we inhibit our feelings to remain the calmest person in the room, when we may feel anything but. It seems crucial that we practice some radical openness with someone in our life to promote our own emotional health.</quote>
 
 [^subs]: You can [read the article here](/assets/Mindcafe_issue 02_final.pdf) or [subscribe to the monthly Mindcafe newsletter here](http://mindcafe.com.au)]
 
@@ -36,25 +39,25 @@ Mark Sanbrook FRANZCP, (Senior Staff Specialist Psychiatrist, Hornsby Mental Hea
 
 Sophie Rushbrook, was one of the first UK therapists to start treating people using RO DBT:
 
-> I have been delivering DBT for ten years. Delivering RO DBT felt very different... I think we owe it to this client group to deliver a therapy that is potentially life-changing. There are some people who have come through this and although they still experience low mood at times, would say that they are no longer depressed. They feel as if they have the tools they need to manage better socially, to make different choices for themselves.
+<quote>I have been delivering DBT for ten years. Delivering RO DBT felt very different... I think we owe it to this client group to deliver a therapy that is potentially life-changing. There are some people who have come through this and although they still experience low mood at times, would say that they are no longer depressed. They feel as if they have the tools they need to manage better socially, to make different choices for themselves.</quote>
 
 
 
 Clarissa ([@GeekyOT](https://twitter.com/GeekyOT)) writes about attending an RO DBT intensive and [looking to apply radical openness in the practice as an Occupational Therapist](http://shamelessotgeek.wordpress.com/2014/07/06/discovering-radically-open-dialectical-behaviour-therapy-ro-dbt/):
 
-> I’m still in the early stages of my RO DBT training, [but] really excited to learn more about it. I can see lots of applications and think it will be very valuable when interwoven with my occupational therapy practice.
+<quote>I’m still in the early stages of my RO DBT training, [but] really excited to learn more about it. I can see lots of applications and think it will be very valuable when interwoven with my occupational therapy practice.</quote>
 
 
 
 Carl Dunn Jr, Mental Health Educator, Houston Texas, [recently tweeted](https://twitter.com/CarlDunnJr/status/485115757203054593):
 
-> I think Radically Open - DBT treats a significant, often overlooked, group of people-those who "quietly" control emotions.
+<quote>I think Radically Open - DBT treats a significant, often overlooked, group of people-those who "quietly" control emotions.</quote>
 
 
 
 Amy Gaglia, NHS Therapist and DBT specialist at East London Foundation Trust:
 
-> I have found it to be very user-friendly. The patients themselves have said that they have found it very impactful... For me, I have found that it’s been very helpful to me to provide the therapy but also for my own personal life. RO DBT focuses in on social functioning and getting better relationships. Very few other therapeutic techniques teach patients actual skills — how to use their own body to help to them interact differently with and influence their environment. People pick the skills up fairly quickly.
+<quote>I have found it to be very user-friendly. The patients themselves have said that they have found it very impactful... For me, I have found that it’s been very helpful to me to provide the therapy but also for my own personal life. RO DBT focuses in on social functioning and getting better relationships. Very few other therapeutic techniques teach patients actual skills — how to use their own body to help to them interact differently with and influence their environment. People pick the skills up fairly quickly.</quote>
 
 
 

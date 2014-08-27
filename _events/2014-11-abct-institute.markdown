@@ -6,7 +6,7 @@ starts: 2014-11-20
 name: RO DBT Institute at ABCT
 parts:
     - from: 2014-11-20
-      to: 2014-11-23
+      to: 2014-11-20
 html_title: "RO DBT Institute at ABCT Philadelphia: Radically Open Dialectical Behavior Therapy (RO DBT) for disorders of overcontrol"
 title: RO DBT Institute, ABCT Philadelphia
 redirect_from:
@@ -71,5 +71,5 @@ Lynch, T. R., Cheavens, J. S., Cukrowicz, K. C., Thorp. S., Bronner, L., & Beyer
 
 #### Prices and booking
 
-To book, please register with ABCT at [http://www.abct.org/conv2013/](http://www.abct.org/conv2013/), but do also [drop us an email and tell us you are coming!](mailto:{{site.emails.enquiries}})
+To book, please register with ABCT at [http://www.abct.org/conv2014/](http://www.abct.org/conv2014/), but do also [drop us an email and tell us you are coming!](mailto:{{site.emails.enquiries}})
 

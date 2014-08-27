@@ -37,9 +37,10 @@ $(document).ready(function() {
                 {% for part in event.parts %}
                 {
                     title: '{{event.title}} {% if forloop.length > 1 %}(part {{forloop.index}}){% endif %}',
-                    start: '{{part.from}}',
-                    end: '{{part.to}}',
-                    url: '{{event.url}}'
+                    start: moment("{{part.from}}"),
+                    end: moment("{{part.to}}").add('days', 1),
+                    url: '{{event.url}}',
+                    allDay: true,
                 },
                 {% endfor %}
                 {% endfor %}

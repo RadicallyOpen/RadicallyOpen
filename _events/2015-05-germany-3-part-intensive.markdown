@@ -4,8 +4,8 @@ starts: 2015-05-1
 name: RO DBT Mini-Intensive
 when: May, July and October, 2010
 parts:
-  - from: 2015-05-1
-    to: 2015-05-3
+  - from: 2015-05-01
+    to: 2015-05-03
   - from: 2015-07-10
     to: 2015-07-12
   - from: 2015-10-22
