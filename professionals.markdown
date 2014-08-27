@@ -30,8 +30,15 @@ Mark Sanbrook FRANZCP, (Senior Staff Specialist Psychiatrist, Hornsby Mental Hea
 
 > It also made me think about us as clinicians... we inhibit our feelings to remain the calmest person in the room, when we may feel anything but. It seems crucial that we practice some radical openness with someone in our life to promote our own emotional health.
 
-
 [^subs]: You can [read the article here](/assets/Mindcafe_issue 02_final.pdf) or [subscribe to the monthly Mindcafe newsletter here](http://mindcafe.com.au)]
+
+
+
+Sophie Rushbrook, was one of the first UK therapists to start treating people using RODBT:
+
+> I have been delivering DBT for ten years. Delivering RODBT felt very different... I think we owe it to this client group to deliver a therapy that is potentially life-changing. There are some people who have come through this and although they still experience low mood at times, would say that they are no longer depressed. They feel as if they have the tools they need to manage better socially, to make different choices for themselves.
+
+
 
 Clarissa ([@GeekyOT](https://twitter.com/GeekyOT)) writes about attending an RODBT intensive and [looking to apply radical openness in the practice as an Occupational Therapist](http://shamelessotgeek.wordpress.com/2014/07/06/discovering-radically-open-dialectical-behaviour-therapy-ro-dbt/):
 
