@@ -33,7 +33,7 @@ This workshop will be co-hosted by South East Eating Disorders Scotland (SEEDS).
 Prices are for the complete 10 day intensive workshop (2 x 5 days).
 
 - Base price £2250
-- With earlybird discount (until 15th August): £2000
+- With earlybird discount (30 days before event): £2000
 - £250 discount per-person for groups of 6 or more
 
 
