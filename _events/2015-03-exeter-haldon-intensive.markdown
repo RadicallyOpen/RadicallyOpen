@@ -1,6 +1,7 @@
 ---
 layout: page
 starts: 2014-03-02
+when: October 2014
 name: RO DBT Intensive
 parts:
     - from: 2014-03-02
