@@ -28,7 +28,7 @@ eventtype: other
 
 #### Overview
 
-The [ABCT Annual Conference](http://www.abct.org/conv2013/) brings together 4,000 mental health professionals and students who specialize in the Behavioral and Cognitive Therapies. This year Professor Tom Lynch will present an introduction to RO DBT as a transdiagnostic approach to disorders of over-control.
+The [ABCT Annual Conference](http://www.abct.org/conv2014/) brings together 4,000 mental health professionals and students who specialize in the Behavioral and Cognitive Therapies. This year Professor Tom Lynch will present an introduction to RO DBT as a transdiagnostic approach to disorders of over-control.
 
 
 #### Abstract

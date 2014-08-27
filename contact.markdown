@@ -16,40 +16,31 @@ If you would like us to contact you regarding RO DBT or forthcoming training eve
 
 
 
+<form name="insightly_web_to_contact" action="https://googleapps.insight.ly/WebToContact/Create" method="post">
 
-<form class="form" name="insightly_web_to_contact" action="https://googleapps.insight.ly/WebToContact/Create" method="post">
-  <input type="hidden" name="formId" value="2iuRVL7olVnPvHMCqKN1Cw=="/>
-
-<table class="table">
-<tr>
-<td><label for="insightly_firstName">First Name:</label></td>
-<td><input id="insightly_firstName" name="FirstName" type="text"/></td>
-</tr>
-<tr>
-<td><label for="insightly_lastName">Last Name: </label></td>
-<td><input id="insightly_lastName" name="LastName" type="text"/></td>
-</tr>
-<tr>
-<td><label for="insightly_organization">Organization: </label></td>
-<td><input id="insightly_organization" name="Organization" type="text"/></td>
-</tr>
-<tr><td><label for="insightly_role">Title: </label></td>
-  <td><input id="insightly_role" name="Role" type="text"/><input type="hidden" name="emails[0].Label" value="Work"/></td>
-  </tr>
-<tr><td><label for="email[0]_Value">Work Email: </label></td>
-<td><input id="emails[0]_Value" name="emails[0].Value" type="text"/></td>
-  </tr>
-<tr><td><label for="phones[0]_Value">Work Phone: </label></td>
-<td><input type="hidden" name="phones[0].Label" value="Work"/><input id="phones[0]_Value" name="phones[0].Value" type="text"/></td>
-  </tr>
-</tr>
-
-</table>
+<input type="hidden" name="formId" value="2iuRVL7olVnPvHMCqKN1Cw=="/>
 
 
 
+<p><label for="insightly_firstName">First Name: </label><br />
+<input id="insightly_firstName" name="FirstName" type="text"/></p>
 
-<input class="btn btn-primary" type="submit" value="Submit"/></form>
+
+<p><label for="insightly_lastName">Last Name: </label><br />
+<input id="insightly_lastName" name="LastName" type="text"/></p>
+
+<p><label for="email[0]_Value">Work Email: </label><br />
+<input id="emails[0]_Value" name="emails[0].Value" type="text"/></p>
+<input type="hidden" name="phones[0].Label" value="Work"/>
+
+<p><label for="phones[0]_Value">Work Phone: </label><br />
+<input id="phones[0]_Value" name="phones[0].Value" type="text"/></p>
+
+
+<p><label for="insightly_background">Let us know what you're interested in: </label><br><textarea id="insightly_background" name="background"></textarea></p>
+
+
+<input type="submit" value="Submit"/></form>
 
 
 
@@ -57,8 +48,7 @@ If you would like us to contact you regarding RO DBT or forthcoming training eve
 
 
 
-
-##### Our Address
+### Our Address
 
 <pre>
 The Lodge,
