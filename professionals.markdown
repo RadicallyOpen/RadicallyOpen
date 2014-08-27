@@ -1,20 +1,20 @@
 ---
 permalink: /professionals/index.html
 layout: page
-html_title: "Training in Radically Open DBT for health professionals (RODBT)"
+html_title: "Training in Radically Open DBT for health professionals (RO DBT)"
 title: "Health professionals"
 tags: research ro-dbt training
-meta_description: Information for professionals wishing to train in RODBT.
+meta_description: Information for professionals wishing to train in RO DBT.
 ---
 
 
 
 
-### RODBT training
+### RO DBT training
 
-We presently offer two routes into RODBT.
+We presently offer two routes into RO DBT.
 
-Our [introduction to RODBT](/training/introduction.html) is a comprehensive introduction to RODBT. It is suitable for all professionals working in the field of mental health and contributes 6 hours of Continuing Professional Development.
+Our [introduction to RO DBT](/training/introduction.html) is a comprehensive introduction to RO DBT. It is suitable for all professionals working in the field of mental health and contributes 6 hours of Continuing Professional Development.
 
 Our [intensive training](/training/intensive.html) is a two-part fast-track programme, consisting of 2 x 5-day workshops.
 
@@ -22,9 +22,9 @@ Our [intensive training](/training/intensive.html) is a two-part fast-track prog
 - [See the current list of training courses and dates](/events/).
 
 
-### What do clinicians think of RODBT?
+### What do clinicians think of RO DBT?
 
-RODBT is a new treatment, but we regularly hear very positive accounts from clinicians learning and applying these new ideas in their own practice. We've collected some of these reports below:
+RO DBT is a new treatment, but we regularly hear very positive accounts from clinicians learning and applying these new ideas in their own practice. We've collected some of these reports below:
 
 Mark Sanbrook FRANZCP, (Senior Staff Specialist Psychiatrist, Hornsby Mental Health Service Private Practice, Australia) [reflects on radical openness](/assets/Mindcafe_issue 02_final.pdf) in a recent Mindcafe article [^subs]:
 
@@ -34,15 +34,15 @@ Mark Sanbrook FRANZCP, (Senior Staff Specialist Psychiatrist, Hornsby Mental Hea
 
 
 
-Sophie Rushbrook, was one of the first UK therapists to start treating people using RODBT:
+Sophie Rushbrook, was one of the first UK therapists to start treating people using RO DBT:
 
-> I have been delivering DBT for ten years. Delivering RODBT felt very different... I think we owe it to this client group to deliver a therapy that is potentially life-changing. There are some people who have come through this and although they still experience low mood at times, would say that they are no longer depressed. They feel as if they have the tools they need to manage better socially, to make different choices for themselves.
+> I have been delivering DBT for ten years. Delivering RO DBT felt very different... I think we owe it to this client group to deliver a therapy that is potentially life-changing. There are some people who have come through this and although they still experience low mood at times, would say that they are no longer depressed. They feel as if they have the tools they need to manage better socially, to make different choices for themselves.
 
 
 
-Clarissa ([@GeekyOT](https://twitter.com/GeekyOT)) writes about attending an RODBT intensive and [looking to apply radical openness in the practice as an Occupational Therapist](http://shamelessotgeek.wordpress.com/2014/07/06/discovering-radically-open-dialectical-behaviour-therapy-ro-dbt/):
+Clarissa ([@GeekyOT](https://twitter.com/GeekyOT)) writes about attending an RO DBT intensive and [looking to apply radical openness in the practice as an Occupational Therapist](http://shamelessotgeek.wordpress.com/2014/07/06/discovering-radically-open-dialectical-behaviour-therapy-ro-dbt/):
 
-> I’m still in the early stages of my RODBT training, [but] really excited to learn more about it. I can see lots of applications and think it will be very valuable when interwoven with my occupational therapy practice.
+> I’m still in the early stages of my RO DBT training, [but] really excited to learn more about it. I can see lots of applications and think it will be very valuable when interwoven with my occupational therapy practice.
 
 
 
@@ -54,11 +54,11 @@ Carl Dunn Jr, Mental Health Educator, Houston Texas, [recently tweeted](https://
 
 Amy Gaglia, NHS Therapist and DBT specialist at East London Foundation Trust:
 
-> I have found it to be very user-friendly. The patients themselves have said that they have found it very impactful... For me, I have found that it’s been very helpful to me to provide the therapy but also for my own personal life. RODBT focuses in on social functioning and getting better relationships. Very few other therapeutic techniques teach patients actual skills — how to use their own body to help to them interact differently with and influence their environment. People pick the skills up fairly quickly.
+> I have found it to be very user-friendly. The patients themselves have said that they have found it very impactful... For me, I have found that it’s been very helpful to me to provide the therapy but also for my own personal life. RO DBT focuses in on social functioning and getting better relationships. Very few other therapeutic techniques teach patients actual skills — how to use their own body to help to them interact differently with and influence their environment. People pick the skills up fairly quickly.
 
 
 
 
 ------------------------------------
 
-Our [introduction to RODBT](/training/introduction.html) is the ideal way to find out more about the treatment.
+Our [introduction to RO DBT](/training/introduction.html) is the ideal way to find out more about the treatment.

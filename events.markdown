@@ -1,9 +1,9 @@
 ---
 layout: page
-html_title: "Forthcoming training events for Radically Open DBT (RODBT)"
-title: "Forthcoming RODBT training events"
-tags: RODBT, events, training
-meta_description: Full listing of forthcoming RODBT training events.
+html_title: "Forthcoming training events for Radically Open DBT (RO DBT)"
+title: "Forthcoming RO DBT training events"
+tags: RO DBT, events, training
+meta_description: Full listing of forthcoming RO DBT training events.
 permalink: /events/
 ---
 

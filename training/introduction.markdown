@@ -1,8 +1,8 @@
 ---
 layout: page
-html_title: Introductory training course in Radically Open DBT (RODBT).
+html_title: Introductory training course in Radically Open DBT (RO DBT).
 title: An introduction to Radically Open DBT
-tags: RODBT introduction
+tags: RO DBT introduction
 ---
 
 
@@ -14,7 +14,7 @@ tags: RODBT introduction
 ### Course Objectives
 
 - Overview of treatment structure
-- Recognise a new biosocial theory for OC and new RODBT treatment strategies designed
+- Recognise a new biosocial theory for OC and new RO DBT treatment strategies designed
 to enhance willingness for self- inquiry and flexible responding
 - Identify new skills designed to enhance intimate relationships and vulnerable expression of emotion, learn from critical feedback, and enhance loving- kindness-forgiveness.
 - Identify a novel treatment mechanism positing open expression = trust = social connectedness and examples of strategies designed to improve pro-social cooperative signalling via activation of the parasympathetic nervous system’s social-safety system. 

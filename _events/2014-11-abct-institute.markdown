@@ -3,12 +3,12 @@ layout: page
 location: 48th Annual ABCT Convention, Philadelphia
 venue: Philadelphia Marriott Hotel
 starts: 2014-11-20
-name: RODBT Institute at ABCT
+name: RO DBT Institute at ABCT
 parts:
     - from: 2014-11-20
       to: 2014-11-23
-html_title: "RODBT Institute at ABCT Philadelphia: Radically Open Dialectical Behavior Therapy (RODBT) for disorders of overcontrol"
-title: RODBT Institute, ABCT Philadelphia
+html_title: "RO DBT Institute at ABCT Philadelphia: Radically Open Dialectical Behavior Therapy (RO DBT) for disorders of overcontrol"
+title: RO DBT Institute, ABCT Philadelphia
 redirect_from:
     - /events/2014-abct-institute.html
 eventtype: other
@@ -28,14 +28,14 @@ eventtype: other
 
 #### Overview
 
-The [ABCT Annual Conference](http://www.abct.org/conv2013/) brings together 4,000 mental health professionals and students who specialize in the Behavioral and Cognitive Therapies. This year Professor Tom Lynch will present an introduction to RODBT as a transdiagnostic approach to disorders of over-control.
+The [ABCT Annual Conference](http://www.abct.org/conv2013/) brings together 4,000 mental health professionals and students who specialize in the Behavioral and Cognitive Therapies. This year Professor Tom Lynch will present an introduction to RO DBT as a transdiagnostic approach to disorders of over-control.
 
 
 #### Abstract
 
-Self-control, the ability to inhibit competing urges, impulses, or behaviors is highly valued by most societies. However, excessive self-control has been linked to social isolation, aloof interpersonal functioning, maladaptive perfectionism, inhibited expressions, and difficult-to-treat mental health problems, such as anorexia nervosa, obsessive compulsive personality disorder and refractory depression. Based on 19 years of research, two NIMH funded randomized controlled trials (RCTs) targeting depression and overcontrolled personality disorders, an open-trial with adult anorexia nervosa, and a large ongoing multi-site RCT ([http://www.reframed.org.uk](http://www.reframed.org.uk)) the aim of this institute is to introduce clinicians to the new theory and strategies underlying [Radically Open-Dialectical Behavior Therapy (RODBT)](/about/) for disorders of overcontrol (treatment manual pending; Guilford Press).
+Self-control, the ability to inhibit competing urges, impulses, or behaviors is highly valued by most societies. However, excessive self-control has been linked to social isolation, aloof interpersonal functioning, maladaptive perfectionism, inhibited expressions, and difficult-to-treat mental health problems, such as anorexia nervosa, obsessive compulsive personality disorder and refractory depression. Based on 19 years of research, two NIMH funded randomized controlled trials (RCTs) targeting depression and overcontrolled personality disorders, an open-trial with adult anorexia nervosa, and a large ongoing multi-site RCT ([http://www.reframed.org.uk](http://www.reframed.org.uk)) the aim of this institute is to introduce clinicians to the new theory and strategies underlying [Radically Open-Dialectical Behavior Therapy (RO DBT)](/about/) for disorders of overcontrol (treatment manual pending; Guilford Press).
 
-RODBT posits emotional loneliness as the core problem underlying maladaptive overcontrol. Heightened threat sensitivity and diminished reward sensitivity are hypothesized to transact with early family experiences emphasizing “mistakes intolerable” and “self-control imperative” to produce overcontrolled coping.  A novel thesis linking the communicative functions of emotional expression to the formation of close social bonds will be introduced, as well as new skills emphasizing receptivity, self-enquiry and flexible responding. New approaches to activate a neurobiologically-based social-safety system, signal cooperation, enhance forgiveness, and change envy/bitterness will be introduced; using videos and role play.
+RO DBT posits emotional loneliness as the core problem underlying maladaptive overcontrol. Heightened threat sensitivity and diminished reward sensitivity are hypothesized to transact with early family experiences emphasizing “mistakes intolerable” and “self-control imperative” to produce overcontrolled coping.  A novel thesis linking the communicative functions of emotional expression to the formation of close social bonds will be introduced, as well as new skills emphasizing receptivity, self-enquiry and flexible responding. New approaches to activate a neurobiologically-based social-safety system, signal cooperation, enhance forgiveness, and change envy/bitterness will be introduced; using videos and role play.
 
 
 #### Learning Objectives:
@@ -44,7 +44,7 @@ At the end of the institute, participants will be able to...
 
 1. Explain the biosocial theory for overcontrol (OC) and recognize core differences between undercontrol and overcontrol.
 
-2. Describe the RODBT treatment hierarchy—and the five OC behavioral themes.
+2. Describe the RO DBT treatment hierarchy—and the five OC behavioral themes.
 
 3. Describe the importance of activating a neural substrate associated with the ventral vagal complex and social-safety when working with OC.
 

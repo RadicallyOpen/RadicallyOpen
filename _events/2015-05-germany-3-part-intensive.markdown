@@ -1,7 +1,7 @@
 ---
 layout: page
 starts: 2015-05-1
-name: RODBT Mini-Intensive
+name: RO DBT Mini-Intensive
 when: May, July and October, 2010
 parts:
   - from: 2015-05-1
@@ -12,8 +12,8 @@ parts:
     to: 2015-10-25
 location: Munich, Germany
 venue: TBC
-html_title: "RODBT mini-intensive training course, Germany, 2015"
-title: "RODBT Mini-Intensive, Germany"
+html_title: "RO DBT mini-intensive training course, Germany, 2015"
+title: "RO DBT Mini-Intensive, Germany"
 ---
 
 
@@ -27,7 +27,7 @@ title: "RODBT Mini-Intensive, Germany"
 Our intensive training is a normally a two-part fast-track programme, consisting of 2 x 5-day workshops; here the same content is split over 3 sessions. After completing the intensive training, practitioners may choose to progress to advanced level training and supervision.
 
 - [Read an overview of our standard intensive course)](/training/intensive.html)
-- [The schedule for the RODBT intensive courses is available here.](/training/intensive-timetable.html) (Note the running order will differ slighly for this 3-part adaptation.)
+- [The schedule for the RO DBT intensive courses is available here.](/training/intensive-timetable.html) (Note the running order will differ slighly for this 3-part adaptation.)
 
 
 #### Prices and booking

@@ -2,7 +2,7 @@
 layout: page
 when: May 2015 and Jan 2016
 starts: 2015-05-11
-name: RODBT Intensive
+name: RO DBT Intensive
 parts:
     - from: 2015-05-11
       to: 2015-05-15
@@ -10,8 +10,8 @@ parts:
       to: 2016-01-22
 location: San Franciso, USA
 venue: TBC
-html_title: "RODBT intensive training course, San Francisco, 2015/6"
-title: "RODBT Intensive, San Franciso"
+html_title: "RO DBT intensive training course, San Francisco, 2015/6"
+title: "RO DBT Intensive, San Franciso"
 eventtype: intensive
 ---
 
@@ -24,7 +24,7 @@ eventtype: intensive
 {{site.intensive_generic_description}}
 
 - [Read an overview of our intensive course](/training/intensive.html)
-- [The schedule for the RODBT intensive courses is available here.](/training/intensive-timetable.html)
+- [The schedule for the RO DBT intensive courses is available here.](/training/intensive-timetable.html)
 
 
 #### Prices and booking

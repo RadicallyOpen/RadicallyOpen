@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Radically Open DBT for Anorexia Nervosa
-tags: RODBT
+tags: RO DBT
 redirect_from:
   - /anorexia.html
 ---
@@ -9,11 +9,11 @@ redirect_from:
 
 ![](/images/presentation.png)
 
-[Radically Open Dialectical Behaviour Therapy (RODBT)](/about/) is a major adaptation of standard DBT for patients who suffer from emotional over-control.
+[Radically Open Dialectical Behaviour Therapy (RO DBT)](/about/) is a major adaptation of standard DBT for patients who suffer from emotional over-control.
 
-RODBT has been developed over the past 20 years, in labs in the US and UK, for patients with disorders of emotional over-control, and the treatment was informed by our clinical partners at the [Haldon Eating Disorders Unit](http://www.devonpartnership.nhs.uk/The-Haldon.474.0.html) in Exeter.
+RO DBT has been developed over the past 20 years, in labs in the US and UK, for patients with disorders of emotional over-control, and the treatment was informed by our clinical partners at the [Haldon Eating Disorders Unit](http://www.devonpartnership.nhs.uk/The-Haldon.474.0.html) in Exeter.
 
-Our approach to treating anorexia is novel. In the video below we show the effect of RODBT on patients and staff at the Haldon Unit:
+Our approach to treating anorexia is novel. In the video below we show the effect of RO DBT on patients and staff at the Haldon Unit:
 
 <center>
 
@@ -22,10 +22,10 @@ Our approach to treating anorexia is novel. In the video below we show the effec
 </center>
 
 
-[Research results](http://www.southampton.ac.uk/psychology/research/groups/emotion_and_personality_bio_behavioural_laboratory.page) suggest that RODBT  is effective in patients with anorexia, and leads to sustained gains in weight.
+[Research results](http://www.southampton.ac.uk/psychology/research/groups/emotion_and_personality_bio_behavioural_laboratory.page) suggest that RO DBT  is effective in patients with anorexia, and leads to sustained gains in weight.
 
 
-### Intensive training in RODBT
+### Intensive training in RO DBT
 
 We are now offering intensive training in Radically Open DBT in the UK. The 5-day course is designed for practising clinical psychologists, psychotherapists, mental health nurses and other health professionals.
 
@@ -39,7 +39,7 @@ Our next date is in Southampton, running from the 15th to the 19th of September,
 ~
 
 
-- [More details on RODBT training for health professionals](/professionals/)
+- [More details on RO DBT training for health professionals](/professionals/)
 
 - [Check the latest dates for intensive and modular training](/training/)
 

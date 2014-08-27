@@ -1,13 +1,13 @@
 ---
 layout: page
 starts: 2015-04-15
-name: "RODBT introductory training course"
+name: "RO DBT introductory training course"
 when: April 2015
 parts:
     - from: 2015-04-15
 location: Hatfield, London, UK
 venue: TBC
-title: "RODBT introductory training course, 1-day, Hatfield, 2015"
+title: "RO DBT introductory training course, 1-day, Hatfield, 2015"
 eventtype: introduction
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 when: June and December, 2015
 starts: 2016-02-01
-name: RODBT intensive
+name: RO DBT intensive
 parts:
     - from: 2016-02-01
       to: 2016-02-05
@@ -10,7 +10,7 @@ parts:
       to: 2016-09-23
 location: East Coast, USA
 venue: TBC
-title: "RODBT intensive training course, East Coast USA, 2016"
+title: "RO DBT intensive training course, East Coast USA, 2016"
 eventtype: intensive
 ---
 
@@ -23,7 +23,7 @@ eventtype: intensive
 {{site.intensive_generic_description}}
 
 - [Read an overview of our intensive course](/training/intensive.html)
-- [The schedule for the RODBT intensive courses is available here.](/training/intensive-timetable.html)
+- [The schedule for the RO DBT intensive courses is available here.](/training/intensive-timetable.html)
 
 
 #### Prices and booking

@@ -2,7 +2,7 @@
 layout: page
 when: Sept 2014 and March 2015
 starts: 2014-09-15
-name: RODBT Intensive
+name: RO DBT Intensive
 parts:
     - from: 2014-09-15
       to: 2014-09-19
@@ -10,8 +10,8 @@ parts:
       to: 2015-03-27
 location: Southampton
 venue: University of Southampton
-html_title: "RODBT intensive training course, Southampton UK, 2014-2015"
-title: "RODBT Intensive Southampton"
+html_title: "RO DBT intensive training course, Southampton UK, 2014-2015"
+title: "RO DBT Intensive Southampton"
 redirect_from:
     - /events/2014-southampton-intensive.html
 eventtype: intensive
@@ -26,7 +26,7 @@ eventtype: intensive
 {{site.intensive_generic_description}}
 
 - [Read an overview of our intensive course](/training/intensive.html)
-- [The schedule for the RODBT intensive courses is available here.](/training/intensive-timetable.html)
+- [The schedule for the RO DBT intensive courses is available here.](/training/intensive-timetable.html)
 
 
 #### Prices and booking
