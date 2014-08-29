@@ -9,7 +9,7 @@ title: Radically Open Policies
 
 We offer early bird discounts for participants booking 30 days or more before the start of a course.
 
-Registration fees will be refunded to participants who contact us in writing or via email to info@radicallyopen.net postmarked no less than 15 days before the training. No refunds will be made thereafter. A colleague may be substituted for no extra charge if we are notified at least two business days before the training.
+Registration fees will be refunded to participants who contact us in writing or via email to [info@radicallyopen.net](mailto:info@radicallyopen.net) postmarked no less than 15 days before the training. No refunds will be made thereafter. A colleague may be substituted for no extra charge if we are notified at least two business days before the training.
 
 All payments must be recieved at least 10 working days before the course start date.
 
@@ -36,7 +36,7 @@ What information do we collect? How do we use it?
 
 - We monitor customer traffic patterns and site usage to help us develop the design and layout of Site. [See our statement on cookies for more details](/cookies.html)
 
-- We may also use the information we collect to occasionally notify you about important functionality changes to the Site or to send you other information we think you'll find helpful. However, we will only do this if you have opted-in to receiving those mailings. Also, if at any time you decide you no longer wish to receive them, you can always opt-out by e-mailing us at unsubscribe@radicallyopen.net
+- We may also use the information we collect to occasionally notify you about important functionality changes to the Site or to send you other information we think you'll find helpful. However, we will only do this if you have opted-in to receiving those mailings. Also, if at any time you decide you no longer wish to receive them, you can always opt-out by e-mailing us at [unsubscribe@radicallyopen.net](unsubscribe@radicallyopen.net)
 
 - Your details may also be disclosed to third parties (e.g. venues, accomodation) to facilitate running of the courses. We will not disclose your details to third parties for marketing purposes.
 
