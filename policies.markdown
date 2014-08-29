@@ -1,6 +1,6 @@
 ---
 layout: page
-html_title: Radically Open: Policies
+html_title: Radically Open Policies
 title: Radically Open Policies
 ---
 
