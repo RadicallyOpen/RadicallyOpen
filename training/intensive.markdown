@@ -1,7 +1,10 @@
 ---
+permalink: /training/intensive/
 layout: page
 title: The Radically Open DBT intensive training course (RO DBT).
 tags: RO DBT intensive training
+redirect_from:
+  - /training/intensive.html
 ---
 
 

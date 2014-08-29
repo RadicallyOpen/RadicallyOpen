@@ -45,7 +45,7 @@ These quotes have been collected (with permission) from patients in our [current
 
 
 
-Clarissa ([@GeekyOT](https://twitter.com/GeekyOT)) writes about attending an RO DBT intensive and [looking to apply radical openness in the practice as an Occupational Therapist](http://shamelessotgeek.wordpress.com/2014/07/06/discovering-radically-open-dialectical-behaviour-therapy-ro-dbt/):
+Clarissa ([@GeekyOT](https://twitter.com/GeekyOT)) writes about attending an [RO DBT intensive](/training/intensive/) and [looking to apply radical openness in the practice as an Occupational Therapist](http://shamelessotgeek.wordpress.com/2014/07/06/discovering-radically-open-dialectical-behaviour-therapy-ro-dbt/):
 
 <quote>I’m still in the early stages of my RO DBT training, [but] really excited to learn more about it. I can see lots of applications and think it will be very valuable when interwoven with my occupational therapy practice.</quote>
 
@@ -63,6 +63,8 @@ Carl Dunn Jr ([@CarlDunnJr](https://twitter.com/CarlDunnJr)), Mental Health Educ
 
 
 
+- [Find out more about radical openness and the Radically Open DBT treatment](/about/)
+- [More about our training courses for health professionals](/professionals/)
 
 
 

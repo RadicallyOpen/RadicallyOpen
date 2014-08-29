@@ -21,7 +21,7 @@ redirect_from:
 
 We specialise in intensive training and online support for professionals who want to develop **Radically Open DBT** services, or enhance their existing practice, for patients with [emotional over-control](/about/#overcontrol).
 
-- [Find out more about radical-openness and the Radically Open DBT treatment](/about/)
+- [Find out more about radical openness and the Radically Open DBT treatment](/about/)
 - [More about our training courses for health professionals](/professionals/)
 - [Read what patients and health professionals are saying about RO DBT](/quotes/)
 

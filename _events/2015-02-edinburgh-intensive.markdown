@@ -25,7 +25,7 @@ eventtype: intensive
 This workshop will be co-hosted by South East Eating Disorders Scotland (SEEDS).
 
 - [Read an overview of our intensive course](/training/intensive.html)
-- [The schedule for the RO DBT intensive courses is available here.](/training/intensive-timetable.html)
+- [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
 
 
 #### Prices and booking

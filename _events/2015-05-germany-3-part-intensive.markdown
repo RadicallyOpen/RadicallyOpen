@@ -27,7 +27,7 @@ title: "RO DBT Mini-Intensive, Germany"
 Our intensive training is a normally a two-part fast-track programme, consisting of 2 x 5-day workshops; here the same content is split over 3 sessions. After completing the intensive training, practitioners may choose to progress to advanced level training and supervision.
 
 - [Read an overview of our standard intensive course)](/training/intensive.html)
-- [The schedule for the RO DBT intensive courses is available here.](/training/intensive-timetable.html) (Note the running order will differ slighly for this 3-part adaptation.)
+- [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html) (Note the running order will differ slighly for this 3-part adaptation.)
 
 
 #### Prices and booking

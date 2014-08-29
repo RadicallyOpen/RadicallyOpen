@@ -1,7 +1,11 @@
 ---
+permalink: /training/intensive/timetable.html
 layout: page
 html_title: "Daily schedule: RO DBT intensive Training course."
 title: "RO DBT Intensive Daily Schedule"
+redirect_from:
+  - /training/intensive-timetable.html
+
 ---
 
 

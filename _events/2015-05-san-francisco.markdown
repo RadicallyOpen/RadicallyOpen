@@ -24,7 +24,7 @@ eventtype: intensive
 {{site.intensive_generic_description}}
 
 - [Read an overview of our intensive course](/training/intensive.html)
-- [The schedule for the RO DBT intensive courses is available here.](/training/intensive-timetable.html)
+- [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
 
 
 #### Prices and booking
