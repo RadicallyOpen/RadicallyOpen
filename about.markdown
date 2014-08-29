@@ -1,5 +1,5 @@
 ---
-permalink: /about/index.html
+permalink: /about/
 layout: page
 html_title: About Radically Open DBT (RO DBT)
 title: Radically Open DBT

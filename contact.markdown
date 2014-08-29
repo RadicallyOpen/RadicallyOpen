@@ -1,5 +1,5 @@
 ---
-permalink: /contact/index.html
+permalink: /contact/
 layout: page
 html_title: "Contact RadicallyOpen Ltd. +44 (0)7584 574526"
 title: "Contact"
