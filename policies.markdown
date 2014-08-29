@@ -1,5 +1,4 @@
 ---
-permalink: /policies/
 layout: page
 html_title: Radically Open: Policies
 title: Radically Open Policies
