@@ -20,9 +20,9 @@ tags: RO DBT
 
 <br>
 
-> Radically Open Dialectical Behaviour Therapy (RO DBT) is a major adaptation of standard DBT for patients who suffer from emotional over-control.
+> Radically Open Dialectical Behaviour Therapy (RO DBT) is a new treatment for patients who suffer from emotional over-control.
 
-RO DBT has been developed over the past 20 years, in labs in the US and UK, for patients with chronic depression or anorexia nervosa. [Research results](http://www.southampton.ac.uk/psychology/research/groups/emotion_and_personality_bio_behavioural_laboratory.page#projects) suggest that it is effective in these, and other, hard-to-treat groups.
+RO DBT has been developed over the past 20 years for patients with chronic depression or anorexia nervosa. [Research results](http://www.southampton.ac.uk/psychology/research/groups/emotion_and_personality_bio_behavioural_laboratory.page#projects) suggest that it is effective in these, and other, hard-to-treat groups.
 
 
 #### Emotional over control {#overcontrol}
@@ -30,9 +30,9 @@ RO DBT has been developed over the past 20 years, in labs in the US and UK, for 
 Although 'self-control' is thought desirable---and uncontrolled behaviour is often censured---self-control is an underlying factor in many treatment-resistant conditions. Excessive self-control is associated with social isolation, poor interpersonal functioning, and can result in severe and difficult-to-treat mental health problems, such as anorexia nervosa, chronic depression, and obsessive-compulsive personality disorder (e.g., Lynch & Cheavens, 2008; Riso et al., 2003; Zucker et al., 2007).
 
 
-#### A significant adaptation of standard DBT
+#### A new treatment
 
-Standard DBT was developed for patients with Borderline Personality Disorder (Linehan, 1993) and is highly effective for these under-controlled patients. Nonetheless, DBT is a treatment for patients who lack inhibitory control; as a consequence, RO DBT makes substantial adaptations to meet the needs of patients who exhibit emotional over-control.
+RO DBT has roots in Dialectical Behaviour Therapy, which was developed for patients with Borderline Personality Disorder (Linehan, 1993) and standard DBT is highly effective for these *under-controlled* patients. Nonetheless, standard DBT is a treatment for patients who *lack* inhibitory control---a fundamentally different approach is needed for patients who suffer from an excess of emotional over-control.
 
 
 > Some patients lack emotional control and need interventions designed to enhance constraint or inhibitory control; others require interventions designed to relax rigid or inflexible inhibitory control.
