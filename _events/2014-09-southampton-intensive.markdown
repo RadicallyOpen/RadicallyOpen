@@ -31,11 +31,8 @@ eventtype: intensive
 
 #### Prices and booking
 
-Prices are for the complete 10 day intensive workshop (2 x 5 days).
+{{site.intensive_prices_UK}}
 
-- Base price: £2250
-- With earlybird discount (before 15th August): £2000
-- £250 discount per person for group booking (min 6)
 
 
 > {{site.forbooking}}

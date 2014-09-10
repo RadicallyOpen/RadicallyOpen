@@ -23,21 +23,22 @@ eventtype: intensive
 
 {{site.intensive_generic_description}}
 
+![University of California San Francisco Logo](http://psych.ucsf.edu/images/ucsf_logo.gif)
+
+This workshop will be co-hosted by the [Young Adult & Family Center, at the Langley Porter Psychiatric Institute](http://psych.ucsf.edu/lpphc.aspx?id=5041), University of California, San Francisco.
+
+
 - [Read an overview of our intensive course](/training/intensive.html)
 - [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
+
+
+
 
 
 #### Prices and booking
 
 
-Prices are for the complete 10 day intensive workshop (2 x 5 days).
-
-- Base price $2650
-- With earlybird discount (30 days before event): $2500
-
-- $300 discount per person for group booking (min 6)
-
-TBC
+{{site.intensive_prices_US}}
 
 
 > {{site.forbooking}}

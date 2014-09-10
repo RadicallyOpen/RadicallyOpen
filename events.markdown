@@ -7,6 +7,20 @@ meta_description: Full listing of forthcoming RO DBT training events.
 permalink: /events/
 ---
 
+
+
+
+### Co-hosted training
+
+We regularly run training in partnership with particular organisations, for example at specialist eating disorders services or inpatient units where a whole team wishes to train together. Forthcoming partners for co-hosted training include:
+
+- [The Young Adult & Family Center, at the Langley Porter Psychiatric Institute](2015-05-san-francisco.html), University of California, San Francisco.
+- [The Haldon Eating Disorders Service](2015-03-exeter-haldon-intensive.html), Wonford House Hospital, Exeter
+- [South East Eating Disorders Scotland](2015-02-edinburgh-intensive.html) (SEEDS)
+
+If you are interested in co-hosting a training course in the UK or Europe, please also [get in touch](/contact/).
+
+
 ### Forthcoming workshops and training events
 
 
@@ -20,17 +34,5 @@ Over the next few months we will be adding further training days in the UK and E
 
 
 <span class="icon-twitter"></span> follow [@radicallyopen](http://twitter.com/{{ site.owner.twitter }}") on Twitter for updates to training dates.
-
-
-
-
-### Co-hosted training
-
-We are often asked to run training in partnership with particular organisations, for example at specialist eating disorders services or inpatient units where a whole team wishes to train together.
-
-If you are interested in co-hosting a training course in the UK or Europe, please also [get in touch](/contact/).
-
-
-
 
 

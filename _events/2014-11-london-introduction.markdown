@@ -26,8 +26,8 @@ eventtype: introduction
 
 #### Prices and booking
 
-- Earlybird (30 days before event): £120 plus VAT
-- Otherwise £135 plus VAT
+{{site.introduction_prices_UK}}
+
 
 > {{site.forbooking}}
 
