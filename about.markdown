@@ -27,12 +27,12 @@ RO DBT has been developed over the past 20 years for patients with chronic depre
 
 #### Emotional over control {#overcontrol}
 
-Although 'self-control' is thought desirable---and uncontrolled behaviour is often censured---self-control is an underlying factor in many treatment-resistant conditions. Excessive self-control is associated with social isolation, poor interpersonal functioning, and can result in severe and difficult-to-treat mental health problems, such as anorexia nervosa, chronic depression, and obsessive-compulsive personality disorder (e.g., Lynch & Cheavens, 2008; Riso et al., 2003; Zucker et al., 2007).
+'Self-control' is thought desirable, and uncontrolled behaviour is often censured. However too-much self-control is a problem for many patients. Excessive self-control is associated with social isolation, poor interpersonal relations, and contributes to difficult-to-treat conditions including anorexia nervosa and chronic depression (see Lynch & Cheavens, 2008; Riso et al., 2003; Zucker et al., 2007).
 
 
 #### A new treatment
 
-RO DBT has roots in Dialectical Behaviour Therapy, which was developed for patients with Borderline Personality Disorder (Linehan, 1993) and standard DBT is highly effective for these *under-controlled* patients. Nonetheless, standard DBT is a treatment for patients who *lack* inhibitory control---a fundamentally different approach is needed for patients who suffer from an excess of emotional over-control.
+RO DBT draws on principles and strategies from third-wave congitive behavioural therapies, including dialectical behaviour therapy. It differs from previous treatments in emphasising the importance of *balance* in emotional control, and recognising that a fundamentally different approach is needed for patients who suffer from an excess of control.
 
 
 > Some patients lack emotional control and need interventions designed to enhance constraint or inhibitory control; others require interventions designed to relax rigid or inflexible inhibitory control.
