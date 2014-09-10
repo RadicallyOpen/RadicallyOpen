@@ -32,8 +32,7 @@ RO DBT has been developed over the past 20 years for patients with chronic depre
 
 #### A new treatment
 
-RO DBT draws on principles and strategies from third-wave cognitive behavioural therapies, including dialectical behaviour therapy. It differs from previous treatments in emphasising the importance of *balance* in emotional control, and recognising that a fundamentally different approach is needed for patients who suffer from an excess of control.
-
+RO DBT draws on principles and strategies from third-wave cognitive behavioural therapies, including dialectical behaviour therapy. It differs from previous treatments because it recognises that a fundamentally different approach is needed for patients who suffer from too much control.
 
 > Some patients lack emotional control and need interventions designed to enhance constraint or inhibitory control; others require interventions designed to relax rigid or inflexible inhibitory control.
 
