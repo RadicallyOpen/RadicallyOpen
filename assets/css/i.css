@@ -747,7 +747,7 @@ header.site-header nav ul li a:hover {
   text-align: center;
 }
 .post img {
-  width: 100%;
+  /*width: 100%;*/
   height: auto;
   display: block;
   margin: 0px auto;
