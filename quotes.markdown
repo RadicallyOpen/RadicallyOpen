@@ -10,7 +10,7 @@ RO DBT is a new treatment, but we regularly hear very positive accounts from cli
 
 ### What do patients say?
 
-These quotes have been collected (with permission) from patients in our [current randomised controlled trial](http://www.reframed.org.uk) of RO DBT for patients with refractory depression:
+These quotes have been collected (with permission) from patients undergoing RO DBT for refractory depression:
 
 <quote>Having been through several different therapies (CBT, standard DBT, counselling) this was by far the one that made a lot more sense :)</quote>
 

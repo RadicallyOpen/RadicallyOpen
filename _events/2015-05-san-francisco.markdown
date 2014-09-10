@@ -37,8 +37,8 @@ Prices are for the complete 10 day intensive workshop (2 x 5 days).
 
 - $300 discount per person for group booking (min 6)
 
-
 TBC
+
 
 > {{site.forbooking}}
 
