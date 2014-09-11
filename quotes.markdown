@@ -1,8 +1,10 @@
 ---
-permalink: /quotes/
+permalink: /about/quotes/
 layout: page
 html_title: "What people say about Radically Open Dialectical Behaviour Therapy"
 title: "What do people say <br> about RO DBT?"
+redirect_from:
+    - /quotes/
 ---
 
 RO DBT is a new treatment, but we regularly hear very positive accounts from clinicians learning and applying these new ideas in their own practice, and from patients who have experienced RO DBT treatment.

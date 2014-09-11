@@ -22,4 +22,4 @@ Our [intensive training](/training/intensive/) is a two-part fast-track programm
 
 
 - [See the current list of training courses and dates](/events/).
-- [Read what patients and health professionals say about RO DBT](/quotes/)
+- [Read what patients and health professionals say about RO DBT](/about/quotes/)
