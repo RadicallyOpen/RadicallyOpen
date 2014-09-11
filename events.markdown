@@ -17,6 +17,7 @@ We regularly run training in partnership with particular organisations, for exam
 - [The Young Adult & Family Center, at the Langley Porter Psychiatric Institute](2015-05-san-francisco.html), University of California, San Francisco.
 - [The Haldon Eating Disorders Service](2015-03-exeter-haldon-intensive.html), Wonford House Hospital, Exeter
 - [South East Eating Disorders Scotland](2015-02-edinburgh-intensive.html) (SEEDS)
+- [The Hertfordshire Community Eating Disorders Service](2015-04-hatfield-introduction.html), part of the Hertfordshire Partnership NHS University Foundation Trust.
 
 If you are interested in co-hosting a training course in the UK or Europe, please also [get in touch](/contact/).
 
