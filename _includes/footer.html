@@ -32,6 +32,7 @@
   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
   <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/cookieconsent.css"/>
   <script type="text/javascript" src="{{ site.url }}/assets/js/cookieconsent.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/assets/js/URI.js"></script>
 
 
 
@@ -61,7 +62,19 @@
   </script>
   <!-- End Cookie Consent plugin -->
 
+  <script>
+  $( document ).ready(function(){
+     windowdir = URI(window.location.href).directory();
+     $("#topNavigation .menuitem").each(function() {
+      menudir = URI(this.href).directory()
+       if (windowdir.indexOf(menudir) > -1) {
+            $('.menuitem').removeClass('currentmenu');
+            $(this).addClass('currentmenu');
+       }
+     });
+  });
 
+  </script>
 
   </body>
 </html>
