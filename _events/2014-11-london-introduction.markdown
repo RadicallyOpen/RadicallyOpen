@@ -28,6 +28,7 @@ eventtype: introduction
 
 {{site.introduction_prices_UK}}
 
+- {{site.forpayments}}
 
 > {{site.forbooking}}
 

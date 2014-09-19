@@ -38,7 +38,7 @@ Prices are for the complete 10 day intensive workshop (2 x 5 days).
 - With earlybird discount (30 days before event): £2000
 
 - £250 discount per person for group booking (min 6)
-
+- {{site.forpayments}}
 
 > {{site.forbooking}}
 

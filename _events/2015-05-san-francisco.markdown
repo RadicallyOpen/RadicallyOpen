@@ -39,7 +39,7 @@ This workshop will be co-hosted by the [Young Adult & Family Center, at the Lang
 
 
 {{site.intensive_prices_US}}
-
+- {{site.forpayments}}
 
 > {{site.forbooking}}
 

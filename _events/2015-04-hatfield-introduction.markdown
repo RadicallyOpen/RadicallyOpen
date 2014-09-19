@@ -26,6 +26,7 @@ eventtype: introduction
 
 - Earlybird (30 days before event): £120 plus VAT
 - Otherwise £135 plus VAT
+- {{site.forpayments}}
 
 > {{site.forbooking}}
 

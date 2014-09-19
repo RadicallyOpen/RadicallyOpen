@@ -29,7 +29,7 @@ eventtype: intensive
 #### Prices and booking
 
 {{site.intensive_prices_US}}
-
+- {{site.forpayments}}
 
 
 > {{site.forbooking}}
