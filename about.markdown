@@ -32,15 +32,20 @@ RO DBT has been developed over the past 20 years for patients with chronic depre
 
 #### A new treatment
 
-RO DBT draws on principles and strategies from third-wave cognitive behavioural therapies, including dialectical behaviour therapy. It differs from previous treatments because it recognises that a fundamentally different approach is needed for patients who suffer from too much control.
+RO DBT offers a fundamentally different way to treatment for patients with overcontrol.
+The treatment starts by observing three core components of emotional well-being:
+
+1. *Openness* to feedback, even when this is challenging.
+2. *Flexibility* in our responses to changing environmental demands, and
+3. *Communication* of our emotions, with a recognition that expressing emotion is crucial when forming close interpersonal bonds.
 
 > Some patients lack emotional control and need interventions designed to enhance constraint or inhibitory control; others require interventions designed to relax rigid or inflexible inhibitory control.
 
-Treatment strategies in RO DBT derive from the theory that three, interrelated traits are required for emotional well-being:
+Treatment strategies aim to build:
 
-1. Receptivity and *openness* to feedback, even when this is challenging.
-2. *Flexibility* in our responses to changing environmental demands, and
-3. Recognition that emotions evolved to communicate, and that *expressing emotion* is an important social signal to others which helps us form close interpersonal bonds.
+- Acknowledgment and awareness of feedback that is unexpected or challenging.
+- Self enquiry into habitual responses to challenging feedback and our urges to regulate emotional responses to feedback (for example to defend, capitualte, avoid, or accept).
+- Flexible responding to the demands of the moment, with great emphasis on the importance of emotional expression to facilitate positive interpersonal relationships.
 
 
 

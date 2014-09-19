@@ -10,6 +10,7 @@ meta_description: Information for professionals wishing to train in RO DBT.
 
 We work with coaches, counsellors, nurses, occupational therapists, psychiatrists, psychologists, psychotherapists and social workers.   We encourage a team-based approach to learning RO DBT, and all of our courses emphasis a multi-disciplinary approach.
 
+RO DBT is a novel treatment specifically designed for [patients with overcontrol](/about/), and does not require prior training in standard DBT. A majority of RO DBT trainees are not standard-DBT trained.
 
 
 ### RO DBT training
