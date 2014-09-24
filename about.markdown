@@ -32,7 +32,7 @@ RO DBT has been developed over the past 20 years for patients with chronic depre
 
 #### A new treatment
 
-RO DBT offers a fundamentally different way to treatment for patients with overcontrol.
+RO DBT offers a fundamentally different way to treat patients with overcontrol.
 The treatment starts by observing three core components of emotional well-being:
 
 1. *Openness* to feedback, even when this is challenging.
