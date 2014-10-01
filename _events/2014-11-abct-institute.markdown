@@ -11,6 +11,7 @@ html_title: "RO DBT Institute at ABCT Philadelphia: Radically Open Dialectical B
 title: RO DBT Institute, ABCT Philadelphia
 redirect_from:
     - /events/2014-abct-institute.html
+    - /abct/
 eventtype: other
 ---
 
