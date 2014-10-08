@@ -31,11 +31,11 @@ eventtype: intensive
 
 #### Prices and booking
 
-{{site.intensive_prices_UK}}
-
+Because part 1 of this intensive course has already run, it may not be possible to attend part 2 – please contact us for further details.
 
 
 > {{site.forbooking}}
+
 
 #### Travel information to {{page.venue}}
 
