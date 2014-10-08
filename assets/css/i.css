@@ -1118,3 +1118,5 @@ footer .social ul li:last-child {
 }
 
 .currentmenu{text-decoration:underline;}
+
+.strike {text-decoration: line-through;}

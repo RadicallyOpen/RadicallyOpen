@@ -8,10 +8,10 @@ parts:
       to: 2015-05-15
     - from: 2016-01-18
       to: 2016-01-22
-location: San Franciso, USA
+location: San Franciso area, USA
 venue: TBC
-html_title: "RO DBT intensive training course, San Francisco, 2015/6"
-title: "RO DBT Intensive, San Franciso"
+html_title: "RO DBT intensive training course, San Francisco area, 2015/6"
+title: "RO DBT Intensive, San Francisco area"
 eventtype: intensive
 ---
 
