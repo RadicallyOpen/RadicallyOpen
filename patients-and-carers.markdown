@@ -15,9 +15,11 @@ redirect_from:
 
 Radically Open DBT offers hope for millions of chronically depressed patients, and patients with anorexia nervosa.
 
-- [Read what patients and health professionals say about RO DBT](/about/quotes/)
+> Please [contact us](/contact/) to see if there is an RO DBT trained practitioner in your area.
 
 At the moment we are focussed on training professionals to deliver this new treatment to patients, and to evaluate the effectiveness of RO DBT in real-world clinical settings. We are expanding our schedule of training courses, and running randomised controlled trials of RO DBT, recruiting patients within the UK's NHS.
+
+- [Read what patients and health professionals say about RO DBT](/about/quotes/)
 
 - Find out more about our current trial of RO DBT for chronic depression visit the [REFRAMED trial website](http://www.reframed.org.uk).
 
