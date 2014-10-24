@@ -15,7 +15,7 @@ redirect_from:
 eventtype: other
 ---
 
-## November 2015, {{page.location}}
+## November 2014, {{page.location}}
 
 <center>
 <div markdown="1" style="width:200px;">
