@@ -10,7 +10,7 @@ parts:
 location: Uppsala
 venue: Centre for Eating Disorders at the Akademiska Sjukhuset, Uppsala Sweden
 html_title: "RO DBT intensive training course, Uppsala Sweden, 2015-2016"
-title: "RO DBT Intensive Uppsala"
+title: "RO DBT Intensive Uppsala, Sweden"
 eventtype: intensive
 ---
 
