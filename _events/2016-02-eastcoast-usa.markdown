@@ -8,9 +8,9 @@ parts:
       to: 2016-02-05
     - from: 2016-09-17
       to: 2016-09-23
-location: East Coast, USA
+location: Atlanta, USA
 venue: TBC
-title: "RO DBT intensive training course, East Coast USA, 2016"
+title: "RO DBT intensive training course, Atlanta USA, 2016"
 eventtype: intensive
 ---
 
@@ -21,6 +21,8 @@ eventtype: intensive
 #### Overview
 
 {{site.intensive_generic_description}}
+
+This intensive will be cohosted by the [Department Clinical Psychology at Emory University](http://psychology.emory.edu/clinical/).
 
 - [Read an overview of our intensive course](/training/intensive.html)
 - [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
@@ -36,4 +38,5 @@ eventtype: intensive
 
 #### Travel information
 
-TBC
+This intensive will be cohosted by the [Department Clinical Psychology at Emory University](http://psychology.emory.edu/clinical/).
+Further details of the venue will follow shortly.
