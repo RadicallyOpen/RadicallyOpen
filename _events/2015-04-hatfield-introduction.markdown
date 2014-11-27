@@ -7,7 +7,7 @@ parts:
     - from: 2015-04-28
 location: Hatfield, London, UK
 venue: TBC
-title: "RO DBT introductory training course, 1-day, Hatfield, April 2015"
+title: "RO DBT introductory training course, 1-day, Hatfield, UK, April 2015"
 eventtype: introduction
 ---
 

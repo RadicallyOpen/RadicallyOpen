@@ -9,9 +9,9 @@ parts:
     - from: 2015-10-05
       to: 2015-10-09
 location: Exeter
-venue: The Haldon Clinic, Exeter
-html_title: "RO DBT intensive training course, Exeter, 2014-2015"
-title: "RO DBT Intensive Exeter"
+venue: The Haldon Clinic, Exeter, UK
+html_title: "RO DBT intensive training course, Exeter, UK, 2014-2015"
+title: "RO DBT Intensive Exeter, UK"
 eventtype: intensive
 ---
 

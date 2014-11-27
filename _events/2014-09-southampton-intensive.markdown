@@ -8,10 +8,10 @@ parts:
       to: 2014-09-19
     - from: 2015-03-23
       to: 2015-03-27
-location: Southampton
-venue: University of Southampton
+location: Southampton, UK
+venue: University of Southampton, UK
 html_title: "RO DBT intensive training course, Southampton UK, 2014-2015"
-title: "RO DBT Intensive Southampton: Part 2"
+title: "RO DBT Intensive Southampton, UK: Part 2"
 redirect_from:
     - /events/2014-southampton-intensive.html
 eventtype: intensive
