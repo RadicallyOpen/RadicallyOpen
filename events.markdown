@@ -5,6 +5,8 @@ title: "Forthcoming RO DBT training events"
 tags: RO DBT, events, training
 meta_description: Full listing of forthcoming RO DBT training events.
 permalink: /events/
+redirect_from:
+  - /dbt-babcp-mailout-events-dec2014.html
 ---
 
 
