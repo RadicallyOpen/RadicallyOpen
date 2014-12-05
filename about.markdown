@@ -4,6 +4,8 @@ layout: page
 html_title: About Radically Open DBT (RO DBT)
 title: Radically Open DBT
 tags: RO DBT
+redirect_from:
+  - /dbt-babcp-mailout-dec2014.html
 ---
 
 
