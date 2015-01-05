@@ -65,6 +65,30 @@ Carl Dunn Jr ([@CarlDunnJr](https://twitter.com/CarlDunnJr)), Mental Health Educ
 
 
 
+## What do clinicians think of our training sessions?
+
+
+Feedback on our our RO DBT intensives is typically extremely positive. Overall ratings for our most recent one day institute at ABCT were as follows:
+
+- Excellent: 93% (n=38) 
+- Good: 7% (n=3) 
+- Adequate: 0% (n=0) 
+- Inadequate: 0 (n=0)
+
+Some feedback from the delegates:
+
+<quote>
+Videos were excellent to demonstrate the approach with clients. Background explanations of theory and therapy were perfect given the constraints of  a single day workshop. I can’t wait to learn more though reading and more training
+</quote>
+
+<quote>
+Wonderful taste of RO – can’t wait to get more!
+</quote>
+
+<quote>
+	Extremely enjoyable presentation style
+</quote>
+
 - [Find out more about radical openness and the Radically Open DBT treatment](/about/)
 - [More about our training courses for health professionals](/professionals/)
 
