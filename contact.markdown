@@ -37,7 +37,7 @@ If you would like us to contact you regarding RO DBT or forthcoming training eve
 <input id="phones[0]_Value" name="phones[0].Value" type="text"/></p>
 
 
-<p><label for="insightly_background">Let us know what you're interested in: </label><br><textarea id="insightly_background" name="background"></textarea></p>
+<p><label for="insightly_background">Let us know what you're interested in. <strong>Please also tell us how you found us</strong> (e.g. email, google search, word of mouth) </label><br><textarea id="insightly_background" name="background"></textarea></p>
 
 
 <input type="submit" value="Submit"/></form>
