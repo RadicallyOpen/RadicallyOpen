@@ -10,6 +10,7 @@ location: DBT Center of Vancouver, Canada
 venue: Vancouver, Canada
 title: "RO DBT introductory course, 2-days, Vancouver Canada, January 2015"
 eventtype: introduction
+ce_credits: true
 ---
 
 
@@ -19,6 +20,11 @@ eventtype: introduction
 #### Overview
 
 {{site.introduction_generic_description}}
+
+{% if ce_credits %}
+**CE credits are available for this course**
+{% endif %}
+
 
 - [More information on the content of the introductory course](/training/introduction.html)
 
