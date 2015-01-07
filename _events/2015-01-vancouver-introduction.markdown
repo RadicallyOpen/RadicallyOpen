@@ -21,9 +21,8 @@ ce_credits: true
 
 {{site.introduction_generic_description}}
 
-{% if ce_credits %}
-**CE credits are available for this course**
-{% endif %}
+{{site.ce_credits_text}}
+
 
 
 - [More information on the content of the introductory course](/training/introduction.html)
