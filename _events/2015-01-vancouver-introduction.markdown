@@ -21,6 +21,8 @@ ce_credits: true
 
 {{site.introduction_generic_description}}
 
+
+
 {{site.ce_credits_text}}
 
 
