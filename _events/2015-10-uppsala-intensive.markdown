@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: event
 when: October 2015 and March 2016
 name: RO DBT Intensive
 parts:
@@ -26,13 +26,6 @@ eventtype: intensive
 - [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
 
 
-#### Prices and booking
-
-{{site.intensive_prices_UK}}
-- {{site.forpayments}}
-
-> {{site.forbooking}}
-
 
 #### Travel information to {{page.venue}}
 
@@ -44,6 +37,13 @@ This event is co-hosted by the Centre for Eating Disorders at the [Akademiska Sj
 [Information on travelling to the campus](http://www.southampton.ac.uk/visitus/campuses/highfield.html) is available on the university website.
 -->
 
+
+#### Prices and booking
+
+{{site.intensive_prices_UK}}
+- {{site.forpayments}}
+
+> {{site.forbooking}}
 
 
 

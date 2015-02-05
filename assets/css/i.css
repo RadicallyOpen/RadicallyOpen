@@ -1120,3 +1120,34 @@ footer .social ul li:last-child {
 .currentmenu{text-decoration:underline;}
 
 .strike {text-decoration: line-through;}
+
+
+ul.plain {
+    list-style: none !important;
+    list-style-type: none !important;
+}
+
+
+li.plain {
+    list-style: none !important;
+    list-style-type: none !important;
+}
+
+
+.form { font-size:90%; }
+
+
+
+#submit {
+    background-color: #ff8000;
+    color: white;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius:6px;
+    font-size: 24px;
+    padding:5px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+    margin-bottom:1em;
+}

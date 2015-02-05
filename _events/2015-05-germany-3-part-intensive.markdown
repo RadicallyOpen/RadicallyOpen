@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: event
 starts: 2015-05-1
 name: RO DBT Mini-Intensive
 when: May, July and October, 2010

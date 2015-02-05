@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: event
 when: June and December, 2015
 starts: 2016-02-01
 name: RO DBT intensive
@@ -28,6 +28,15 @@ This intensive will be cohosted by the [Department Clinical Psychology at Emory 
 - [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
 
 
+
+
+#### Travel information
+
+This intensive will be cohosted by the [Department Clinical Psychology at Emory University](http://psychology.emory.edu/clinical/).
+Further details of the venue will follow shortly.
+
+
+
 #### Prices and booking
 
 {{site.intensive_prices_US}}
@@ -35,8 +44,3 @@ This intensive will be cohosted by the [Department Clinical Psychology at Emory 
 
 
 > {{site.forbooking}}
-
-#### Travel information
-
-This intensive will be cohosted by the [Department Clinical Psychology at Emory University](http://psychology.emory.edu/clinical/).
-Further details of the venue will follow shortly.

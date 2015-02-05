@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: event
 when: February and November, 2015
 starts: 2015-02-09
 name: RO DBT intensive
@@ -35,10 +35,3 @@ This workshop will be co-hosted by South East Eating Disorders Scotland (SEEDS).
 - {{site.forpayments}}
 
 
-> {{site.forbooking}}
-
-
-
-<!-- #### Travel information
-
-TBC -->
