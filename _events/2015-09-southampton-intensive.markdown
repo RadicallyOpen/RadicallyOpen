@@ -4,8 +4,8 @@ when: Sept 2015 and April 2016
 starts: 2014-09-15
 name: RO DBT Intensive
 parts:
-    - from: 2015-09-14
-      to: 2015-09-18
+    - from: 2015-09-21
+      to: 2015-09-25
     - from: 2016-04-04
       to: 2016-04-08
 location: Southampton, UK
