@@ -10,6 +10,7 @@ location: Northern California CBT Network, Berkley, CA., USA
 venue: Berkley, CA, USA
 title: "SOLD OUT! RO DBT introductory course, 2-days, Berkley, CA., January 2015"
 eventtype: introduction
+hide: true
 ---
 
 
