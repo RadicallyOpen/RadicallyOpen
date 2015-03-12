@@ -12,8 +12,8 @@ parts:
     to: 2015-10-25
 location: Munich, Germany
 venue: TBC
-html_title: "RO DBT mini-intensive training course, Germany, 2015"
-title: "RO DBT Mini-Intensive, Germany"
+html_title: "CANCELLED RO DBT mini-intensive training course, Germany, 2015"
+title: "CANCELLED RO DBT Mini-Intensive, Germany"
 ---
 
 
@@ -21,27 +21,8 @@ title: "RO DBT Mini-Intensive, Germany"
 
 
 
-
 #### Overview
 
-Our intensive training is a normally a two-part fast-track programme, consisting of 2 x 5-day workshops; here the same content is split over 3 sessions. After completing the intensive training, practitioners may choose to progress to advanced level training and supervision.
+Unfortunately we have had to cancel this event. 
+- [For alternative events, please click here](/events.html)
 
-- [Read an overview of our standard intensive course)](/training/intensive.html)
-- [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html) (Note the running order will differ slighly for this 3-part adaptation.)
-
-
-#### Prices and booking
-
-Prices are for the complete 10 day intensive workshop (2 x 5 days).
-
-- Base price: £2250
-- With earlybird discount (30 days before event): £2000
-
-- £250 discount per person for group booking (min 6)
-- {{site.forpayments}}
-
-> {{site.forbooking}}
-
-#### Travel information
-
-TBC
