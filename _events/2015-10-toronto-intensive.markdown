@@ -27,7 +27,7 @@ eventtype: intensive
 - [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
 
 
-#### Travel information to {{page.venue}}
+#### Travel information {{page.venue}}
 Once the venue has been confirmed we will post the details here
 
 #### Prices and booking
