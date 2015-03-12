@@ -17,9 +17,6 @@ title: "CANCELLED RO DBT Mini-Intensive, Germany"
 ---
 
 
-{% include events_when.html %}
-
-
 #### Overview
 
 Unfortunately we have had to cancel this event. 
