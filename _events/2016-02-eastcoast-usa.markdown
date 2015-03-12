@@ -12,6 +12,7 @@ location: Atlanta, USA
 venue: TBC
 title: "RO DBT intensive training course, Atlanta USA, 2016"
 eventtype: intensive
+hide: true
 ---
 
 
