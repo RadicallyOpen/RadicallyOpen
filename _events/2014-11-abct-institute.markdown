@@ -13,6 +13,7 @@ redirect_from:
     - /events/2014-abct-institute.html
     - /abct/
 eventtype: other
+hide: true
 ---
 
 ## November 2014, {{page.location}}
