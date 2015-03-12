@@ -11,6 +11,7 @@ venue: Vancouver, Canada
 title: "SOLD OUT! RO DBT introductory course, 2-days, Vancouver Canada, January 2015"
 eventtype: introduction
 ce_credits: true
+hide: true
 ---
 
 
