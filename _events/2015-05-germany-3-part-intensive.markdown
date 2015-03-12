@@ -14,7 +14,7 @@ location: Munich, Germany
 venue: TBC
 html_title: "CANCELLED RO DBT mini-intensive training course, Germany, 2015"
 title: "This event has been cancelled"
-hide:true
+hide: true
 ---
 
 
