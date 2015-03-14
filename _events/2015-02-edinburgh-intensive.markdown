@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 when: February and November, 2015
 starts: 2015-02-09
 name: RO DBT intensive
