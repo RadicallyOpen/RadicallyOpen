@@ -26,6 +26,7 @@ eventtype: intensive
 - [Read an overview of our intensive course](/training/intensive.html)
 - [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
 
+This workshop will be co-hosted by [the WaterStone Clinic](http://www.waterstoneclinic.com/) in Toronto, Canada.
 
 #### Travel information {{page.venue}}
 Once the venue has been confirmed we will post the details here
