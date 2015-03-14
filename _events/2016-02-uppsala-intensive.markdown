@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 when: Feb/March 2016 and Nov 2016
 name: RO DBT Intensive
 parts:
