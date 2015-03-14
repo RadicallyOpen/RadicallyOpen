@@ -29,11 +29,11 @@ Self-control, the ability to inhibit competing urges, impulses, or behaviours is
 
 RO-DBT posits emotional loneliness as the core problem underlying maladaptive overcontrol. Heightened threat sensitivity and diminished reward sensitivity are hypothesized to transact with early family experiences emphasizing “mistakes intolerable” and “self-control imperative” to produce overcontrolled coping.  A novel thesis linking the communicative functions of emotional expression to the formation of close social bonds will be introduced, as well as new skills emphasizing receptivity, self-enquiry and flexible responding. New approaches to activate a neurobiologically-based social-safety system, signal cooperation, enhance forgiveness, and change envy/bitterness will be introduced; using videos and role play.
 
-Objectives: Participants will be able to…
-1.             Explain the biosocial theory for overcontrol (OC) and recognize core differences between undercontrol and overcontrol. 
-2.             Describe the RO-DBT treatment hierarchy and the five OC behavioural themes. 
-3.             Describe the importance of activating a neural substrate associated with the ventral vagal complex and social-safety when working with OC.
-4.             Demonstrate non-verbal strategies to repair therapeutic-alliance ruptures and articulate how open expression enhances intimate relationships. 
-5.             Define radical openness and practice self-enquiry to enhance learning from disconfirming or unexpected feedback.
+Objectives: Participants will be able to… <p>
+1. Explain the biosocial theory for overcontrol (OC) and recognize core differences between undercontrol and overcontrol. <p>
+2. Describe the RO-DBT treatment hierarchy and the five OC behavioural themes. <p>
+3. Describe the importance of activating a neural substrate associated with the ventral vagal complex and social-safety when working with OC. <p>
+4. Demonstrate non-verbal strategies to repair therapeutic-alliance ruptures and articulate how open expression enhances intimate relationships. <p>
+5. Define radical openness and practice self-enquiry to enhance learning from disconfirming or unexpected feedback. <p>
 
 Additional information about the workshop can be found on the [BABCP Workshops page](http://www.babcpconference.com/programme/workshops_2015.htm)
