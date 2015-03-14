@@ -2,11 +2,8 @@
 layout: page
 location: 43rd Annual Conference and Workshops, Warwick, UK
 venue: University of Warwick, UK
-starts: 2015-07-15
+starts: 2015-07-21
 name: RO DBT Clinical Intervention Training (two days) at ABCT
-parts:
-    - from: 2015-07-15
-      to: 2015-07-15
 html_title: "RO DBT Workshop BABCP: Radically Open Dialectical Behavior Therapy (RO DBT) for disorders of overcontrol"
 title: RO DBT Workshop, BABCP Warwick, UK
 eventtype: other
