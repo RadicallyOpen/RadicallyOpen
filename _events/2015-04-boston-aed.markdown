@@ -22,7 +22,7 @@ ce_credits: true
 Tom will be giving an introductory workshop at Academy for Eating Disorders' International Conference, on April 22nd, 2015
 at the Boston Marriott Hotel.
 
-For more information on the conference as a whole, and for booking, [go directly to the conference website](http://www.aedweb.org/web/index.php/14-slideshow/134-2015-international-conference-on-eating-disorders)
+For more information on the conference as a whole, and for booking, [go directly to the conference website](http://www.aedweb.org/ICED2015/)
 
 Please note, the teaching day is pre-conference i.e. April 22nd
 
@@ -40,4 +40,4 @@ Please note, the teaching day is pre-conference i.e. April 22nd
 
 #### Prices and booking
 
-For booking please see [go directly to the conference website](http://www.aedweb.org/web/index.php/14-slideshow/134-2015-international-conference-on-eating-disorders)
+For booking please see [go directly to the conference website](http://www.aedweb.org/ICED2015/)
