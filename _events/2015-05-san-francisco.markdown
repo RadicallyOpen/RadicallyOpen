@@ -48,7 +48,4 @@ The workshop will be held at the [Brower Center.org](www.browercenter.org).
 {{site.intensive_prices_US}}
 - {{site.forpayments}}
 
-> {{site.forbooking}}
-
-
 
