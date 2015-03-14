@@ -3,7 +3,7 @@ layout: page
 location: 49th Annual ABCT Convention, Chicago
 venue: Hilton Hotel Chicago
 starts: 2015-11-12
-name: RO DBT Institute at ABCT
+name: RO DBT Clinical Intervention Training (two days) at ABCT
 parts:
     - from: 2015-11-12
       to: 2015-11-15
