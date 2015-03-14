@@ -13,7 +13,7 @@ venue: Mercure Winchester Wessex Hotel, UK
 html_title: "RO DBT intensive training course, Winchester UK, 2015-2016"
 title: "RO DBT Intensive Winchester, UK"
 redirect_from:
-    - /events/2014-winchester-intensive.html
+    - /events/2014-southampton-intensive.html
 eventtype: intensive
 ---
 
