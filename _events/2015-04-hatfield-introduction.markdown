@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 starts: 2015-04-28
 name: "RO DBT introductory training course"
 when: April 2015
