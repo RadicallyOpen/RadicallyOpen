@@ -32,9 +32,9 @@ This workshop will be co-hosted by [the WaterStone Clinic](http://www.waterstone
 Once the venue has been confirmed we will post the details here
 
 #### Prices and booking
-- Base price: CAD$4750
-- Early bird price: CAD$4000 (if booked before September 19th, 2015)
-- CAD$500 discount per-person for groups of 6 of more
+- Base price: CAD$ 4750 (or US$ 3700) 
+- Early bird price: CAD$ 4000 (or US$ 3100) if booked before September 19th, 2015
+- CAD$ 500 (or US$ 350) discount per-person for groups of 6 of more
 
 - {{site.forpayments}}
 
