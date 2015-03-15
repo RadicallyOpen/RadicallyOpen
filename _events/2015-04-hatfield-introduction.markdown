@@ -5,6 +5,7 @@ name: "RO DBT introductory training course"
 when: April 2015
 parts:
     - from: 2015-04-28
+      to: 2015-04-28
 location: Hatfield, London, UK
 venue: The Colonnades, The Triangle, Hatfield Hertfordshire, AL10 8YE
 title: "RO DBT introductory training course, 1-day, Hatfield, UK, April 2015"
