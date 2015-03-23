@@ -8,7 +8,7 @@ parts:
       to: 2015-05-15
     - from: 2016-01-18
       to: 2016-01-22
-location: Berley, CA, USA
+location: Berkeley, CA, USA
 venue: TBC
 html_title: "RO DBT intensive training course, Berkeley, CA, USA, 2015/6"
 title: "RO DBT Intensive, Berkeley, CA, USA"
