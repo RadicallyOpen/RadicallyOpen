@@ -13,6 +13,7 @@ venue: TBC
 html_title: "RO DBT intensive training course, Toronto, Canada, 2015-2016"
 title: "RO DBT Intensive Toronto, Canada"
 eventtype: intensive
+hide: true
 ---
 
 
