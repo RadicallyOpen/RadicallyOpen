@@ -7,7 +7,7 @@ parts:
     - from: 2015-05-17
       to: 2015-05-17
 location: Toronto, Canada
-venue: Toronto Convention Centre
+venue: Sheraton Centre
 title: "RO-DBT Institute 6 hour workshop, 1-day, Toronto, Canada, 17 May 2015"
 eventtype: introduction
 ce_credits: true
