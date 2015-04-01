@@ -6,8 +6,8 @@ when: April 2015
 parts:
     - from: 2015-04-22
       to: 2015-04-22
-location: Boston Marriott Hotel
-venue: Vancouver, Canada
+location: Boston, MA
+venue: Boston Marriott Hotel Copley Place
 title: "RO DBT introductory workshop, 1-day, Boston, USA, 22 April 2015"
 eventtype: introduction
 ce_credits: true
