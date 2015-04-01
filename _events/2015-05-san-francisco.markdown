@@ -9,7 +9,7 @@ parts:
     - from: 2016-01-18
       to: 2016-01-22
 location: Berkeley, CA, USA
-venue: TBC
+venue: Brower Centre
 html_title: "RO DBT intensive training course, Berkeley, CA, USA, 2015/6"
 title: "RO DBT Intensive, Berkeley, CA, USA"
 eventtype: intensive
