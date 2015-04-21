@@ -9,7 +9,7 @@ parts:
     - from: 2016-05-09
       to: 2016-05-13
 location: Toronto, Canada
-venue: TBC
+venue: University of Toronto St. Georges Campus
 html_title: "RO DBT intensive training course, Toronto, Canada, 2015-2016"
 title: "RO DBT Intensive Toronto, Canada"
 eventtype: intensive
@@ -29,7 +29,7 @@ eventtype: intensive
 This workshop will be co-hosted by [the WaterStone Clinic](http://www.waterstoneclinic.com/) in Toronto, Canada.
 
 #### Travel information {{page.venue}}
-Once the venue has been confirmed we will post the details here
+The training will take place at the University of Toronto, St Georges Campus.
 
 #### Prices and booking
 - Base price: CAD$ 4750 (or US$ 3700) 
