@@ -9,7 +9,7 @@ parts:
     - from: 2016-05-09
       to: 2016-05-13
 location: Toronto, Canada
-venue: University of Toronto St. Georges Campus
+venue:
 html_title: "RO DBT intensive training course, Toronto, Canada, 2015-2016"
 title: "RO DBT Intensive Toronto, Canada"
 eventtype: intensive
