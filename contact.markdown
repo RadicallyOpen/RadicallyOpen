@@ -25,27 +25,25 @@ If you would like us to contact you regarding RO DBT or forthcoming training eve
 <p><label for="insightly_firstName">First Name: </label><br />
 <input id="insightly_firstName" name="FirstName" type="text"/></p>
 
-
 <p><label for="insightly_lastName">Last Name: </label><br />
 <input id="insightly_lastName" name="LastName" type="text"/></p>
 
 <p><label for="email[0]_Value">Work Email: </label><br />
 <input id="emails[0]_Value" name="emails[0].Value" type="text"/></p>
+
 <input type="hidden" name="phones[0].Label" value="Work"/>
 
 <p><label for="phones[0]_Value">Work Phone: </label><br />
 <input id="phones[0]_Value" name="phones[0].Value" type="text"/></p>
 
+<p><label for="insightly_clinician-patient">Are you contacting us as a clinician/health care professional or a client/patient?</label><br />
+<input id="insightly_clinician-patient" name="insightly_clinician-patient" type="text"/></p>
 
-<p><label for="insightly_background">Let us know what you're interested in. <strong>Please also tell us how you found us</strong> (e.g. email, google search, word of mouth) </label><br><textarea id="insightly_background" name="background"></textarea></p>
+<p><label for="insightly_background">Let us know what you're interested in. <strong></label><br><textarea id="insightly_background" name="background"></textarea></p>
 
+<p><label for="insightly_foundus">Please  tell us how you found us (e.g. email, google search, word of mouth) </label><br><textarea id="insightly_foundus" name="foundus"></textarea></p>
 
 <input type="submit" value="Submit"/></form>
-
-
-
-
-
 
 
 ### Our Address
