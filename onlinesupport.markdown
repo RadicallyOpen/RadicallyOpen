@@ -13,4 +13,4 @@ We offer online support for RO DBT delegates who attend Intensive Training cours
 To access the course, go to [Radical Openness Online](https://www.coursesites.com/s/_RO-2014). Then click ‘Login as an enrolled student’. This should take you straight to the page.
 Please note: you should have registered first.
 
-If you experience any problems with this, please contact [Roelie Hempel](mailto:{{site.emails.technical}})
+If you experience any problems with this, please contact [Roelie Hempel](mailto:{site.emails.technical}) 
