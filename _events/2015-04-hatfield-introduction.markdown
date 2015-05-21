@@ -10,6 +10,7 @@ location: Hatfield, Hertfordshire, UK
 venue: The Colonnades, The Triangle, Hatfield Hertfordshire, AL10 8YE
 title: "RO DBT introductory training course, 1-day, Hatfield, UK, April 2015"
 eventtype: introduction
+hide: true
 ---
 
 
