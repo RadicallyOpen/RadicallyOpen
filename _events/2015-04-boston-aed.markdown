@@ -11,6 +11,7 @@ venue: Boston Marriott Hotel Copley Place
 title: "RO DBT introductory workshop, 1-day, Boston, USA, 22 April 2015"
 eventtype: introduction
 ce_credits: true
+hide: true
 ---
 
 
