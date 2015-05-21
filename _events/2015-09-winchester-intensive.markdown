@@ -39,7 +39,6 @@ eventtype: intensive
 {{site.intensive_prices_UK}}
 - {{site.forpayments}}
 
-<a href="http://ww8.aitsafe.com/cf/add.cfm?userid=A5341507&product=Winchester%Intensive%Training%September%2015&price=2000&currency=4">Buy now </a>
 
 > {{site.forbooking}}
 
