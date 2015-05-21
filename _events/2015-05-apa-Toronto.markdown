@@ -11,6 +11,7 @@ venue: Sheraton Centre
 title: "RO-DBT Institute 6 hour workshop, Toronto, Canada, 17 May 2015"
 eventtype: introduction
 ce_credits: true
+hide: true
 ---
 
 
