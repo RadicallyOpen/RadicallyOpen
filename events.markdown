@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-
+#### Latest news: We are now a certified Sponsor for the American Psychological Association!
 
 ### Co-hosted training
 
