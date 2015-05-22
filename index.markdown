@@ -25,7 +25,7 @@ We specialise in intensive training and online support for professionals who wan
 - [More about our training courses for health professionals](/professionals/)
 - [Read what patients and health professionals are saying about RO DBT](/about/quotes/)
 
-
+## We are now a certified Sponsor for the American Psychological Association!
 
 <hr>
 
