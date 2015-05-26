@@ -37,7 +37,7 @@ eventtype: intensive
 #### Prices and booking
 
 - Early Bird registration before 20th July 2015: £2000 (payment can follow)
-- After 20th July: £2700
+- After 20th July: £2750
 - {{site.forpayments}}
 
 
