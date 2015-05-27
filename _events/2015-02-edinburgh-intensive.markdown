@@ -29,9 +29,6 @@ This workshop will be co-hosted by South East Eating Disorders Scotland (SEEDS).
 
 
 #### Prices and booking
-
-{{site.intensive_prices_UK}}
-
-- {{site.forpayments}}
+It is no longer possible to book onto this course
 
 
