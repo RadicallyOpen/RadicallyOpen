@@ -43,8 +43,6 @@ The workshop will be held at the [Brower Center](www.browercenter.org).
 
 
 #### Prices and booking
-
-{{site.intensive_prices_US}}
-- {{site.forpayments}}
+It is no longer possible to book onto this course.
 
 
