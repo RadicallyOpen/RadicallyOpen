@@ -10,6 +10,7 @@ meta_description: Directory of therapists able to see patients for RO-DBT.
 Below is a list of health professionals trained in RO-DBT who can be contacted directly for treatment availability.
 
 ### USA
+
 | State      	| Area              	| Details       	|                                                                                                                                                                                                                      	|
 |------------	|-------------------	|---------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | California 	| Los Altos         	| Name:         	| Hal Lynne Micali, MFT                                                                                                                                                                                                	|
@@ -48,9 +49,6 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 |            	|                   	| Email:        	| kirstenmcateerlpc@gmail.com                                                                                                                                                                                          	|
 |            	|                   	| Address:      	| 4424 NE Glisan St.m Portland, OR    97213                                                                                                                                                                            	|
 |            	|                   	| Treatment of: 	| primarily eating disorders, but also general   anxiety and mood related issues                                                                                                                                       	|
-
 ### UK
 
 
-- [See the current list of training courses and dates](/events/).
-- [Read what patients and health professionals say about RO DBT](/about/quotes/)
