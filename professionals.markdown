@@ -24,5 +24,5 @@ Our [intensive training](/training/intensive/) is a two-part fast-track programm
 
 - [See the current list of training courses and dates](/events/).
 - [Read what patients and health professionals say about RO DBT](/about/quotes/)
-- For a list of RO-DBT practitioners, please see the [RO-DBT therapist directory](/therapist-directory/). If you wish to be added to this list, contact [Roelie Hempel](emailto:roelie@radicallyopen.net)
+- For a list of RO-DBT practitioners, please see the [RO-DBT therapist directory](/therapist-directory/). If you wish to be added to this list, contact [Roelie Hempel](mailto:roelie@radicallyopen.net)
 
