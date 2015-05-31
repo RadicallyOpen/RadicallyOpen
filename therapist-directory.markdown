@@ -33,7 +33,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Email: maxburns@me.com
 * Address: RO-DBT individual and skills class in Pacifica, CA  403 Dondee St, Pacifica CA 94044.  Individual 		RO-DBT at 2000 Broadway St, Redwood City, CA 94063. 
 * Treatment of:	depression, anxiety, eating disorders, addiction and OC personality disorders
-			
+
+####California: Redwood City			
+* Name:	Elisabeth Bellows, MD	
+* Phone number:	650-306-8909	
+* Email: ebellows@idiom.com	
+* Address: 617 Veterans Blvd., Suite 107, Redwood City, CA 94063	
+* Treatment of:	special expertise, interest, and willingness in dual diagnosis (co-occuring substance use disorders plus mental health disorders)	
+
 #### Minnesota: Fridley		
 * Name:	DBT Associates
 * Phone number:	763-503-3981
@@ -54,6 +61,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Email: kirstenmcateerlpc@gmail.com
 * Address: 4424 NE Glisan St.m Portland, OR  97213
 * Treatment of:	primarily eating disorders, but also general anxiety and mood related issues
+
+#### Oregon: Portland
+* Name:	Katherine Calvert, LCSW
+* Phone number:	503-705-2194
+* Email: knscal@comcast.net
+* Treatment of:	Depression, anxiety, PTSD. Mostly couples or individuals who would like to improve their relationships
+* Website: www.KatherineCalvertLCSW.com
 
 
 # UK
