@@ -41,6 +41,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 617 Veterans Blvd., Suite 107, Redwood City, CA 94063	
 * Treatment of:	special expertise, interest, and willingness in dual diagnosis (co-occuring substance use disorders plus mental health disorders)	
 
+####California: Redwood City
+* Name:	Wes Pederson, PhD
+* Phone number:	650-804-8739
+* Email: drwespederson@gmail.com
+* Address: 617 Veterans Blvd, Suite 204, Redwood City, CA 94063
+* Treatment of:	adults and adolescents; men's groups; anxiety and mood disorders, relationship issues, substance abuse, existential issues, personality disorders
+
 #### Minnesota: Fridley		
 * Name:	DBT Associates
 * Phone number:	763-503-3981
@@ -69,6 +76,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Treatment of:	Depression, anxiety, PTSD. Mostly couples or individuals who would like to improve their relationships
 * Website: www.KatherineCalvertLCSW.com
 
+#### Washington: Seattle
+* Name:	Elizabeth LoTempio, PsyD
+* Company: Evidence Based Treatment Centers of Seattle
+* Phone number:	206-374-0109
+* Email: elotempio@ebtseattle.com
+* Treatment of:	eating disorders, depression, personality disorders
+* Website: www.ebtseattle.com
 
 # UK
 Awaiting details
