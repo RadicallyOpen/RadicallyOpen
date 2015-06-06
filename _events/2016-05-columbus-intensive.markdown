@@ -32,11 +32,9 @@ hide:
 Blacklick, Ohio (exact venue TBC)
 
 #### Prices and booking
-  Prices are for the complete 10 day intensive workshop (2 x 5 days).
-  - Base price $4000
-  - With earlybird discount (90 days before event): $3100
-  - $300 discount per person for group booking (min 6)
-  
+{{site.intensive_prices_US}}
+
+
 - {{site.forpayments}}
 
 > {{site.forbooking}}
