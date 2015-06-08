@@ -27,6 +27,7 @@ hide:
 - [Read an overview of our intensive course](/training/intensive.html)
 - [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
 
+APA CE credits: 70 (for comppleting all 10 days)
 
 #### Travel information {{page.venue}}
 Blacklick, Ohio (exact venue TBC)
