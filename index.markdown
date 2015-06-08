@@ -26,7 +26,7 @@ We specialise in intensive training and online support for professionals who wan
 - [Read what patients and health professionals are saying about RO DBT](/about/quotes/)
 
 ### Latest news: We are now an approved Sponsor for the American Psychological Association!
-![APA Sponsor Approval Logo](https://www.dropbox.com/s/ingvh97b76m097m/APA%20approval%20Icon%20with%20RO%20text.png?dl=0)
+![APA Sponsor Approval Logo](https://dl.dropboxusercontent.com/u/5411729/APA%20approval%20Icon%20with%20RO%20text.png)
 
 <hr>
 
