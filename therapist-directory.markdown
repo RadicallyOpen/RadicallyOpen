@@ -84,6 +84,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Treatment of:	eating disorders, depression, personality disorders
 * Website: www.ebtseattle.com
 
+#### Washington: Seattle, Bellevue and surrounding Puget Sound area
+* Name:	Kristi Colwell, MA, LMHC
+* Phone number:	206-726-6040
+* Email: kclmhc@gmail.com 
+* Treatment of:	the full spectrum of eating disorders, anxiety disorders, depression, and relationship issues,  adolescents and adults, individual, couples and family therapy in addition to RO-DBT skills classes
+
+
 # UK
 Awaiting details
 
