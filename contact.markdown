@@ -53,6 +53,12 @@ For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or ca
 
 	</select>
 </div>
+<div class="mc-field-group input-group">
+    <strong>I am interested in ... </strong>
+    <ul><li><input type="checkbox" value="1" name="group[5961][1]" id="mce-group[5961]-5961-0"><label for="mce-group[5961]-5961-0">Upcoming training events</label></li>
+<li><input type="checkbox" value="2" name="group[5961][2]" id="mce-group[5961]-5961-1"><label for="mce-group[5961]-5961-1">RO-DBT Manual and Papers</label></li>
+</ul>
+</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
