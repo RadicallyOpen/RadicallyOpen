@@ -37,7 +37,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 ####California: Redwood City			
 * Name:	Elisabeth Bellows, MD	
 * Phone number:	650-306-8909	
-* Email: ebellows@idiom.com	
+* Email: ebellowsmd@icloud.com	
 * Address: 617 Veterans Blvd., Suite 107, Redwood City, CA 94063	
 * Treatment of:	special expertise, interest, and willingness in dual diagnosis (co-occuring substance use disorders plus mental health disorders)	
 
