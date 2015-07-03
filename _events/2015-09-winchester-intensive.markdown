@@ -41,7 +41,7 @@ eventtype: intensive
 
 <form action="http://ww8.aitsafe.com/cf/add.cfm" method="post">
 <input type="hidden" name="userid" value="A5341507">
-<input type="hidden" name="product" value="RO-DBT Intensive Training Early Bird">
+<input type="hidden" name="product" value="RO-DBT Intensive Training Winchester September 2015">
 <input type="hidden" name="price" value="2750">
 <input type="hidden" name="currency" value="4">
 <input type="hidden" name="return" value="http://www.radicallyopen.net/">
