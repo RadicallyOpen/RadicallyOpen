@@ -43,8 +43,10 @@ eventtype: intensive
 <input type="hidden" name="userid" value="A5341507">
 <input type="hidden" name="product" value="RO-DBT Intensive Training Winchester, starts Sept 2015">
 <input type="hidden" name="price" value="2750">
+<input type=”hidden” name=”currency” value=”4”>
 <input type="Submit" value="Pay and Secure a Place Now">
 </form>
+
 
 
 > {{site.forbooking}}
