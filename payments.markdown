@@ -15,6 +15,6 @@ For UK courses you can pay by card via the link provided on the Events page. How
 
 ### US, Canadian, and European courses
 
-You can pay via credits card using the link provided on the events page, which will take you directly to the shopping cart. Alternatively, you can send a cheque in your own currency, made out to Radically Open Limited, and post it to Erica Smith-Lynch, The Lodge, Baybridge Park, Owslebury, SO21 1JN, England.
+You can pay via credit or debit card using the link provided on the events page, which will take you directly to the shopping cart. Alternatively, you can send a cheque in your own currency, made out to Radically Open Limited, and post it to Erica Smith-Lynch, The Lodge, Baybridge Park, Owslebury, SO21 1JN, England.
 
 For any problems or questions, please contact Erica Smith via [email](mailto:erica@radicallyopen.net), or Roelie Hempel phone (+44 (0)78101 31610). 
