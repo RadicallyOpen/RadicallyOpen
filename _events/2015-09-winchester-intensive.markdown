@@ -38,7 +38,8 @@ eventtype: intensive
 
 - Early Bird registration before 20th June 2015: £2000 (payment can follow)
 - After 20th June 2015: £2750
-- {{site.forpayments}}
+
+<a href="http://ww8.aitsafe.com/cf/add.cfm?userid=A5341507&product=Winchester%Intensive%Training%September%2015&price=2750&currency=4"> Pay and Secure a Place now </a>
 
 
 > {{site.forbooking}}
