@@ -6,7 +6,7 @@ title: Make a payment
 
 ### UK courses
 
-For UK courses we accept payments for courses via cheque or UK bank transfer. Payments should be made to
+For UK courses you can pay by card via the link provided on the Events page. However, we also accept payments for courses via cheque or UK bank transfer. Payments should be made to
 
 - Radically Open Ltd
 - Acct no. 53821323
@@ -15,4 +15,6 @@ For UK courses we accept payments for courses via cheque or UK bank transfer. Pa
 
 ### US, Canadian, and European courses
 
-You will soon be able to pay by credit card via this website. Until we have set this up, please contact Erica Smith for payments via [email](mailto:erica@radicallyopen.net), phone (+44 (0)78101 31610), or send a cheque in your own currency, made out to Radically Open Limited, and post it to Erica Smith-Lynch, The Lodge, Baybridge Park, Owslebury, SO21 1JN, England.
+You can pay via credits card using the link provided on the events page, which will take you directly to the shopping cart. Alternatively, you can send a cheque in your own currency, made out to Radically Open Limited, and post it to Erica Smith-Lynch, The Lodge, Baybridge Park, Owslebury, SO21 1JN, England.
+
+For any problems or questions, please contact Erica Smith via [email](mailto:erica@radicallyopen.net), or Roelie Hempel phone (+44 (0)78101 31610). 
