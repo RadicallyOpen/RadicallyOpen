@@ -47,9 +47,7 @@ links:
     url: /contact/
   - title: Online Support Website
     url: /onlinesupport/
-  - title: View Shopping Cart
-    url: <A HREF="http://ww8.aitsafe.com/cf/review.cfm?userid=A5341507"> Review Cart </A>
-    external: true
+  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
