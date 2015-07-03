@@ -39,14 +39,7 @@ eventtype: intensive
 - Early Bird registration before 20th June 2015: £2000 (payment can follow)
 - After 20th June 2015: £2750
 
-<form action="http://ww8.aitsafe.com/cf/add.cfm" method="post">
-<input type="hidden" name="userid" value="A5341507">
-<input type="hidden" name="product" value="RO-DBT Intensive Training Winchester, starts Sept 2015">
-<input type="hidden" name="price" value="2750">
-<input type=”hidden” name=”currency” value=”4”>
-<input type="Submit" value="Pay and Secure a Place Now">
-</form>
-
+<a href="http://ww8.aitsafe.com/cf/add.cfm?userid=A5341507&product=Winchester%Intensive%Training%September%2015&price=2750&currency=4"> Pay and Secure a Place now </a>
 
 
 > {{site.forbooking}}
