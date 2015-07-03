@@ -42,7 +42,7 @@ This event is co-hosted by the Centre for Eating Disorders at the [Akademiska Sj
 
 {{site.intensive_prices_UK}}
 
-<a href="http://ww8.aitsafe.com/cf/add.cfm?userid=A5341507&product=RO-DBT%Intensive%Training%February%2016&price=2000&currency=4"&return=http://www.radicallyopen.net/> Pay and Secure a Place now </a>
+<a href="http://ww8.aitsafe.com/cf/add.cfm?userid=A5341507&product=RO-DBT%Intensive%Training%February%2016&price=2000&currency=4"&return=http://www.radicallyopen.net/>Pay and Secure a Place now </a>
 
 > {{site.forbooking}}
 
