@@ -38,5 +38,4 @@ Upon completion of this one-day training, participants will be able to:
 6.	List examples of strategies designed to improve pro-social cooperative signalling via activation of the parasympathetic nervous system’s social-safety system
 
 
-Please go to the [BABCP Training Events page](http://www.babcp.com/Training/Events) for further information and registration forms
-or contact the [DBT SIG](mailto:dbt-sig@babcp.com) directly.
+Please go to the [BABCP Training Events page](http://www.babcp.com/Training/Events.aspx) for further information and registration forms or contact the [DBT SIG](mailto:dbt-sig@babcp.com) directly.
