@@ -1,14 +1,14 @@
 ---
 layout: page
-location: BABCP Dialectical Behaviour Therapy Special Interest Group, Derbyshire Healthcare Foundation NHS Trust
-venue: Kingsway Hospital, Derby
+location: Derby
+venue: Kingsway Hospital
 starts: 2015-10-16
 parts:
     - from: 2015-10-16
       to: 2015-10-16
 name: RO-DBT Full-day workshop
 html_title: "RO-DBT Workshop BABCP Dialectical Behaviour Therapy Special Interest Group: Radically Open Dialectical Behavior Therapy (RO-DBT) for disorders of overcontrol"
-title: RO-DBT Workshop, BABCP Dialectical Behaviour Therapy Special Interest Group, Derby
+title: RO-DBT Workshop, BABCP Dialectical Behaviour Therapy Special Interest Group
 eventtype: other
 ---
 
