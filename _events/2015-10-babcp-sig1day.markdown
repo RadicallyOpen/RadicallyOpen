@@ -1,6 +1,6 @@
 ---
 layout: page
-location: Derby
+location: Kingsway Hospital, Derby
 venue: Kingsway Hospital
 starts: 2015-10-16
 parts:
