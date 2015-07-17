@@ -43,6 +43,6 @@ The workshop will be held at the [Brower Center](www.browercenter.org).
 
 
 #### Prices and booking
-It is no longer possible to book onto this course.
+Part 1 has already taken place in May 2015; it is no longer possible to book onto this course.
 
 
