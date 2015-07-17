@@ -31,7 +31,7 @@ If you are interested in co-hosting a training course in the UK or Europe, pleas
 ####Please note: our Intensive Trainings consist of 2 x 5 days, with 6-9 months in between the two training weeks. If part 1 has already taken place it will no longer be possible to book onto that course. 
 
 
-[Alternatively, see a calendar view of all events here](/events/calendar.html)
+[To see a calendar view of all events, click here](/events/calendar.html)
 
 
 {% include events_list.html %}
