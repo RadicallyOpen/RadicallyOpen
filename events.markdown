@@ -28,8 +28,7 @@ If you are interested in co-hosting a training course in the UK or Europe, pleas
 
 ### Forthcoming workshops and training events
 
-
-Over the next few months we will be adding further training days in the UK and Europe. To book places please contact [Erica Smith](mailto:{{site.bookings.email}}).
+####Please note: our Intensive Trainings consist of 2 x 5 days, with 6-9 months in between the two training weeks. If part 1 has already taken place it will no longer be possible to book onto that course. 
 
 
 [Alternatively, see a calendar view of all events here](/events/calendar.html)
