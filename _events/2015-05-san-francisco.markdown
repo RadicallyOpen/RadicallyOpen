@@ -1,12 +1,12 @@
 ---
 layout: page
-when: Part 1: May 2015 and Part 2: Jan 2016
+when: Part 1 May 2015 and Part 2 Jan 2016
 starts: 2015-05-11
 name: RO DBT Intensive
 parts:
-    - from: part 1: 2015-05-11
+    - from: 2015-05-11
       to: 2015-05-15
-    - from: part 2: 2016-01-18
+    - from: 2016-01-18
       to: 2016-01-22
 location: Berkeley, CA, USA
 venue: Brower Centre
