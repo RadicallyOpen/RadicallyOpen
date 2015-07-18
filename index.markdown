@@ -7,7 +7,7 @@ image:
     feature: bruegel.jpg
 header:
     colour: None
-tweet: Radically Open—Training, supervision and support for patients, carers and health professionals.
+tweet: Radically Open—Training, supervision and support for health professionals.
 footertext: "Main image [Children's Games, Pieter Bruegel](http://en.wikipedia.org/wiki/Children's_Games_(Bruegel))."
 redirect_from:
   - /radical-openness.html
@@ -17,7 +17,7 @@ redirect_from:
 
 {{site.people}}
 
-### Training, supervision and support for patients, carers, and health professionals.
+### Training, supervision and support for health professionals.
 
 We specialise in intensive training and online support for professionals who want to develop **Radically Open DBT** services, or enhance their existing practice, for patients with [emotional over-control](/about/#overcontrol).
 
