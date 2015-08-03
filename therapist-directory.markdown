@@ -17,7 +17,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Fax:	650 941-8083 
 * Email: hlmicali@pacbell.net
 * Address: 329 S. San Antonio Rd. Suite 3, Los Altos, CA 94022
-* Treatment of:	Mood, sleep and anxiety disorders and eating disorders
+* Treatment of:	Mood, sleep and anxiety disorders and eating disorders; Social Anxiety, Avoidant PD, OCPD and Borderline Personality Disorder practicing DBT for over 17 years, RO-DBT, Behavior Activation and CBT-I
 			
 #### California: Menlo Park		
 * Name:	Julie Leader, PhD
