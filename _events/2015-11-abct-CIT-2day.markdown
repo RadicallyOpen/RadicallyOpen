@@ -2,11 +2,11 @@
 layout: page
 location: 49th Annual ABCT Convention, Chicago
 venue: Hilton Hotel Chicago
-starts: 2015-11-12
+starts: 2015-11-11
 name: RO DBT Clinical Intervention Training (two days) at ABCT
 parts:
-    - from: 2015-11-12
-      to: 2015-11-15
+    - from: 2015-11-11
+      to: 2015-11-12
 html_title: "RO DBT Clinical Intervention Training ABCT Chicago: Radically Open Dialectical Behavior Therapy (RO DBT) for disorders of overcontrol"
 title: RO DBT Clinical Intervention Training, ABCT Chicago
 redirect_from:
@@ -15,7 +15,7 @@ redirect_from:
 eventtype: other
 ---
 
-## November 2015, {{page.location}}
+## 11 & 12 November 2015, {{page.location}}
 
 <center>
 <div markdown="1" style="width:200px;">
