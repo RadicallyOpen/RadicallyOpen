@@ -20,7 +20,7 @@ hide:
 
 
 #### Overview
-Please note: teh exact dates for Part 2 will be confirmed later this year, but will be in June/July 2017.
+Please note: the exact dates for Part 2 will be confirmed later this year, but will likely be in June/July 2017.
 
 {{site.intensive_generic_description}}
 
