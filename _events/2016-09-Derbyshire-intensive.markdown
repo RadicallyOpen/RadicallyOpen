@@ -11,7 +11,7 @@ parts:
 location: Derbyshire, UK
 venue: tbc, UK
 html_title: "RO-DBT intensive training course, Derbyshire UK, 2016-2017"
-title: "RO-DBT Intensive Derbushire, UK"
+title: "RO-DBT Intensive Derbyshire, UK"
 eventtype: intensive
 hide:
 ---
