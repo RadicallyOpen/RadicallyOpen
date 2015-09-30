@@ -43,6 +43,8 @@ Blacklick, Ohio (exact venue TBC)
 <input type="image" src="http://dabuttonfactory.com/button.png?t=Pay+and+Secure+a+Place+Now&f=Open+Sans&ts=18&tc=003365&hp=25&vp=10&c=round&bgt=gradient&bgc=fee1a9&ebgc=ff8d1c&be=1&bs=1&bc=ff8d1c" height="ButtonMaker0.Panel4.viewstack2.Form37.FormItem58.HBox59.imgHeight" width="ButtonMaker0.Panel4.viewstack2.Form37.FormItem58.HBox59.imgWidth" Alt="Pay and Secure a Place Now">
 </form>
 
+### Please complete our registration form if you are signing up to our training event:
+<iframe src="https://docs.google.com/forms/d/11KzewXTF3O4XYkrUg7TaSNpYjLR9Uoi2bMMndjVlE-A/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 > {{site.forbooking}}
 
