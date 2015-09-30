@@ -44,7 +44,7 @@ Blacklick, Ohio (exact venue TBC)
 </form>
 
 ### Please complete our registration form if you are signing up to our training event:
-<iframe src="https://docs.google.com/forms/d/11KzewXTF3O4XYkrUg7TaSNpYjLR9Uoi2bMMndjVlE-A/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+[Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
 
 > {{site.forbooking}}
 
