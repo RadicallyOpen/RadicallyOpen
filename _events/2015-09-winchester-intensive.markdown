@@ -35,19 +35,7 @@ eventtype: intensive
 - [Map to location](http://www.mercure.com/gb/hotel-6619-mercure-winchester-wessex-hotel/location.shtml#)
 
 #### Prices and booking
-
-- Early Bird registration before 20th June 2015: £2000 (payment can follow)
-- After 20th June 2015: £2750
-
-<form action="http://ww8.aitsafe.com/cf/add.cfm" method="post">
-<input type="hidden" name="userid" value="A5341507">
-<input type="hidden" name="product" value="RO-DBT Intensive Training Winchester September 2015">
-<input type="hidden" name="price" value="2750">
-<input type="hidden" name="currency" value="4">
-<input type="hidden" name="return" value="http://www.radicallyopen.net/">
-<input type="image" src="http://dabuttonfactory.com/button.png?t=Pay+and+Secure+a+Place+Now&f=Open+Sans&ts=18&tc=003365&hp=25&vp=10&c=round&bgt=gradient&bgc=fee1a9&ebgc=ff8d1c&be=1&bs=1&bc=ff8d1c" height="ButtonMaker0.Panel4.viewstack2.Form37.FormItem58.HBox59.imgHeight" width="ButtonMaker0.Panel4.viewstack2.Form37.FormItem58.HBox59.imgWidth" Alt="Pay and Secure a Place Now">
-</form>
-
+Part 1 has already taken place in September 2015; it is no longer possible to book onto this course. Please have a look at our other upcoming courses.
 
 
 > {{site.forbooking}}
