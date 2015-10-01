@@ -19,7 +19,7 @@ For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or ca
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="//radicallyopen.us10.list-manage.com/subscribe/post?u=db9fd2c58421087d4e46e66cb&amp;id=93e28fcac3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="//radicallyopen.us10.list-manage.com/subscribe/post?u=db9fd2c58421087d4e46e66cb&amp;id=dc4a473189" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to our mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
@@ -37,38 +37,40 @@ For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or ca
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-COUNTRY">Country of residence  <span class="asterisk">*</span>
+	<label for="mce-COUNTRY">Country  <span class="asterisk">*</span>
 </label>
 	<input type="text" value="" name="COUNTRY" class="required" id="mce-COUNTRY">
 </div>
-<div class="mc-field-group">
-	<label for="mce-PROF_ROLE">I am a .....  <span class="asterisk">*</span>
-</label>
-	<select name="PROF_ROLE" class="required" id="mce-PROF_ROLE">
-	<option value=""></option>
-	<option value="Professional/Health Care Provider">Professional/Health Care Provider</option>
-<option value="Patient/Service User">Patient/Service User</option>
-<option value="Relative/Carer of patient">Relative/Carer of patient</option>
-<option value="Prefer not to say">Prefer not to say</option>
-
-	</select>
+<div class="mc-field-group input-group">
+    <strong>I am a </strong>
+    <ul><li><input type="radio" value="Clinician/Health Professional" name="MMERGE4" id="mce-MMERGE4-0"><label for="mce-MMERGE4-0">Clinician/Health Professional</label></li>
+<li><input type="radio" value="Client/Patient" name="MMERGE4" id="mce-MMERGE4-1"><label for="mce-MMERGE4-1">Client/Patient</label></li>
+</ul>
 </div>
 <div class="mc-field-group input-group">
-    <strong>I am interested in ... </strong>
-    <ul><li><input type="checkbox" value="1" name="group[5961][1]" id="mce-group[5961]-5961-0"><label for="mce-group[5961]-5961-0">Upcoming training events</label></li>
-<li><input type="checkbox" value="2" name="group[5961][2]" id="mce-group[5961]-5961-1"><label for="mce-group[5961]-5961-1">RO-DBT Manual and Papers</label></li>
+    <strong>I have already attended RO-DBT Intensive Training </strong>
+    <ul><li><input type="radio" value="Yes" name="ATTENDED" id="mce-ATTENDED-0"><label for="mce-ATTENDED-0">Yes</label></li>
+<li><input type="radio" value="No" name="ATTENDED" id="mce-ATTENDED-1"><label for="mce-ATTENDED-1">No</label></li>
+</ul>
+</div>
+<div class="mc-field-group input-group">
+    <strong>I am interested in </strong>
+    <ul><li><input type="checkbox" value="2" name="group[8281][2]" id="mce-group[8281]-8281-0"><label for="mce-group[8281]-8281-0">RO-DBT Training</label></li>
+<li><input type="checkbox" value="4" name="group[8281][4]" id="mce-group[8281]-8281-1"><label for="mce-group[8281]-8281-1">RO-DBT Manual</label></li>
+<li><input type="checkbox" value="8" name="group[8281][8]" id="mce-group[8281]-8281-2"><label for="mce-group[8281]-8281-2">Finding a therapist</label></li>
+<li><input type="checkbox" value="16" name="group[8281][16]" id="mce-group[8281]-8281-3"><label for="mce-group[8281]-8281-3">Other</label></li>
 </ul>
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_db9fd2c58421087d4e46e66cb_93e28fcac3" tabindex="-1" value=""></div>
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_db9fd2c58421087d4e46e66cb_dc4a473189" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='COUNTRY';ftypes[3]='text';fnames[4]='PROF_ROLE';ftypes[4]='dropdown';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='COUNTRY';ftypes[3]='text';fnames[4]='MMERGE4';ftypes[4]='radio';fnames[5]='ATTENDED';ftypes[5]='radio';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
 ### Let us contact you
