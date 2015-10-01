@@ -9,6 +9,16 @@ meta_description: Directory of therapists able to see patients for RO-DBT.
 
 Below is a list of health professionals trained in RO-DBT who can be contacted directly for treatment availability.
 
+# UK
+
+### Scottish Borders: Borders wide service (skills class in Melrose)
+* Name: Alan Dunlop – Specialist Nurse eating Disorders
+* Phone number: 01896 661130
+* Email: Alan.dunlop@borders.scot.nhs.uk
+* Address: Borders Crisis Team and Liaison Psychiatry Team, 10 Sime Place, Galashiels, TD1 1ST
+* Treament of: Eating Disorders
+
+
 # USA
 
 #### California: Los Altos		
@@ -91,12 +101,4 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Treatment of:	the full spectrum of eating disorders, anxiety disorders, depression, and relationship issues,  adolescents and adults, individual, couples and family therapy in addition to RO-DBT skills classes
 
 
-# UK
-
-### Scottish Borders: Borders wide service (skills class in Melrose)
-* Name: Alan Dunlop – Specialist Nurse eating Disorders
-* Phone number: 01896 661130
-* Email: Alan.dunlop@borders.scot.nhs.uk
-* Address: Borders Crisis Team and Liaison Psychiatry Team, 10 Sime Place, Galashiels, TD1 1ST
-* Treament of: Eating Disorders
 
