@@ -30,13 +30,15 @@ This event is co-hosted by the Eating Disorders service of the Derbyshire Health
 
 
 #### Travel information to {{page.venue}}
-The location for the training is: <p>
-Centre for Research & Development, Ashbourne Centre, Kingsway Hospital, Derby,Derbyshire, DE22 3LZ <p>
+The location for the training is:
+
+Centre for Research & Development, Ashbourne Centre, Kingsway Hospital, Derby,Derbyshire, DE22 3LZ
+
 [Click here for a map](http://www.derbyshirehealthcareft.nhs.uk/contact-us/site-locations/ashbourne-centre/)
 
 #### Prices and booking
 {{site.intensive_prices_UK}}
-- Early Bird deadline: 28th August 2016
+- Early Bird deadline: 28th July 2016
 
 
 > {{site.forbooking}}
