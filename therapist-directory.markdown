@@ -92,5 +92,11 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 
 
 # UK
-Awaiting details
+
+### Scottish Borders: Borders wide service (skills class in Melrose)
+* Name: Alan Dunlop – Specialist Nurse eating Disorders
+* Phone number: 01896 661130
+* Email: Alan.dunlop@borders.scot.nhs.uk
+* Address: Borders Crisis Team and Liaison Psychiatry Team, 10 Sime Place, Galashiels, TD1 1ST
+* Treament of: Eating Disorders
 
