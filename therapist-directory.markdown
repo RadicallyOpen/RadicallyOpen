@@ -11,7 +11,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 
 # UK
 
-###Greater London: North London 
+#### Greater London: North London 
 * Name:  Dr Alex Fowke
 * Phone number: 07594 016 925
 * Email: enquiries@alexfowke.co.uk
@@ -19,7 +19,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Website: www.alexfowke.co.uk
 * Treatment of: Depression, Anxiety Disorders, Low Self-Esteem, Stress & Chronic Worry, Relationship Difficulties and Personality Difficulties.
 
-### Scottish Borders: Borders wide service (skills class in Melrose)
+#### Scottish Borders: Borders wide service (skills class in Melrose)
 * Name: Alan Dunlop – Specialist Nurse eating Disorders
 * Phone number: 01896 661130
 * Email: Alan.dunlop@borders.scot.nhs.uk
@@ -66,7 +66,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 617 Veterans Blvd, Suite 204, Redwood City, CA 94063
 * Treatment of:	adults and adolescents; men's groups; anxiety and mood disorders, relationship issues, substance abuse, existential issues, personality disorders
 
-#### California, San Francisco Bay Area
+#### California: San Francisco Bay Area
 * Name: Neil Howell
 * Phone number: 510 898 6345
 * Email: neil@neilhowellpsychotherapy.com
