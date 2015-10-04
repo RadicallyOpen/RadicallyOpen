@@ -116,6 +116,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Email: knscal@comcast.net
 * Treatment of:	Depression, anxiety, PTSD. Mostly couples or individuals who would like to improve their relationships
 * Website: www.KatherineCalvertLCSW.com
+ 
+#### Oregon: Portland
+* Name: Jason Luoma, Ph.D.
+* Phone number: 503-281-4852 x13
+* Email: jbluoma@portlandpsychotherapyclinic.com
+* Address: Portland Psychotherapy, 3700 N WIlliams Ave., Portland, OR 97227
+* Website: http://www.portlandpsychotherapyclinic.com/counseling/jason-luoma
+* Treatment of: chronic, treatment resistant depression
 
 #### Pennsylvania: Pittsburgh
 * Name: Tiffany Painter, LCSW
