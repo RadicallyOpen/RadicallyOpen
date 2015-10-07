@@ -81,6 +81,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address 2: 61 Avenida de Orinda #100, Orinda, CA 94556
 * Treatment of: Depression, Anxiety, Social Anxiety, OCD, Personality Disorders, Relationship Counseling, etc.
 
+#### Illinois/Cook County: Chicago and Evanston
+* Name: Michael Maslar
+* Phone number: 847-733-4300. x648
+* Email: mmaslar@family-institute.org
+* Address1: The Family Institute, 618 Library Place, Evanston, IL 60201, United States
+* Address2: The Family Institute, 8 S. Michigan Ave., Chicago, IL 60603, United States
+* Treatment of: Anxiety, Depression, Anorexia, Perfectionism
+
 #### Minnesota: Fridley		
 * Name:	DBT Associates
 * Phone number:	763-503-3981
@@ -131,6 +139,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: Portland Psychotherapy, 3700 N WIlliams Ave., Portland, OR 97227
 * Website: http://www.portlandpsychotherapyclinic.com/counseling/jason-luoma
 * Treatment of: chronic, treatment resistant depression
+
+#### Oregon: Portland
+* Name: Kirsten McAteer, LPC, LLC
+* Address: 4424 NE Glisan, Ave., Portland, Oregon, USA
+* Phone number: (503) 515-1791
+* Email: kirstenmcateerlpc@gmail.com
+* Treatment: I specialize in the treatment of eating disorders but do treat other issues (trauma, anxiety) as well.  
 
 #### Pennsylvania: Pittsburgh
 * Name: Tiffany Painter, LCSW
