@@ -26,7 +26,7 @@ redirect_from:
 
 RO DBT has been developed over the past 20 years for patients with chronic depression or anorexia nervosa. [Research results](http://www.southampton.ac.uk/psychology/research/projects/radically_open_dialectical_behaviour_therapy.page) suggest that it is effective in these, and other, hard-to-treat groups.
 
-Listen to a PodCast from [CBT Radio](www.cbtradio.org) about RO-DBT here: [Prof Lynch about RO-DBT - PodCast 5th of October 2015](http://cbtradio.libsyn.com/radically-open-dialectial-behavior-therapy-ro-dbt)
+Listen to a PodCast from [CBT Radio](http://cbtradio.libsyn.com/) about RO-DBT here: [Prof Lynch about RO-DBT - PodCast 5th of October 2015](http://cbtradio.libsyn.com/radically-open-dialectial-behavior-therapy-ro-dbt)
 
 
 #### Emotional over control {#overcontrol}
