@@ -92,6 +92,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 #### Minnesota: Fridley		
 * Name:	DBT Associates
 * Phone number:	763-503-3981
+* Email:  kristendbt@gmail.com
 * Website: www.dbtassociates.com
 * Address: 7362 University Ave. NE, Suite 101, Fridley, Minnesota  55432
 			
