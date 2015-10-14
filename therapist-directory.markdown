@@ -9,6 +9,24 @@ meta_description: Directory of therapists able to see patients for RO-DBT.
 
 Below is a list of health professionals trained in RO-DBT who can be contacted directly for treatment availability.
 
+# Australia
+
+#### Victoria: Melbourne
+* Name: Tanya Gilmartin
+* Phone number: 0415 387 078
+* Email: info@melbournedbtcentre.com.au
+* Address: 462 Neerim Rd Murrumbeena
+* Treatment of: Eating disorders, personality disorders, depression, anxiety.
+
+# Sweden
+
+#### Stockholm & Uppsala
+* Name: Martina Wolf-Arehult
+* Phone number: int-46-(0)70-6117011
+* Email: martina.wolf@akademiska.se
+* Treatment of: Eating Disorders, Affective Disorders, Borderline Personality Disorders
+ 
+
 # UK
 
 #### Greater London: North London 
