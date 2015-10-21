@@ -18,6 +18,15 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 462 Neerim Rd Murrumbeena
 * Treatment of: Eating disorders, personality disorders, depression, anxiety.
 
+# Canada
+
+#### British Columbia: Vancouver
+* Name: Dr. John Wagner
+* Phone number: 604-569-1156
+* Email: info@dbtvancouver.com
+* Address: 1040-1200 Burrard St, Vancouver BC V6Z 2C7
+* Treatment of: Suicidal thinking or behaviour (e.g., suicide attempts), Self-injury and other self-destructive behaviours, Difficulties with anger and anger management, Problems with other emotions (such as intense sadness or recurrent fear);  Impulsive behaviours that can be dangerous (such as reckless driving, recurrent unsafe sex, etc.); Difficulty building and maintaining healthy relationships; Chronic feelings of emptiness; Depression among older adults; Problems with alcohol & drug use; Eating disordered behaviour such as bingeing and purging; Other issues with problems related to over-control.
+
 # Sweden
 
 #### Stockholm & Uppsala
