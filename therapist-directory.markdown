@@ -122,7 +122,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Email:  kristendbt@gmail.com
 * Website: www.dbtassociates.com
 * Address: 7362 University Ave. NE, Suite 101, Fridley, Minnesota  55432
-			
+
+#### New Jersey: Waldwick (30 mins from NYC)
+* Name: Christine Hudson, Ph.D.; Hudson Psychological Group.  
+* Phone:  973-931-2113, 
+* Email: christine_hudson@me.com
+* Address: 85 Hopper AVenue, Waldwick, NJ.  
+
 #### North Carolina/Buncombe: Asheville
 * Name: Trent Codd
 * Phone number: 828-350-1177
