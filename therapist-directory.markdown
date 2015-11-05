@@ -46,6 +46,12 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Website: www.alexfowke.co.uk
 * Treatment of: Depression, Anxiety Disorders, Low Self-Esteem, Stress & Chronic Worry, Relationship Difficulties and Personality Difficulties.
 
+#### Hertfordshire
+* Name: Sime Nyathi-Ndlovu
+* Phone: 07789494941
+* Email: Simelinkosi.Nyathi-Ndlovu@hpft.nhs.uk
+* Treatment of: Eating Disorders
+
 #### Scottish Borders: Borders wide service (skills class in Melrose)
 * Name: Alan Dunlop – Specialist Nurse eating Disorders
 * Phone number: 01896 661130
