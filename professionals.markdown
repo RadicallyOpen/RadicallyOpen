@@ -28,7 +28,7 @@ Our [intensive training](/training/intensive/) is a two-part fast-track programm
 
 ### RO-DBT Supervision
 
-We offer supervision to delegates who have at least attended part 1 RO-DBT Intensive Training. Supervision tends to take place via an online learning platform called WizIQ (no downloads required). Instructions will be provided by the supervisor if they use this service. 
+We offer supervision to delegates who have at least attended part 1 RO-DBT Intensive Training. Supervision can take place in person for individuals or entire teams, or via an online learning platform if you are abroad. All sessions and fees are arranged and agreed directly with the supervisor. 
 
 Currently available supervisors: 
 
