@@ -13,7 +13,7 @@ We work with coaches, counsellors, nurses, occupational therapists, psychiatrist
 RO-DBT is a novel treatment specifically designed for [patients with overcontrol](/about/), and does not require prior training in standard DBT. A majority of RO-DBT trainees are not standard-DBT trained.
 
 
-### RO-DBT training
+### RO-DBT Training
 
 We presently offer two routes into RO-DBT.
 
@@ -32,5 +32,5 @@ We offer supervision to delegates who have at least attended part 1 RO-DBT Inten
 
 Currently available supervisors: 
 
-* Sophie Rushbrook, consultant clinical psychologist and Head of the Intensive Psychological Therapies Service at Dorset HealthCare NHS Foundation Trust: sophiecrushbrook@gmail.com
+* Sophie Rushbrook, consultant clinical psychologist and Head of the Intensive Psychological Therapies Service at Dorset HealthCare NHS Foundation Trust: [Email Sophie](mailto:sophiecrushbrook@gmail.com)
 * Please contact [Roelie Hempel](mailto:roelie@radicallyopen.net) if Sophie has no availability; we may be able to put you in touch with other supervisors
