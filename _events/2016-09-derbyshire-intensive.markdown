@@ -42,5 +42,6 @@ Centre for Research & Development, Ashbourne Centre, Kingsway Hospital, Derby,De
 
 ### Please complete our registration form if you are signing up to our training event:
 [Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
+
 > {{site.forbooking}}
 
