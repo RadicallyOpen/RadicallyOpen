@@ -13,6 +13,7 @@ redirect_from:
     - /events/2014-abct-institute.html
     - /abct/
 eventtype: other
+hide: true
 ---
 
 ## 11 & 12 November 2015, {{page.location}}
