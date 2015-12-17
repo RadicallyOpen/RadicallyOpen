@@ -10,6 +10,7 @@ name: RO-DBT one-day Workshop hosted by the BABCP Dialectical Behaviour Therapy 
 html_title: "RO-DBT Workshop BABCP Dialectical Behaviour Therapy Special Interest Group: Radically Open Dialectical Behavior Therapy (RO-DBT) for disorders of overcontrol"
 title: RO-DBT Workshop, BABCP Dialectical Behaviour Therapy Special Interest Group
 eventtype: other
+hide: true
 ---
 
 ## October 2015, {{page.location}}
