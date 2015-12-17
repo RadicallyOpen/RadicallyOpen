@@ -10,6 +10,7 @@ name: RO DBT Full-day pre-conference workshop BABCP
 html_title: "RO DBT Workshop BABCP: Radically Open Dialectical Behavior Therapy (RO DBT) for disorders of overcontrol"
 title: RO DBT Workshop, BABCP Warwick, UK
 eventtype: other
+hide: true
 ---
 
 ## July 2015, {{page.location}}
