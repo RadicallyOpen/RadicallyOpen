@@ -12,6 +12,7 @@ location: Edinburgh, UK
 venue: SEEDS (South East Eating Disorders Scotland)
 title: "RO DBT intensive training course, Edinburgh, UK, 2015"
 eventtype: intensive
+hide: true
 ---
 
 
