@@ -31,7 +31,8 @@ APA CE credits: 70 (for completing all 10 days)
 
 #### Travel information {{page.venue}}
 The training will be held at the Banquet Room, Blacklick Woods Golf Course, 7309 E. Livingstone Avenue, Reynoldsburg, OH 43068 (14 miles from downtown Columbus).
-- [Map to location](http://www.metroparks.net/parks-and-trails/blacklick-woods-golf-course/directions/)
+
+[Map to location](http://www.metroparks.net/parks-and-trails/blacklick-woods-golf-course/directions/)
 
 #### Prices and booking
 {{site.intensive_prices_US}}
