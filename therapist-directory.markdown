@@ -106,6 +106,15 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 617 Veterans Blvd, Suite 204, Redwood City, CA 94063
 * Treatment of: Acute or chronic depression, anxiety disorders, substance abuse, relationship issues, emotion dysregulation and impulse control disorders
 
+
+####California: San Diego and North County, Encinitas
+* Name: Angela Klein, Ph.D.
+* Phone number: 573-289-4651
+* Email: centeredground@gmail.com
+* Address: Centered Ground, 256 North Coast Highway 101, Suite C, Encinitas, CA 92024; 2214 5th Avenue, San Diego, CA 92101.
+* Treatment of: depression and bipolar disorder; anxiety disorders; disordered eating (eating disorders and variants) and body image concerns; personality disorders (overcontrolled vs. undercontrolled, including borderline personality disorder, self-harm, and suicidality).  Screening informs treatment options, including radically open DBT, standard DBT, DBT-based mindful eating, and CBT.  Individual therapy, skills training classes, and coaching provided for adolescents, families, and adults.
+
+
 #### California: San Francisco Bay Area
 * Name: Neil Howell
 * Phone number: 510 898 6345
