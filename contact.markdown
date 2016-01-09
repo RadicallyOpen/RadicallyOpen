@@ -7,7 +7,7 @@ tags: RO DBT
 ---
 
 
-For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or call Roelie Hempel on +44 (0)78101 31610. Tweet us <a id="twit" href="http://twitter.com/{{ site.owner.twitter }}"><span class="foot-link">@{{ site.owner.twitter }}</span></a>
+For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or call Roelie Hempel on +44 (0)7452 027245. Tweet us <a id="twit" href="http://twitter.com/{{ site.owner.twitter }}"><span class="foot-link">@{{ site.owner.twitter }}</span></a>
 
 
 ### Sign up to our mailing list
