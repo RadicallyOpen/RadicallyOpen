@@ -30,7 +30,4 @@ Our [intensive training](/training/intensive/) is a two-part fast-track programm
 
 We offer supervision to delegates who have at least attended part 1 RO-DBT Intensive Training. Supervision can take place in person for individuals or entire teams, or via an online learning platform (WizIQ). All sessions and fees are arranged and agreed directly with the supervisor. 
 
-Currently available supervisors: 
-
-* Sophie Rushbrook, consultant clinical psychologist and Head of the Intensive Psychological Therapies Service at Dorset HealthCare NHS Foundation Trust: [Email Sophie](mailto:sophiecrushbrook@gmail.com)
-* Please contact [Roelie Hempel](mailto:roelie@radicallyopen.net) if Sophie has no availability; we may be able to put you in touch with other supervisors
+Contact details for supervisors will be made available on the online support website for delegates who have attended RO Intensive Training. 
