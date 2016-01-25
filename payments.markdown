@@ -18,7 +18,7 @@ Please use invoice number as payment reference
 
 
 ### US, Canadian, and European courses
-- Our preferred payment option: we will send you a link via www.WeTransfer.com, allowing you to pay via credit card.
+- Our preferred payment option: we will send you a link via www.TransferWise.com, allowing you to pay via credit card.
 - You can send an international payment via your bank using the SWIFT and IBAN codes above
 - You also can pay via credit card via phone or email. 
 - Alternatively, you can send a cheque in your own currency, made out to Radically Open Limited, and post it to Erica Smith-Lynch, The Lodge, Baybridge Park, Owslebury, SO21 1JN, England.
