@@ -18,7 +18,9 @@ Please use invoice number as payment reference
 
 
 ### US, Canadian, and European courses
-We accept international bank transfers (see bank details above; you will need the SWIFT and IBAN codes for this). 
-You also can pay via credit card via phone or email. Alternatively, you can send a cheque in your own currency, made out to Radically Open Limited, and post it to Erica Smith-Lynch, The Lodge, Baybridge Park, Owslebury, SO21 1JN, England.
+- Our preferred payment option: we will send you a link via www.WeTransfer.com, allowing you to pay via credit card.
+- You can send an international payment via your bank using the SWIFT and IBAN codes above
+- You also can pay via credit card via phone or email. 
+- Alternatively, you can send a cheque in your own currency, made out to Radically Open Limited, and post it to Erica Smith-Lynch, The Lodge, Baybridge Park, Owslebury, SO21 1JN, England.
 
 For any problems or questions, please contact Erica Smith via [email](mailto:erica@radicallyopen.net), or Roelie Hempel phone (+44 (0)7452 027245). 
