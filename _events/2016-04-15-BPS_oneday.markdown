@@ -10,18 +10,12 @@ name: One-day Introductory RO-DBT training hosted by the British Psychological S
 html_title: "One-day Introductory RO-DBT training hosted by the British Psychological Society"
 title: RO-DBT Workshop, British Psychological Society
 eventtype: other
-hide: true
+hide: 
 ---
 
-## April 2016, {{page.location}}
+#### April 2016, London 
 
-<center>
-<div markdown="1" style="width:200px;">
-![](/images/lynch_head_hand.jpg)
-</div>
-</center>
-
-#### Presenter: Thomas. R. Lynch, Ph.D., Professor of Clinical Psychology
+### Presenter: Thomas. R. Lynch, Ph.D., Professor of Clinical Psychology
 The faculty of eating disorders would like to offer an introductory training in RO-DBT. This is currently being used in the treatment of people with Anorexia Nervosa. Radically Open Dialectical Behaviour Therapy is a new treatment that targets over-controlled behaviour. It has been used to treat some of the rigid responses and emotional inhibition thought to underlie many treatment-resistant conditions.
 
 ### Who is the Treatment For?
