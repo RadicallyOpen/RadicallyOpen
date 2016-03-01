@@ -75,14 +75,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number:	(650) 322-4800
 * Email: julieleader@hotmail.com
 * Address: 800 Menlo Ave. Suite 121, Menlo Park, CA  94025
-* Treatment of:	Anxiety, Depression, Bipolar Disorder, Social Phobia, Simple Phobias (e.g. driving, specific animals, 	germs, etc.), PTSD, Personality Disorders: OCPD, Paranoid PD, Avoidant PD, Borderline Personality Disorder
+* Treatment of:	Anxiety, Depression, Bipolar Disorder, Social Phobia, Simple Phobias (e.g. driving, specific animals, germs, etc.), PTSD, Personality Disorders: OCPD, Paranoid PD, Avoidant PD, Borderline Personality Disorder
 			
 #### California: Pacifica		
 * Name:	Max Burns, M.D.
 * Phone number:	(650)363-7234
 * Fax:	(650)363-7279
 * Email: maxburns@me.com
-* Address: RO-DBT individual and skills class in Pacifica, CA  403 Dondee St, Pacifica CA 94044.  Individual 		RO-DBT at 2000 Broadway St, Redwood City, CA 94063. 
+* Address: RO-DBT individual and skills class in Pacifica, CA  403 Dondee St, Pacifica CA 94044. Individual RO-DBT at 2000 Broadway St, Redwood City, CA 94063.
 * Treatment of:	depression, anxiety, eating disorders, addiction and OC personality disorders
 
 ####California: Redwood City			
