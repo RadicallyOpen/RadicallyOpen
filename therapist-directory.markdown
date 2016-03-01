@@ -207,6 +207,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 920 Frostwood Drive, Houston, Tx 77024
 * Treatment of: Borderline Personality Disorder, Anxiety disorders, eating disorders, complex depression, complex substance abuse disorders,  avoidant personality disorder, trauma, PTSD, paranoid personality disorder, OC personality disorders, individuals who are suicidal
 
+#### Washington: Pullman (Eastern) Washington
+* Names: Rhonda Allenger, Alisha Dearmim, Rick Chapman 
+* Phone number: 509 334-1133
+* Email: rallenger@prcounseling.org, rchapman@prcounseling.org, adearmin@prcounseling.org
+* Address: 340 NE Maple St, Pullman, WA 99163
+* Treatment of: Acute or chronic depression, anxiety disorders, trauma, relationship problems, substance abuse, relationship issues, emotion dysregulation
+
 #### Washington: Seattle
 * Name:	Elizabeth LoTempio, PsyD
 * Company: Evidence Based Treatment Centers of Seattle
