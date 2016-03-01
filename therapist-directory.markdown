@@ -70,7 +70,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 329 S. San Antonio Rd. Suite 3, Los Altos, CA 94022
 * Treatment of:	Mood, sleep and anxiety disorders and eating disorders; Social Anxiety, Avoidant PD, OCPD and Borderline Personality Disorder practicing DBT for over 17 years, RO-DBT, Behavior Activation and CBT-I
 			
-#### California: Menlo Park		
+#### California: Menlo Park
 * Name:	Julie Leader, PhD
 * Phone number:	(650) 322-4800
 * Email: julieleader@hotmail.com
@@ -85,7 +85,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: RO-DBT individual and skills class in Pacifica, CA  403 Dondee St, Pacifica CA 94044. Individual RO-DBT at 2000 Broadway St, Redwood City, CA 94063.
 * Treatment of:	depression, anxiety, eating disorders, addiction and OC personality disorders
 
-####California: Redwood City			
+#### California: Redwood City			
 * Name:	Elisabeth Bellows, MD	
 * Phone number:	650-306-8909	
 * Email: ebellowsmd@icloud.com	
@@ -107,7 +107,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Treatment of: Acute or chronic depression, anxiety disorders, substance abuse, relationship issues, emotion dysregulation and impulse control disorders
 
 
-####California: San Diego and North County, Encinitas
+#### California: San Diego and North County, Encinitas
 * Name: Angela Klein, Ph.D.
 * Phone number: 573-289-4651
 * Email: centeredground@gmail.com
