@@ -9,8 +9,6 @@ redirect_from:
   - /dbt-babcp-mailout-events-dec2014.html
 ---
 
-<A HREF="http://ww8.aitsafe.com/cf/review.cfm?userid=A5341507"> Review Shopping Cart </A>
-
 #### We are now an approved Sponsor for the American Psychological Association!
 ![APA Sponsor Approval Logo](https://dl.dropboxusercontent.com/u/5411729/APA%20approval%20Icon%20with%20RO%20text.png)
 
@@ -29,7 +27,7 @@ If you are interested in co-hosting a training course, please [get in touch](/co
 
 ### Forthcoming workshops and training events
 
-####Please note: our Intensive Trainings consist of 2 x 5 days, with 6-9 months in between the two training weeks. If part 1 has already taken place it will no longer be possible to book onto that course. 
+#### Please note: our Intensive Trainings consist of 2 x 5 days, with 6-9 months in between the two training weeks. If part 1 has already taken place it will no longer be possible to book onto that course. 
 
 
 [To see a calendar view of all events, click here](/events/calendar.html)
