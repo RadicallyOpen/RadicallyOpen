@@ -68,6 +68,10 @@ Carl Dunn Jr ([@CarlDunnJr](https://twitter.com/CarlDunnJr)), Mental Health Educ
 
 <quote>I can't tell you how powerful the self-inquiry work has been for our staff.  It has brought our staff closer and more aware of each other's growth edges.  It has allowed us to know how to better support one another's tender spots as we treat our clients.  Of course, this can't help but trickle down to our clients.</quote>
 
+Watch their [YouTube video here](https://www.youtube.com/watch?v=TXfdHOKwvuA&feature=youtu.be)
+
+
+
 ## What do clinicians think of our training sessions?
 
 
