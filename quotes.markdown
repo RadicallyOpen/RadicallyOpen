@@ -64,6 +64,9 @@ Carl Dunn Jr ([@CarlDunnJr](https://twitter.com/CarlDunnJr)), Mental Health Educ
 <quote>I have found it to be very user-friendly. The patients themselves have said that they have found it very impactful... For me, I have found that it’s been very helpful to me to provide the therapy but also for my own personal life. RO DBT focuses in on social functioning and getting better relationships. Very few other therapeutic techniques teach patients actual skills — how to use their own body to help to them interact differently with and influence their environment. People pick the skills up fairly quickly.</quote>
 
 
+[OpalFoodandBody](http://www.opalfoodandbody.com/) have been doing self-enquiry work within their team:
+
+<quote>I can't tell you how powerful the self-inquiry work has been for our staff.  It has brought our staff closer and more aware of each other's growth edges.  It has allowed us to know how to better support one another's tender spots as we treat our clients.  Of course, this can't help but trickle down to our clients.</quote>
 
 ## What do clinicians think of our training sessions?
 
