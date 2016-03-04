@@ -31,3 +31,10 @@ Our [intensive training](/training/intensive/) is a two-part fast-track programm
 We offer supervision to delegates who have at least attended part 1 RO-DBT Intensive Training. Supervision can take place in person for individuals or entire teams, or via an online learning platform (WizIQ). All sessions and fees are arranged and agreed directly with the supervisor. 
 
 Contact details for supervisors will be made available on the online support website for delegates who have attended RO Intensive Training. 
+
+
+### What do professionals say about using RO-DBT?
+
+[OpalFoodandBody](http://www.opalfoodandbody.com/) have been doing self-enquiry work within their team:
+
+<quote>I can't tell you how powerful the self-inquiry work has been for our staff.  It has brought our staff closer and more aware of each other's growth edges.  It has allowed us to know how to better support one another's tender spots as we treat our clients.  Of course, this can't help but trickle down to our clients.</quote>
