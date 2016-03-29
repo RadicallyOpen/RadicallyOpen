@@ -25,7 +25,10 @@ We specialise in intensive training and online support for professionals who wan
 - [More about our training courses for health professionals](/professionals/)
 - [Read what patients and health professionals are saying about RO DBT](/about/quotes/)
 
-### Latest news: We are now an approved Sponsor for the American Psychological Association!
+### Latest news: Only a few more places remaining on our Columbus Intensive Training this May! 
+The early bird rate expires on the 4th of April, don't miss out!
+
+
 ![APA Sponsor Approval Logo](https://dl.dropboxusercontent.com/u/5411729/APA%20approval%20Icon%20with%20RO%20text.png)
 
 <hr>
