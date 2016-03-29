@@ -19,6 +19,7 @@ hide:
 
 {% include events_when.html %}
 
+###Final few places remaining, this event is nearly sold out!
 
 #### Overview
 
