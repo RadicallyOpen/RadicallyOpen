@@ -26,7 +26,7 @@ We specialise in intensive training and online support for professionals who wan
 - [Read what patients and health professionals are saying about RO DBT](/about/quotes/)
 
 ### Latest news: Only a few more places remaining on our Columbus Intensive Training this May! 
-The early bird rate expires on the 4th of April, don't miss out!
+####The early bird rate expires on the 8th of April, don't miss out! [Click here for more information and registration](http://www.radicallyopen.net/events/2016-05-columbus-intensive)
 
 
 ![APA Sponsor Approval Logo](https://dl.dropboxusercontent.com/u/5411729/APA%20approval%20Icon%20with%20RO%20text.png)
