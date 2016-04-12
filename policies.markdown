@@ -9,7 +9,7 @@ title: Radically Open Policies
 
 We offer early bird discounts for participants booking 45 days or more before the start of a course.
 
-Registration fees will be refunded to participants who contact us in writing or via email to [Erica Smith](mailto:erica@radicallyopen.net) postmarked no less than 1 month before part 1 of the training begins. No refunds will be made thereafter. A colleague may be substituted on the part 1 for no extra charge if we are notified at least two business days before the training. If for any reason a person has attended the part 1 but is unable to attend the part 2, we will offer substitute dates and locations, but no refunds will be made.
+Registration fees (minus transaction costs) will be refunded to participants who contact us in writing or via email to [Erica Smith](mailto:erica@radicallyopen.net) postmarked no less than 1 month before part 1 of the training begins. No refunds will be made thereafter. A colleague may be substituted on the part 1 for no extra charge if we are notified at least two business days before the training. If for any reason a person has attended the part 1 but is unable to attend the part 2, we will offer substitute dates and locations, but no refunds will be made.
 
 All payments must be received at least 10 working days before the course start date.
 
