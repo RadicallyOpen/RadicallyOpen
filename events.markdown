@@ -36,6 +36,7 @@ If you are interested in co-hosting a training course, please [get in touch](/co
 {% include events_list.html %}
 
 #### Please note:
+
 Attending an RO Intensive does not qualify or entitle you to teach RO yourself, and the teaching materials you receive from us are intended for your own learning and to help you treat your patients. You are of course free to copy the skills worksheets and handouts to share with your patients. 
 
 If you would like to become a trainer or supervisor please get in touch with us. Our trainers and supervisors attend additional Intensives and regular Senior Clinician Meetings so they receive ongoing training and micro-supervision from Tom to ensure the highest quality of teaching.  
