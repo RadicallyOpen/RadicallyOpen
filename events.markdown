@@ -27,7 +27,8 @@ If you are interested in co-hosting a training course, please [get in touch](/co
 
 ### Forthcoming workshops and training events
 
-#### Please note: our Intensive Trainings consist of 2 x 5 days, with 6-9 months in between the two training weeks. If part 1 has already taken place it will no longer be possible to book onto that course. 
+#### Please note: 
+Our Intensive Trainings consist of 2 x 5 days, with 6-9 months in between the two training weeks. If part 1 has already taken place it will no longer be possible to book onto that course. 
 
 #### Early bird rates
 We offer an early bird rate up to 45 days before the event. The payment should be made before this date expires and/or within one month after receipt of our invoice. 
