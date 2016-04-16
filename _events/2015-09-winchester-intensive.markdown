@@ -15,6 +15,7 @@ title: "RO DBT Intensive Winchester, UK"
 redirect_from:
     - /events/2014-southampton-intensive.html
 eventtype: intensive
+hide: true
 ---
 
 
