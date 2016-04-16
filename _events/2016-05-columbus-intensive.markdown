@@ -2,13 +2,13 @@
 layout: page
 when: May 2016 and March 2017
 starts: 2016-05-23
-name: SOLD OUT---RO DBT Intensive---SOLD OUT
+name: SOLD OUT---RO DBT Intensive
 parts:
     - from: 2016-05-23
       to: 2016-05-27
     - from: 2017-03-20
       to: 2017-03-24
-location: Columbus, Ohio
+location: Columbus, Ohio---SOLD OUT
 venue: Blacklick, Ohio
 html_title: "RO DBT intensive training course, Colunbus, Ohio, 2016-2017"
 title: "SOLD OUT---RO DBT Intensive Columbus, Ohio ---SOLD OUT"
