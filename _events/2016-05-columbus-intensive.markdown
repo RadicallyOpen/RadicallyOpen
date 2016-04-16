@@ -11,7 +11,7 @@ parts:
 location: Columbus, Ohio
 venue: Blacklick, Ohio
 html_title: "RO DBT intensive training course, Colunbus, Ohio, 2016-2017"
-title: "RO DBT Intensive Columbus, Ohio"
+title: "SOLD OUT RO DBT Intensive Columbus, Ohio SOLD OUT"
 eventtype: intensive
 hide:
 ---
@@ -20,7 +20,7 @@ hide:
 {% include events_when.html %}
 
 
-###Final few places remaining, this event is nearly sold out!
+### THIS EVENT IS NOW SOLD OUT
 
 
 #### Overview
