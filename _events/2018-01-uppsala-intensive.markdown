@@ -12,7 +12,7 @@ venue: Centre for Eating Disorders at the Akademiska Sjukhuset, Uppsala Sweden
 html_title: "RO DBT intensive training course, Uppsala Sweden, 2018"
 title: "RO DBT Intensive Uppsala, Sweden"
 eventtype: intensive
-hide: 
+hide: true
 ---
 
 
@@ -42,7 +42,8 @@ This event is co-hosted by the Centre for Eating Disorders at the [Akademiska Sj
 
 {{site.intensive_prices_UK}}
 
-
+### Please complete our registration form if you are signing up to our training event:
+[Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
 
 > {{site.forbooking}}
 
