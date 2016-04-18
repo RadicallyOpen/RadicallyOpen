@@ -1,15 +1,15 @@
 ---
 layout: page
-when: To be arranged for 2017
+when: January & September 2018 
 name: RO DBT Intensive
 parts:
-    - from: 
-      to: 
+    - from: 2018-01-22
+      to: 2018-01-26
     - from: 
       to: 
 location: Uppsala, Sweden
 venue: Centre for Eating Disorders at the Akademiska Sjukhuset, Uppsala Sweden
-html_title: "RO DBT intensive training course, Uppsala Sweden, 2016"
+html_title: "RO DBT intensive training course, Uppsala Sweden, 2018"
 title: "RO DBT Intensive Uppsala, Sweden"
 eventtype: intensive
 hide: 
@@ -20,13 +20,11 @@ hide:
 
 
 #### Overview
-The exact dates will be confirmed later this year, but will likely be in 2017.
 
 {{site.intensive_generic_description}}
 
 - [Read an overview of our intensive course](/training/intensive.html)
 - [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
-
 
 
 #### Travel information to {{page.venue}}
