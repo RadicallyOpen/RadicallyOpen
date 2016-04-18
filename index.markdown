@@ -25,9 +25,9 @@ We specialise in intensive training and online support for professionals who wan
 - [More about our training courses for health professionals](/professionals/)
 - [Read what patients and health professionals are saying about RO DBT](/about/quotes/)
 
-### Latest news: Only a few more places remaining on our Columbus Intensive Training this May! 
-####The early bird rate expires on the 8th of April, don't miss out! [Click here for more information and registration](http://www.radicallyopen.net/events/2016-05-columbus-intensive)
-
+### Latest news: Our Columbus Intensive Training has now SOLD OUT! 
+A new intensive training is being orgainsed in collaboration with Rutgers University and Rowan University, New Jersey for May 2017 and January 2018. 
+See our [New Jersey Intensive](http://www.radicallyopen.net/events/2017-05-NewJersey-Intensive) page for more details.
 
 ![APA Sponsor Approval Logo](https://dl.dropboxusercontent.com/u/5411729/APA%20approval%20Icon%20with%20RO%20text.png)
 
