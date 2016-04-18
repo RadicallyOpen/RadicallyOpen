@@ -6,8 +6,8 @@ name: RO-DBT Intensive
 parts:
     - from: 2017-05-22
       to: 2017-05-26
-    - from: tbc
-      to: tbc
+    - from: tbc, January 2018
+      to: tbc, January 2018
 location: New Jersey
 venue: Rutgers University & Rowan University
 html_title: "RO-DBT intensive training course, New Jersey, 2017-2018"
