@@ -30,10 +30,13 @@ hide:
 APA CE credits: 70 (for completing all 10 days)
 
 ### Travel information {{page.venue}}
+
 ####Part 1 
+
 will be co-hosted by Rowan University: The training will be in the Chamberlain Student Center, Rowan University, 201 Mullica Hill Road, Glassboro, NJ 08028. 
 
 ####Part 2 
+
 will be co-hosted by Rutgers University: New Brunswick, NJ, 08901-8534
 Please note: the exact dates for part 2 are yet to be confirmed, but will be in January 2018
 
