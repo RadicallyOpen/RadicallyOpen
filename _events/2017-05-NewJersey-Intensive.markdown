@@ -6,9 +6,9 @@ name: RO-DBT Intensive
 parts:
     - from: 2017-05-22
       to: 2017-05-26
-    - from: 2018-01
-      to: 2018-01
-location: Glassboro and New Brunswick, New Jersey
+    - from: tbc
+      to: tbc
+location: New Jersey
 venue: Rutgers University & Rowan University
 html_title: "RO-DBT intensive training course, New Jersey, 2017-2018"
 title: "RO-DBT Intensive, New Jersey"
