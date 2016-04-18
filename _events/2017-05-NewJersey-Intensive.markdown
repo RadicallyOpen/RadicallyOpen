@@ -35,7 +35,7 @@ will be co-hosted by Rowan University: The training will be in the Chamberlain S
 
 ####Part 2 
 will be co-hosted by Rutgers University: New Brunswick, NJ, 08901-8534
-
+Please note: the exact dates for part 2 are yet to be confirmed, but will be in January 2018
 
 ### Prices and booking
 {{site.intensive_prices_US}}
