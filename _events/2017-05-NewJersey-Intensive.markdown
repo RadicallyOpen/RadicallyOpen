@@ -31,7 +31,8 @@ APA CE credits: 70 (for completing all 10 days)
 
 ### Travel information {{page.venue}}
 
-####Part 1: Rowan University 
+####Part 1: Rowan University
+
 
 Part 1 will be co-hosted by Rowan University: The training will be in the Chamberlain Student Center, Rowan University, 201 Mullica Hill Road, Glassboro, NJ 08028. 
 
@@ -40,6 +41,7 @@ Alternatively, the Amtrak service is available into Philadelphia at 30th Street 
 In both cases, delegates will have to take a taxi or Rapid Rover to Glassboro. There is no local train that runs into the area. 
 
 ####Part 2: Rutgers University
+
 
 Part 2 will be co-hosted by Rutgers University: New Brunswick, NJ, 08901-8534
 Please note: the exact dates for part 2 are yet to be confirmed, but will be in January 2018
