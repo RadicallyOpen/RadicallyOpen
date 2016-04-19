@@ -31,14 +31,22 @@ APA CE credits: 70 (for completing all 10 days)
 
 ### Travel information {{page.venue}}
 
-####Part 1 
+####Part 1: Rowan University 
 
-will be co-hosted by Rowan University: The training will be in the Chamberlain Student Center, Rowan University, 201 Mullica Hill Road, Glassboro, NJ 08028. 
+Part 1 will be co-hosted by Rowan University: The training will be in the Chamberlain Student Center, Rowan University, 201 Mullica Hill Road, Glassboro, NJ 08028. 
 
-####Part 2 
+The closest airport to Rowan University is: Philadelphia International Airport (25 miles, 30 minutes), 8000 Essington Avenue, Philadelphia, PA. 
+Alternatively, the Amtrak service is available into Philadelphia at 30th Street Station: 2955 Market Street, Philadelphia, PA
+In both cases, delegates will have to take a taxi or Rapid Rover to Glassboro. There is no local train that runs into the area. 
 
-will be co-hosted by Rutgers University: New Brunswick, NJ, 08901-8534
+####Part 2: Rutgers University
+
+Part 2 will be co-hosted by Rutgers University: New Brunswick, NJ, 08901-8534
 Please note: the exact dates for part 2 are yet to be confirmed, but will be in January 2018
+
+The closes airport to Rutgers is: Newark International Airport (also about 30 minutes from the airport to New Brunswick)
+Amtrak and local trains run into New Brunswick from NYC, Baltimore, and Philadelphia
+
 
 ### Prices and booking
 {{site.intensive_prices_US}}
