@@ -2,7 +2,7 @@
 layout: page
 when: Sept 2016 and April 2017
 starts: 2016-09-12
-name: RO DBT Intensive
+name: RO-DBT Intensive
 parts:
     - from: 2016-09-12
       to: 2016-09-16
