@@ -10,7 +10,7 @@ name: One-day Introductory RO-DBT training hosted by the British Psychological S
 html_title: "One-day Introductory RO-DBT training hosted by the British Psychological Society"
 title: RO-DBT Workshop, British Psychological Society
 eventtype: other
-hide: 
+hide: true
 ---
 
 #### April 2016, London 
