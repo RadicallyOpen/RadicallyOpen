@@ -44,7 +44,7 @@ Attending the RO Intensive Training does not qualify you to train other clinicia
 
 We have a ‘Train the Trainer’ program at Radically Open Ltd and would be happy to talk to you about this if this is something you are interested in. 
 
-The slides and training materials you receive from us are intended for your own learning and to help you treat your patients. The exception is with your clients; as explained above, you are allowed to make copies of the handouts and worksheets to facilitate skills training with clients. 
+The slides and training materials you receive from us are intended for your own learning and to help you treat your patients. They are not to be shared with others. The exception is with your clients: you are free to make copies of the handouts and worksheets to facilitate skills training with clients. 
 
 
 <span class="icon-twitter"></span> follow [@radicallyopen](http://twitter.com/{{ site.owner.twitter }}") on Twitter for updates to training dates.
