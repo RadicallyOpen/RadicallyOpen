@@ -40,11 +40,12 @@ We offer an early bird rate up to 45 days before the event. The payment should b
 
 #### Please note:
 
-Attending an RO Intensive does not qualify or entitle you to teach RO yourself, and the teaching materials you receive from us are intended for your own learning and to help you treat your patients. You are of course free to copy the skills worksheets and handouts to share with your patients. 
+Attending the RO Intensive Training does not qualify you to train other clinicians in RO. Becoming an RO Trainer or Supervisor takes time and dedication. We do not believe that attending only one Intensive enables or qualifies you to train others without receiving supervision on this from our team. Our trainers and supervisors attend regular Senior Clinician Meetings and receive on-going micro-supervision to ensure the highest quality of teaching. 
 
-If you would like to become a trainer or supervisor please get in touch with us. Our trainers and supervisors attend additional Intensives and regular Senior Clinician Meetings so they receive ongoing training and micro-supervision from Tom to ensure the highest quality of teaching.  
+We have a ‘Train the Trainer’ program at Radically Open Ltd and would be happy to talk to you about this if this is something you are interested in. 
 
-We recommend only using RO endorsed trainers and supervisors. A list of these can be found in the Supervision section on our e-learning website (accessible to paying delegates). 
+The slides and training materials you receive from us are intended for your own learning and to help you treat your patients. The exception is with your clients; as explained above, you are allowed to make copies of the handouts and worksheets to facilitate skills training with clients. 
+
 
 <span class="icon-twitter"></span> follow [@radicallyopen](http://twitter.com/{{ site.owner.twitter }}") on Twitter for updates to training dates.
 
