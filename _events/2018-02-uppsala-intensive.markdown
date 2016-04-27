@@ -1,10 +1,10 @@
 ---
 layout: page
-when: January/February & September 2018 
+when: February & September 2018 
 name: RO-DBT Intensive
 parts:
-    - from: 
-      to: 
+    - from: 2018-02-13
+      to: 2018-02-17
     - from: 2018-09-17
       to: 2018-09-21
 location: Uppsala, Sweden
