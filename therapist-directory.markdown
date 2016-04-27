@@ -42,7 +42,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Name:  Dr Alex Fowke
 * Phone number: 07594 016 925
 * Email: enquiries@alexfowke.co.uk
-* Address: Belsize Health, 16 Englands Lane, London, NW3 4TG
+* Address: 27 Avenue Mansions, Finchley Road, London, NW3 7AX
 * Website: www.alexfowke.co.uk
 * Treatment of: Depression, Anxiety Disorders, Low Self-Esteem, Stress & Chronic Worry, Relationship Difficulties and Personality Difficulties.
 
