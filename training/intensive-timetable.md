@@ -11,322 +11,205 @@ redirect_from:
 
 The following is an *indicative* schedule for fast track training events. The exact running order may be subject to amendment and change, but this timetable gives a good feel for the scope and depth of the material covered in the 10 days --- this really is an intensive course!
 
-
+Typically, the training will open for registration on the Monday morning at 8.30am with training starting at 9.30am and ending at 5.00pm. Training for the rest of the week will be from 9am – 5pm, with the exception of Friday, when we anticipate training will end at approximately 4.30pm. We will break for lunch for an hour each day.
 
 ## Part 1
 
-### Day One
+### Day One (CEU: 7 hours)
+8:30 – 9:30 	Registration and Sign-In 
 
-7:45 – 8:30:
-    Registration and CE/CME Sign-In
+9.30 – 10:30 	Welcome and Introductions, RO-DBT Research
 
-8:30 – 10:15: Introductions
-    Temperament as a Unifying Principle; A Transdiagnostic Approach to Treatment
+10:30 – 10:45 	Break 
 
+10:45 – 12:30 	Social Bonds and Self Control
 
-*Break*
+12:30 – 1:30 	Lunch 
 
+1:30 – 3:00 	RO-DBT – The Neuroregulatory Theory
 
-10:30 – 12:00:
-    RO DBT Research; The Neuroregulatory Model
+3:00 – 3:15 	Break 
 
+3:15 – 4:45 	RO-DBT – The Neuroregulatory Model 
 
-*Lunch*
+4:45 – 5:00 	Q & A, Completion of Evaluation, and Sign Out 
 
+### Day Two (CEU: 7 hours)
+8:30 – 9:00 	Sign-In 
 
-1:15 – 2:45:
-    The Neuroregulatory Model (continued)
+9:00 – 10:30 	Emotions Facilitate Social Bonds via Micro Mimicry 
 
+10:30 – 10:45 	Break 
 
-*Break*
+10:45 – 12:30 	The Importance of Pro-Social Cooperative Signalling 
 
+12:30 – 1:30 	Lunch 
 
-3:00 – 4:15:
-    The Biosocial Theory for Overcontrol -- Social Signaling  Matters
+1:30 – 3:00 	Radical Openness and Self-Enquiry
 
+3:00 – 3:15 	Break 
 
-4:15 – 4:30:
-    Q & A, Completion of Evaluation, and CE/CME Sign Out
+3:15 – 4:45 	Assessing Overcontrol
 
+4:45 – 5:00 	Q & A, Completion of Evaluation, and Sign Out 
 
+### Day Three (CEU: 7 hours)
+8:30 – 9:00 	Sign-In 
 
-### Day Two
+9:00 – 10:30 	RO-DBT Structure
 
+10:30 – 10:45 	Break 
 
-8:00 – 8:30:
-    CE/CME Sign-In
+10:45 – 12:30 	RO-DBT – Structure 
 
-8:30 – 10:15:
-       RO DBT Treatment Strategies for Activation of the PNS Social Safety System
+12:30 – 1:30 	Lunch 
 
+1:30 – 3:00	RO-DBT Team Consultation – Practicing RO Ourselves
 
-*Break*
+3:00 – 3:15	Break 
 
+3:15 – 4:45 	RO-DBT Orientation and Commitment – RO Suicide Protocol and Preventing Treatment Dropout
 
-10:30 – 12:00:
-      The Importance of Pro-Social Cooperative Signaling, Self-Enquiry, and Flexible Responding
+4:45 – 5:00 	Q & A, Completion of Evaluation, and Sign Out 
 
 
-*Lunch*
+### Day Four (CEU: 7 hours)
+8:30 – 9:00 	Sign-In 
 
-1:15 – 2:45:
-    Assessing Overcontrol; Using the OC Prototype Measure
+9.00 – 10:30 	Awareness Continuum Practice, Engaging and Maintaining the OC Client in Therapy, Managing Alliance Ruptures
 
-*Break*
+10:30 – 10:45 	Break 
 
-3:00 – 4:15:
-    RO DBT Treatment Overview
+10:45 – 12:30 	Treatment Targets, Behavioural Principles
 
-4:15 – 4:30:
-    Q & A, Completion of Evaluation, and CE/CME Sign Out
+12:30 – 1:30 	Lunch 
 
+1:30 – 3:00 	Individualizing Treatment Targets, Diary Cards, Chain and Solution Analyses 
 
-### Day Three
+3:00 – 3:15 	Break 
 
-8:00 – 8:30:
-    CE/CME Sign-In
+3:15 – 4:45 	Contingency Management – Push Backs & Don’t Hurts Me’s 
 
-8:30 – 10:15:
-    RO DBT Treatment Hierarchy; RO DBT Behavioral Themes
+4:45 – 5:00 	Q & A, Completion of Evaluation, and Sign Out 
 
+### Day Five (CEU: 7 hours)
+8:30 – 9:00 	Sign-In 
 
-*Break*
+9.00 – 10:130 	Loving Kindness Meditation Principles and Practice: Activating a Social-Safety Mood State, Homework review, Principles for Managing OC Skills Training Classes 
 
+10:30 – 10:45 	Break 
 
-10:30 – 12:00:
-      RO DBT Team Consultation -- Practicing RO Ourselves
+10:45 – 12:30 	Radical Openness Skills Training – Fixed Mind, Fatalistic Mind, Flexible Mind
 
-*Lunch*
+12:30 – 1:30 	Lunch 
 
+1:30 – 3:00 	Radical Openness Skills Training Class Demonstration - Flexible Mind SAGE
 
-1:15 – 2:45:
-    Radical Openness and Self-Enquiry
+3:00 – 3:15 	Break 
 
+3:15 – 4:00 	Questions and Answers, Closing
 
-*Break*
+4:00 – 4.30 	Completion of Evaluation, and Sign Out 
 
-3:00 – 4:15:
-    RO DBT Orientation and Commitment; Loving Kindness Meditation Principles and Practice: Activating a Social-Safety Mood State
 
-4:15 – 4:30:
-    Q & A, Completion of Evaluation, and CE/CME Sign Out
-
-
-
-### Day Four
-
-8:00 – 8:30:
-    CE/CME Sign-In
-
-8:30 – 10:15:
-       Engaging and Maintaining the OC Client in Therapy; Managing Alliance Ruptures
-
-
-*Break*
-
-
-10:30 – 12:00:
-      “Deer in the Headlights”, “Push Backs”, “Don’t Hurt Me’s” and The Enigma Predicament
-
-
-*Lunch*
-
-
-1:15 – 2:45:
-    Introduction to Individualized Targeting for OC, Diary Cards, Chain and Solution Analyses
-
-
-*Break*
-
-
-3:00 – 4:15:
-    Principles for Managing OC Skills Training Classes; Heat On – Heat Off Principles   :
-
-
-4:15 – 4:30:
-    Q & A, Completion of Evaluation, and CE/CME Sign Out
-
-
-### Day Five
-
-8:00 – 8:30:
-    CE/CME Sign-In
-
-8:30 – 10:15:
-       RO MIndfulness Skills -- Fixed Mind, Fatalistic Mind, Flexible Mind
-
-
-*Break*
-
-
-10:30 – 12:00:
-      Radical Openness Skills Training -- Principles and Practice
-
-*Lunch*
-
-
-1:15 – 2:45:
-    Radical Openness Skills Training (continued)
-
-
-*Break*
-
-
-3:00 – 4:15:
-    Homework; Closing
-
-
-
-
-## Part 2
+##Part 2
 
 
 ### Day One
+8:30 – 9:30	Registration and CE/CME Sign-In
 
-7:45 – 8:30:
-    Registration and CE/CME Sign-In
+9:30 – 10:30	 Welcome Back! Overview of week and task sign up
 
-8:30 – 10:15:
-    Introductions & Orientation; Loving Kindness Meditation (LKM) -- Practice and Teaching; Linking LKM to Theory and Obstacles in Teaching
+10:30 – 10:45	Break
 
-*Break*
+10:45 – 12:30	RO DBT update – research & other news
 
-10:30 – 12:00:
-   Small Group/Team Exercise -- Goals and Obstacles; Homework Review
+12:30 – 1:30	Lunch
 
-*Lunch*
+1:30 – 3:15	Returning to Basics: Self identification of OC
 
+3:15 – 3:30	Break
 
-1:15 – 2:45:
-    Returning to Basics; Optimal Well-Being; Neuroregulatory Theory; Sequencing Matters
+3:00 – 4:45	Returning to Basics: Biosocial theory, neuroregulatory theory, core mechanism of change
 
-*Break*
-
-3:00 – 4:15:
-    Role Plays; Helping Patients Identify OC; Explaining the Biosocial Theory; Open; Expression = Trust = Social Connectedness
-
-4:15 – 4:30:
-    Q & A, Completion of Evaluation, and CE/CME Sign Out
-
+4:45 – 5:00	Q & A, Completion of Evaluation, and CE/CME Sign Out
 
 ### Day Two
+8:30 – 9:00	CE/CME Sign-In
 
-8:00 – 8:30:
- CE/CME Sign-In
+9:00 – 10:30	Returning to Basics: OC social signaling, Therapeutic stance
 
-8:30 – 10:15:
-    Mindfulness Practice: Radical Openness and Self-Enquiry: The Art of Blocking Automatic Regulation -- Using “How” Skills
+10:30– 10:45	Break
 
-*Break*
+10:45 – 12:30	Radical openness and self enquiry, Participating without planning
 
-10:30 – 12:00:
-   Case Study 1: Targeting Alliance Ruptures; Case Study 2: Push Backs; Case Study 3: Don’t Hurt Me’s
+12:30 – 1:30	Lunch
 
-*Lunch*
+1:30 – 3:15	1st Micro-analytic Videotape Supervision
 
+3:15 – 3:30	Break
 
-1:15 – 2:45:
-    Micro Supervision with Patient Tapes; Review of Reframed Research Training Tape
+3:30 – 4:45	Sequencing of RO-DBT, OC behavioral themes
 
-
-*Break*
-
-3:00 – 4:15:
-    Role Play -- Identifying OC Themes and Targets
-
-4:15 – 4:30:
-    Q & A, Completion of Evaluation, and CE/CME Sign Out
+4:45 – 5.00	Q & A, Completion of Evaluation, and CE/CME Sign Out
 
 
 ### Day Three
+8:30 – 9:00	CE/CME Sign-In
 
-8:00 – 8:30:
- CE/CME Sign-In
+9:00 – 10:30	The Awareness Continuum – teaching and demonstration, Managing common OC maladaptive behaviors (including alliance ruptures), Individualizing Targets - using behavioral themes to individualize treatment targets 
 
-8:30 – 10:15:
-    Awareness Continuum -- Review and Practice; Practicing RO and Self-Enquiry in Pairs -- “Finding Your Edge” and “Outing Oneself; Reframed Tape: Teaching Awareness Continuum in Individual Therapy; Case Study 4: Linking Individualized Targets to OC Themes
+10:30 – 10:45	Break
 
+10:45 – 12:30	Individualizing Targets (cont.), OC subtypes and treatment targets
 
-*Break*
+12:30 – 1:30	Lunch 
 
-10:30 – 12:00:
-   Case Study 4: Individualized targets (continued);Case Study 5: Dialectical Dilemmas and Enigma Predicament
+1:30 – 3:15	Chain and Solution analysis
 
-*Lunch*
+3:15 – 3:30	Break
 
+3:30 – 4:45	Skills Class Demonstration with Tom 
 
-1:15 – 2:45:
-    Skills Class Practice -- Flexible Mind ADOPTS
-
-*Break*
-
-3:00 – 4:15:
-    Skills Class Practice -- Flexible Mind ADOPTS Homework (including use of the 12 questions for Accepting/Declining Feedback)
-
-4:15 – 4:30:
-    Q & A, Completion of Evaluation, and CE/CME Sign Out
+4:45 – 5:00	Q & A, Completion of Evaluation, and CE/CME Sign Out
 
 
 ### Day Four
+8:30 – 9:00	CE/CME Sign-In
 
-8:00 – 8:30:
-    CE/CME Sign-In
+9:00 – 10:30	Role Play Skills Class 1 – Flexible Mind ADOPTS
 
-8:30 – 10:15:
-    RO DBT Mindfulness Practice: Urge Surfing; Case Study 6: Linking Targets to Chain Analyses
+10:30 – 10:45	Break
 
-*Break*
+10:45 – 12:30	Role Play Skills Class 2 – Flexible Mind ADOPTS Homework (including use of the 12 questions for Accepting/Declining Feedback)
 
-10:30 – 12:00:
-   Skills Class Practice - Flexible Mind ALLOWS  and Match Plus 1
+12:30 – 1:30	Lunch
 
+1:30 – 3:15	Case Presentation:  Pulling It All Together
 
-*Lunch*
+3:15 – 3:30	Break
 
+3:30 – 4:45	2nd Micro-analytic Videotape Supervision 
 
-1:15 – 2:45:
-    Case Study 7:  Pulling It All Together
-
-*Break*
-
-3:00 – 4:15:
-    Micro-supervision with Patient Tapes
-
-4:15 – 4:30:
-    Q & A, Completion of Evaluation, and CE/CME Sign Out
-
+4:45 – 5:00	Q & A, Completion of Evaluation, and CE/CME Sign Out
 
 ### Day Five
+8:30 – 9:00	CE/CME Sign-In
 
-8:00 – 8:30:
-    CE/CME Sign-In
+9:00 – 10:30	Role Play Skills Class 3 - Flexible Mind ALLOWS and Match Plus 1 OR 3rd Micro-analytic Videotape Supervision
 
-8:30 – 10:15:
-    Mindfulness Practice: Laugh Yoga; Structuring and Leading an RO DBT Consultation Team; Programme Implementation: Questions and Discussion
+10:30– 10:45	Break
 
-10:15 – 10:30:
+10:45 – 12:30	Program Implementation: Questions and Issues 
 
-*Break*
+12:30 – 1:30	Lunch
 
-10:30 – 12:00:
-   Programme Implementation (continued); Envy, Bitterness, Resentment, and Revenge -- Flexible Mind DARES
+1:30 – 2:30	RO-DBT Consultation Team Meetings
 
+2:30 – 2:40	Break
 
-*Lunch*
+2:40 – 3:45	General Questions and Answers, Closing Exercise and Farewells
 
-
-1:15 – 2:45:
-    Envy, Bitterness, Resentment, and Revenge -- continued
-    Flexible Mind has Heart -- Forgiveness Skills
-
-
-*Break*
-
-3:00 – 4:15:
-    General Questions and Answers; Closing Exercise and Farewells
-
-4:15 – 4:30:
-    Q & A, Completion of Evaluation, and CE/CME Sign Out
-
+3:45 – 400	Q & A, Completion of Evaluation, and CE/CME Sign Out
 
 
