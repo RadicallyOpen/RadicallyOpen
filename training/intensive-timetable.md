@@ -15,7 +15,7 @@ Typically, the training will open for registration on the Monday morning at 8.30
 
 ## Part 1
 
-### Day One (CEU: 7 hours)
+### Day One
 8:30 – 9:30 	Registration and Sign-In 
 
 9.30 – 10:30 	Welcome and Introductions, RO-DBT Research
@@ -34,7 +34,7 @@ Typically, the training will open for registration on the Monday morning at 8.30
 
 4:45 – 5:00 	Q & A, Completion of Evaluation, and Sign Out 
 
-### Day Two (CEU: 7 hours)
+### Day Two
 8:30 – 9:00 	Sign-In 
 
 9:00 – 10:30 	Emotions Facilitate Social Bonds via Micro Mimicry 
@@ -53,7 +53,7 @@ Typically, the training will open for registration on the Monday morning at 8.30
 
 4:45 – 5:00 	Q & A, Completion of Evaluation, and Sign Out 
 
-### Day Three (CEU: 7 hours)
+### Day Three
 8:30 – 9:00 	Sign-In 
 
 9:00 – 10:30 	RO-DBT Structure
@@ -73,7 +73,7 @@ Typically, the training will open for registration on the Monday morning at 8.30
 4:45 – 5:00 	Q & A, Completion of Evaluation, and Sign Out 
 
 
-### Day Four (CEU: 7 hours)
+### Day Four
 8:30 – 9:00 	Sign-In 
 
 9.00 – 10:30 	Awareness Continuum Practice, Engaging and Maintaining the OC Client in Therapy, Managing Alliance Ruptures
@@ -92,7 +92,7 @@ Typically, the training will open for registration on the Monday morning at 8.30
 
 4:45 – 5:00 	Q & A, Completion of Evaluation, and Sign Out 
 
-### Day Five (CEU: 7 hours)
+### Day Five
 8:30 – 9:00 	Sign-In 
 
 9.00 – 10:130 	Loving Kindness Meditation Principles and Practice: Activating a Social-Safety Mood State, Homework review, Principles for Managing OC Skills Training Classes 
@@ -113,7 +113,6 @@ Typically, the training will open for registration on the Monday morning at 8.30
 
 
 ##Part 2
-
 
 ### Day One
 8:30 – 9:30	Registration and CE/CME Sign-In
