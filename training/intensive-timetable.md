@@ -112,7 +112,7 @@ Typically, the training will open for registration on the Monday morning at 8.30
 4:00 – 4.30 	Completion of Evaluation, and Sign Out 
 
 
-##Part 2
+## Part 2
 
 ### Day One
 8:30 – 9:30	Registration and CE/CME Sign-In
