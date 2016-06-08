@@ -6,8 +6,8 @@ name: RO-DBT Intensive
 parts:
     - from: 2017-05-22
       to: 2017-05-26
-    - from: tbc, January 2018
-      to: tbc, January 2018
+    - from: 2018-01-08
+      to: 2018-01-12
 location: New Jersey
 venue: Rutgers University & Rowan University
 html_title: "RO-DBT intensive training course, New Jersey, 2017-2018"
@@ -42,7 +42,6 @@ In both cases, delegates will have to take a taxi or Rapid Rover to Glassboro. T
 ### Part 2: Rutgers University
 
 Part 2 will be co-hosted by Rutgers University: New Brunswick, NJ, 08901-8534
-Please note: the exact dates for part 2 are yet to be confirmed, but will be in January 2018
 
 The closes airport to Rutgers is: Newark International Airport (also about 30 minutes from the airport to New Brunswick)
 Amtrak and local trains run into New Brunswick from NYC, Baltimore, and Philadelphia
