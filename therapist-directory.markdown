@@ -133,6 +133,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address 2: 61 Avenida de Orinda #100, Orinda, CA 94556
 * Treatment of: Depression, Anxiety, Social Anxiety, OCD, Personality Disorders, Relationship Counseling, etc.
 
+
+#### Florida: Tampa Bay Area, Tampa
+* Name: Victoria Potocki, LMHC and Kelly E. Turner
+* Phone number: 443-621-0976
+* Location: Tampa Bay Area, Tampa Florida
+* Treatment of: adults and adolescents (skills classes going for both) diagnosed with depression, anxiety, anorexia 
+
 #### Illinois/Cook County: Chicago and Evanston
 * Name: Michael Maslar
 * Phone number: 847-733-4300. x648
