@@ -11,7 +11,7 @@ parts:
 location: Derbyshire, UK
 venue: Ashbourne Centre, Kingsway Hospital, Derby
 html_title: "RO-DBT intensive training course, Derbyshire UK, 2016-2017"
-title: "RO-DBT Intensive Derbyshire, UK"
+title: "RO-DBT Intensive Derbyshire, UK -NEARLY SOLD OUT-"
 eventtype: intensive
 hide:
 ---
@@ -19,6 +19,8 @@ hide:
 
 {% include events_when.html %}
 
+#### Almost SOLD OUT!
+Please get in touch with us before registering, this event is nearly sold out! Email [Roelie](mailto:roelie@radicallyopen.net)
 
 #### Overview
 This event is co-hosted by the Eating Disorders service of the Derbyshire Healthcare NHS Foundation Trust.
