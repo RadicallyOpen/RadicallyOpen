@@ -2,13 +2,13 @@
 layout: page
 when: Sept 2016 and April 2017
 starts: 2016-09-12
-name: RO-DBT Intensive
+name: Almost SOLD OUT---RO-DBT Intensive
 parts:
     - from: 2016-09-12
       to: 2016-09-16
     - from: 2017-04-24
       to: 2017-04-28
-location: Derbyshire, UK
+location: Derbyshire, UK---Almost SOLD OUT
 venue: Ashbourne Centre, Kingsway Hospital, Derby
 html_title: "RO-DBT intensive training course, Derbyshire UK, 2016-2017"
 title: "RO-DBT Intensive Derbyshire, UK -NEARLY SOLD OUT-"
