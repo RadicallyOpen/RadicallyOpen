@@ -105,18 +105,12 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Treatment of:	special expertise, interest, and willingness in dual diagnosis (co-occuring substance use disorders plus mental health disorders)	
 
 #### California: Redwood City
-* Name:	Wes Pederson, PhD
-* Phone number:	650-804-8739
-* Email: drwespederson@gmail.com
-* Address: 617 Veterans Blvd, Suite 204, Redwood City, CA 94063
-* Treatment of:	adults and adolescents; men's groups; anxiety and mood disorders, relationship issues, substance abuse, existential issues, personality disorders
-
-#### California/San Mateo: Redwood City
 * Name: Wes Pederson, PhD
 * Phone number: 650-804-8739
-* Email: drwespederson@gmail.com
+* Email: wes@thewisemindinstitute.com
+* Website: www.thewisemindinstitute.com
 * Address: 617 Veterans Blvd, Suite 204, Redwood City, CA 94063
-* Treatment of: Acute or chronic depression, anxiety disorders, substance abuse, relationship issues, emotion dysregulation and impulse control disorders
+* Treatment of: Acute or chronic depression, anxiety disorders, substance abuse, relationship and existential issues, emotion dysregulation, and impulse control disorders
 
 #### California: San Diego and North County, Encinitas
 * Name: Angela Klein, Ph.D.
