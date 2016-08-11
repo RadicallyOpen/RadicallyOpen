@@ -112,10 +112,10 @@ If you would like us to contact you regarding RO DBT or forthcoming training eve
 ### Our Address
 
 <pre>
-The Lodge,
-Baybridge Park,
-Owslebury
-SO21 1JN 
+15 Thornbury Avenue
+Southampton
+SO15 5BQ
+England
 
 +44 (0)7452 027245
 
