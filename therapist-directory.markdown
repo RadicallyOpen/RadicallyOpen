@@ -112,7 +112,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 617 Veterans Blvd, Suite 204, Redwood City, CA 94063
 * Treatment of: Acute or chronic depression, anxiety disorders, substance abuse, relationship and existential issues, emotion dysregulation, and impulse control disorders
 
-#### California: San Diego and North County
+#### California: San Diego and North County, Carlsbad
 * Name: Angela Klein, Ph.D.
 * Phone number: 573-289-4651
 * Email: centeredground@gmail.com
