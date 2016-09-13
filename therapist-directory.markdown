@@ -226,7 +226,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Mailing address: 227 W. Gramercy Pl., San Antonio, TX 78212
 * Treatment of: sub-clinical and chronic eating disorders; situational, chronic, and treatment-resistant anxiety and mood disorders; trauma; impulsivity; chaotic relationships; self harm and suicidality; Personality Disorders: obsessive-compulsive, borderline, avoidant. We provide both group and individual therapy for adolescents and adults.
 
-#### Texas: San Antoni0
+#### Texas: San Antonio
 * Name: Kay Watt, LPC-S, CEDS
 * Phone number: 210-488-2092
 * Email: kaycwatt@SanAntonioDBTCBT.com
