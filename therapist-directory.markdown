@@ -217,6 +217,23 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Email: karynhallphd@gmail.com
 * Address: 920 Frostwood Drive, Houston, Tx 77024
 * Treatment of: Borderline Personality Disorder, Anxiety disorders, eating disorders, complex depression, complex substance abuse disorders,  avoidant personality disorder, trauma, PTSD, paranoid personality disorder, OC personality disorders, individuals who are suicidal
+ 
+#### Texas: San Antonio
+* Name: Lori Prado, LMHC, LPC-S
+* Phone number: 210-488-2093
+* Email: loriprado@SanAntonioDBTCBT.com
+* Address: 319 E. Mulberry Ave., San Antonio, TX 78212
+* Mailing address: 227 W. Gramercy Pl., San Antonio, TX 78212
+* Treatment of: sub-clinical and chronic eating disorders; situational, chronic, and treatment-resistant anxiety and mood disorders; trauma; impulsivity; chaotic relationships; self harm and suicidality; Personality Disorders: obsessive-compulsive, borderline, avoidant. We provide both group and individual therapy for adolescents and adults.
+
+#### Texas: San Antoni0
+* Name: Kay Watt, LPC-S, CEDS
+* Phone number: 210-488-2092
+* Email: kaycwatt@SanAntonioDBTCBT.com
+* Address: 319 E. Mulberry Ave., San Antonio, TX 78212
+* Mailing address: 535 Lamont, San Antonio, TX 78209
+* Treatment of: sub-clinical and chronic eating disorders; situational, chronic, and treatment-resistant anxiety and mood disorders; trauma; impulsivity; chaotic relationships; self harm and suicidality; Personality Disorders: obsessive-compulsive, borderline, avoidant. We provide both group and individual therapy for adolescents and adults.
+
 
 #### Washington: Pullman (Eastern) Washington
 * Names: Rhonda Allenger, Alisha Dearmim, Rick Chapman 
