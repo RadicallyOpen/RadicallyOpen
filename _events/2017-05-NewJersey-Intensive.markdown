@@ -8,7 +8,7 @@ parts:
       to: 2017-05-26
     - from: 2018-01-08
       to: 2018-01-12
-location: New Jersey
+location: New Jersey (USA)
 venue: Rutgers University & Rowan University
 html_title: "RO-DBT intensive training course, New Jersey, 2017-2018"
 title: "RO-DBT Intensive, New Jersey"
