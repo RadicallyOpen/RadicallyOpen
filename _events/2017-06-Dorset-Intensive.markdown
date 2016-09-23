@@ -8,12 +8,12 @@ parts:
       to: 2017-06-09
     - from: 2018-03-12
       to: 2018-03-16
-location: Wimborne, Dorset
+location: Wimborne, Dorset (UK)
 venue: Merley House
-html_title: "RO-DBT intensive training course, Dorset, 2017-2018"
+html_title: "RO-DBT intensive training course, Dorset UK, 2017-2018"
 title: "RO-DBT Intensive, Dorset"
 eventtype: intensive
-hide: 
+hide:
 ---
 
 
