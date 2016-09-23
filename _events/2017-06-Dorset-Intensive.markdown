@@ -13,7 +13,7 @@ venue: Merley House
 html_title: "RO-DBT intensive training course, Dorset, 2017-2018"
 title: "RO-DBT Intensive, Dorset"
 eventtype: intensive
-hide: true
+hide: 
 ---
 
 
