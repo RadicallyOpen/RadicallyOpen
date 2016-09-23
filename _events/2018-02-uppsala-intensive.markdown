@@ -7,7 +7,7 @@ parts:
       to: 2018-02-17
     - from: 2018-09-17
       to: 2018-09-21
-location: Uppsala, Sweden
+location: Uppsala (Sweden)
 venue: Centre for Eating Disorders at the Akademiska Sjukhuset, Uppsala Sweden
 html_title: "RO-DBT intensive training course, Uppsala Sweden, 2018"
 title: "RO-DBT Intensive Uppsala, Sweden"
