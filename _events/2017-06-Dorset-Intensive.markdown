@@ -41,7 +41,9 @@ BH21 3AA
 A link to the venue is [here](http://www.merleyhouseevents.co.uk/business-meeting-seminar-networking-venue-dorset/)
 
 ## Prices and booking
+Please note: lunch is not included in the price for this training. Food can be pre-ordered and paid nearer the time. 
 {{site.intensive_prices_US}}
+
 
 ## Please complete our registration form if you are signing up to our training event:
 [Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
