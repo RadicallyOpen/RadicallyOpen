@@ -48,6 +48,8 @@ Amtrak and local trains run into New Brunswick from NYC, Baltimore, and Philadel
 
 
 ## Prices and booking
+Please note: lunch is not included in the price. There are several options within walking distance.
+
 {{site.intensive_prices_US}}
 
 ## Please complete our registration form if you are signing up to our training event:
