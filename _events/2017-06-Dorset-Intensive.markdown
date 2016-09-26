@@ -31,18 +31,19 @@ APA CE credits: 70 (for completing all 10 days)
 
 ## Travel information
 
-The training will be held in The Old Library at <p>
-Merley House<p>
-Merley House Lane<p>
-Wimborne<p>
-Dorset<p>
-BH21 3AA
+The training will be held in The Old Library at
+- Merley House
+- Merley House Lane
+- Wimborne
+- Dorset
+- BH21 3AA
 
 A link to the venue is [here](http://www.merleyhouseevents.co.uk/business-meeting-seminar-networking-venue-dorset/)
 
 ## Prices and booking
 Please note: lunch is not included in the price for this training. Food can be pre-ordered and paid nearer the time. 
-{{site.intensive_prices_US}}
+
+{{site.intensive_prices_UK}}
 
 
 ## Please complete our registration form if you are signing up to our training event:
