@@ -42,6 +42,8 @@ Please note: lunch is not included in the price for this training. Food can be p
 
 {{site.intensive_prices_UK}}
 
+Early bird expiry date: April 21, 2017
+
 
 ## Please complete our registration form if you are signing up to our training event:
 [Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
