@@ -52,6 +52,8 @@ Please note: lunch is not included in the price. There are several options withi
 
 {{site.intensive_prices_US}}
 
+Early bird expiry date: April 8, 2017
+
 ## Please complete our registration form if you are signing up to our training event:
 [Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
 
