@@ -16,6 +16,7 @@ hide:
 ### February 16th, 2017, Retford, Nottinghamshire, UK
 
 #### In collaboration with Rampton Hospital
+
 Radically Open Dialectical Behavior Therapy (RO DBT) is a treatment for patients who suffer from emotional and behavioral over-control. Some clients lack emotional control and need interventions designed to enhance emotional and behavioral control; others, for whom RO DBT is designed, require interventions designed to relax rigid or inflexible control. RO DBT has been researched over the past 20 years for patients with chronic depression or anorexia nervosa. Research results suggest that it is effective in these, and other, hard-to-treat groups such as Autism Spectrum Disorders and Obsessive Compulsive Personality Disorder.
 - [Read more about RO-DBT here](http://www.radicallyopen.net/about/)
 
