@@ -6,9 +6,9 @@ starts: 2017-10-16
 parts:
     - from: 2017-10-16
       to: 2017-10-16
-name: RO-DBT Conference: Research and Training Day
+name: RO-DBT Conference--Research and Training Day
 html_title: "RO-DBT Conference--Research and Training Day, Retford, Nottinghamshire, UK"
-title: RO-DBT Conference: Research and Training Day
+title: RO-DBT Conference--Research and Training Day
 eventtype: other
 hide: 
 ---
@@ -18,8 +18,7 @@ hide:
 #### In collaboration with Rampton Hospital
 
 We are excited to present our first RO-DBT Conference in 2017. This will be an exciting opportunity to learn more about current and past research in the field of RO-DBT. 
-The conference will offer a range of workshops and symposia, and will cover topics such as OC/UC Assessment, Skills Class, Dealing with non-OC issues, and Emotional Leakage. 
-The exact session contents will be confirmed as soonb as possible. 
+The conference will offer a range of workshops and symposia, and will cover topics such as OC/UC Assessment, Skills Class, Dealing with non-OC issues, and Emotional Leakage. The exact session contents will be confirmed as soon as possible. 
 
 #### Travel information
 The conference will be held at the Mike Harris Learning & Development (MHLD) Centre, Rampton Hospital, Woodbeck, Retford, DN22 0PD
