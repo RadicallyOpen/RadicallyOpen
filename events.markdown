@@ -23,6 +23,7 @@ We regularly run training in partnership with particular organisations, for exam
 - [The Derbyshire NHS Eating Disorders Service](2016-09-derbyshire-intensive.html), part of the Derbyshire NHS Foundation Trust
 - [Rowan University, New Jersey](http://www.rowan.edu/home/)
 - [Rutgers University, New Jersey](http://www.rutgers.edu/)
+- [Rampton Hospital, Nottinghamshire](http://www.nottinghamshirehealthcare.nhs.uk/rampton-hospital) 
 
 If you are interested in co-hosting a training course, please [get in touch](/contact/).
 
