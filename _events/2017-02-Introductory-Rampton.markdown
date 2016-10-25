@@ -10,7 +10,7 @@ name: An Introduction to Radically Open Dialectical Behaviour Therapy (RO-DBT)
 html_title: "An Introduction to Radically Open DBT (RO-DBT), Retford, Nottinghamshire, UK"
 title: An Introduction to RO-DBT
 eventtype: other
-hide: true
+hide: 
 ---
 
 ### February 16th, 2017, Retford, Nottinghamshire, UK 
