@@ -17,6 +17,7 @@ hide:
 
 #### In collaboration with Rampton Hospital
 
+
 We are excited to present our first RO-DBT Conference in 2017. This will be an exciting opportunity to learn more about current and past research in the field of RO-DBT. 
 The conference will offer a range of workshops and symposia, and will cover topics such as OC/UC Assessment, Skills Class, Dealing with non-OC issues, and Emotional Leakage. 
 The exact session contents will be confirmed as soonb as possible. 
