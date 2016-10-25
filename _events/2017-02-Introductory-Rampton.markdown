@@ -26,13 +26,13 @@ Radically Open Dialectical Behavior Therapy (RO DBT) is a treatment for patients
 * Describe a novel treatment mechanism positing open expression = trust = social connectedness
 * List examples of strategies designed to improve pro-social cooperative signaling via activation of the parasympathetic nervous system’s social-safety system
 
-#### Travel information {{page.venue}}
+#### Travel information
 The training will be held at the Mike Harris Learning & Development (MHLD) Centre, Rampton Hospital, Woodbeck, Retford, DN22 0PD
 
 #### Prices and booking
-The cost for attending this one-day training is £150. If booked at the same time with our [RO-DBT Conference in October 2017](add link here), the cost for both events will be £275 in total. 
+The cost for attending this one-day introductory training is £150. If booked at the same time with our [RO-DBT Conference in October 2017](add link here), the cost for both events will be £275 in total. 
 
-### Please complete our registration form if you are signing up to our training event:
+### Please complete our registration form to sign up to this training event:
 [Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
 
 > {{site.forbooking}}
