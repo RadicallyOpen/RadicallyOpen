@@ -23,7 +23,7 @@ The exact session contents will be confirmed as soonb as possible.
 The conference will be held at the Mike Harris Learning & Development (MHLD) Centre, Rampton Hospital, Woodbeck, Retford, DN22 0PD
 
 #### Prices and booking
-The cost for attending this one-day conference is £150. If booked at the same time with our [One-Day RO-DBT Introductory Training in February 2017](add link here), the cost for both events will be £275 in total. 
+The cost for attending this one-day conference is £150. If booked at the same time with our [One-Day RO-DBT Introductory Training in February 2017](http://www.radicallyopen.net/events/2017-02-Introductory-Rampton), the cost for both events will be £275 in total. 
 
 ### Please complete our registration form to sign up to this training event:
 [Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
