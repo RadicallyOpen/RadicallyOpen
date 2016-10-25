@@ -7,7 +7,7 @@ parts:
     - from: 2017-10-16
       to: 2017-10-16
 name: RO-DBT Conference: Research and Training Day
-html_title: "RO-DBT Conference-Research and Training Day, Retford, Nottinghamshire, UK"
+html_title: "RO-DBT Conference--Research and Training Day, Retford, Nottinghamshire, UK"
 title: RO-DBT Conference: Research and Training Day
 eventtype: other
 hide: 
@@ -16,7 +16,6 @@ hide:
 ### October 16th, 2017, Retford, Nottinghamshire, UK
 
 #### In collaboration with Rampton Hospital
-
 
 We are excited to present our first RO-DBT Conference in 2017. This will be an exciting opportunity to learn more about current and past research in the field of RO-DBT. 
 The conference will offer a range of workshops and symposia, and will cover topics such as OC/UC Assessment, Skills Class, Dealing with non-OC issues, and Emotional Leakage. 
