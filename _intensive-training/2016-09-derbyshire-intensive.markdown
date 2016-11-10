@@ -1,0 +1,49 @@
+---
+layout: page
+when: Sept 2016 and April 2017
+starts: 2016-09-12
+name: SOLD OUT---RO-DBT Intensive
+parts:
+    - from: 2016-09-12
+      to: 2016-09-16
+    - from: 2017-04-24
+      to: 2017-04-28
+location: Derbyshire, UK---SOLD OUT
+venue: Ashbourne Centre, Kingsway Hospital, Derby
+html_title: "RO-DBT intensive training course, Derbyshire UK, 2016-2017"
+title: "RO-DBT Intensive Derbyshire, UK -SOLD OUT-"
+eventtype: intensive
+hide:
+---
+
+
+{% include events_when.html %}
+
+#### SOLD OUT!
+We can no longer take bookings for this training. We will announce future trainings as soon as these have been agreed. 
+
+#### Overview
+This event is co-hosted by the Eating Disorders service of the Derbyshire Healthcare NHS Foundation Trust.
+
+{{site.intensive_generic_description}}
+
+- [Read an overview of our intensive course](/training/intensive.html)
+- [The schedule for the RO DBT intensive courses is available here.](/training/intensive/timetable.html)
+
+
+#### Travel information to {{page.venue}}
+The location for the training is:
+
+Centre for Research & Development, Ashbourne Centre, Kingsway Hospital, Derby,Derbyshire, DE22 3LZ
+
+[Click here for a map](http://www.derbyshirehealthcareft.nhs.uk/contact-us/site-locations/ashbourne-centre/)
+
+#### Prices and booking
+{{site.intensive_prices_UK}}
+- Early Bird deadline: 28th July 2016
+
+### Please complete our registration form if you are signing up to our training event:
+[Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
+
+> {{site.forbooking}}
+
