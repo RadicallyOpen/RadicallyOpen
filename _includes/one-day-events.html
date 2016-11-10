@@ -1,0 +1,27 @@
+{% assign events = site.one-day-events | sort: 'document.starts'   %}
+{% for event in events %}
+
+{% capture nowunix %}{{site.time| date: '%s'}}{% endcapture %}
+{% capture addedtime %}{{event.added | date: '%s'}}{% endcapture %}
+{% capture dateofevent %}{{event.from | date: '%s'}}{% endcapture %}
+{% assign nowunix = nowunix | plus: 0 %}
+{% assign dateofevent = dateofevent | plus: 0 %}
+{% assign addedtime = addedtime | plus: 0 %}
+{% assign inonemonth = nowunix | plus: 60*60*24*30 %}
+
+
+{% if event.hide %}{%else%}
+<div  itemscope itemtype="http://data-vocabulary.org/Event">
+
+<h4>
+  <a href="{{event.url}}">
+    <span itemprop="summary">{{event.name}}, {{event.location}}</span>
+  </a>
+</h4>
+
+{% assign parts = event.parts %}
+{% include when_list_fragment.html %}
+
+</div>
+{% endif %}
+{% endfor %}
