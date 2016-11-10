@@ -7,19 +7,15 @@
 - name: Erica Smith
   title:
   email: erica@radicallyopen.net
-  position: Director of training
+  position: Director of Training
   description:
     short:
 
 - name: Roelie Hempel
   title: Dr
-  email:
+  email: roelie@radicallyopen.net
+  positon: E-learning Director
 
-
-- name: Ben Whalley
-  title: Dr
-  email: ben.whalley@plymouth.ac.uk
-  image: benwhalleybw.jpg
 
 
 
