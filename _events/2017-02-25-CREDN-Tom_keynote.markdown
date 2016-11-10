@@ -6,9 +6,9 @@ starts: 2017-02-25
 parts:
     - from: 2017-02-25
       to: 2017-02-25
-name: Keynote Professor Lynch: Looking At Temperament: Evidence Based Treatments for Disorders of Over and Under Control
+name: Keynote Professor Lync, Columbia River Eating Disorder Network Conference
 html_title: "Keynote Professor Lynch, CREDN, Portland OR"
-title: Keynote Professor Lynch: "Looking At Temperament: Evidence Based Treatments for Disorders of Over and Under Control", 20th Annual Columbia River Eating Disorder Network Conference, Portland OR
+title: Keynote Professor Lynch "Looking At Temperament: Evidence Based Treatments for Disorders of Over and Under Control", 20th Annual Columbia River Eating Disorder Network Conference, Portland OR
 eventtype: other
 hide: 
 ---
