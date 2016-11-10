@@ -8,9 +8,12 @@ gems:
   - jekyll-redirect-from
 
 collections:
-  events:
+  one-day-events:
     output: true
-    title: Events
+    title: One-Day Events
+  intensive-training:
+    output: true
+    title: Intensive Training
 
 
 emails:
@@ -41,8 +44,10 @@ links:
     url: /patientscarers/
   - title: Professionals
     url: /professionals/
-  - title: Events
-    url: /events/
+  - title: One-Day Events
+    url: /one-day-events/
+  - title: Intensive Training
+    url: /intensive-training/
   - title: Contact
     url: /contact/
   - title: Online Support Website
