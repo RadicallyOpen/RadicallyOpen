@@ -10,10 +10,10 @@ gems:
 collections:
   one-day-events:
     output: true
-    title: One-Day Events
+    title: One-Day-Events
   intensive-training:
     output: true
-    title: Intensive Training
+    title: Intensive-Training
 
 
 emails:
