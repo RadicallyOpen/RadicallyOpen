@@ -1,5 +1,5 @@
 {% assign events = site.one-day-events | sort: 'document.starts'   %}
-{% for event in events %}
+{% for event in one-day-events %}
 
 {% capture nowunix %}{{site.time| date: '%s'}}{% endcapture %}
 {% capture addedtime %}{{event.added | date: '%s'}}{% endcapture %}
@@ -11,7 +11,7 @@
 
 
 {% if event.hide %}{%else%}
-<div  itemscope itemtype="http://data-vocabulary.org/Event">
+<div  itemscope itemtype="http://data-vocabulary.org/One-Day-Event">
 
 <h4>
   <a href="{{event.url}}">
