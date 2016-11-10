@@ -6,9 +6,9 @@ starts: 2017-02-16
 parts:
     - from: 2017-02-16
       to: 2017-02-16
-name: An Introduction to Radically Open DBT (RO-DBT)
-html_title: "An Introduction to Radically Open DBT (RO-DBT), Retford, Nottinghamshire, UK"
-title: An Introduction to Radically Open DBT (RO-DBT)
+name: An Introduction to Radically Open DBT (RO-DBT) with Professor Thomas Lynch
+html_title: "An Introduction to Radically Open DBT (RO-DBT) with Professor Thomas Lynch, Retford, Nottinghamshire, UK"
+title: An Introduction to Radically Open DBT (RO-DBT) with Professor Thomas Lynch
 eventtype: other
 hide: 
 ---
