@@ -10,9 +10,9 @@ permalink: /events/
 ## RO-DBT Types of Training
 We organise or facilicate one-day introductory training evens and 2x5 days intensive training events. For more information about each type of event: 
 
-[One-Day Introductory Training](www.radicallyopnet.net/one-day-events/)
+[One-Day Introductory Training](www.radicallyopen.net/one-day-events/)
 
-[Intensive Training](www.radicallyopnet.net/intensive-training/)
+[Intensive Training](www.radicallyopen.net/intensive-training/)
 
 ### We are an approved Sponsor for the American Psychological Association!
 ![APA Sponsor Approval Logo](https://dl.dropboxusercontent.com/u/5411729/APA%20approval%20Icon%20with%20RO%20text.png)
