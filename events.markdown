@@ -11,6 +11,7 @@ permalink: /events/
 We organise or facilicate one-day introductory training evens and 2x5 days intensive training events. For more information about each type of event: 
 
 [One-Day Introductory Training](www.radicallyopnet.net/one-day-events/)
+
 [Intensive Training](www.radicallyopnet.net/intensive-training/)
 
 ### We are an approved Sponsor for the American Psychological Association!
