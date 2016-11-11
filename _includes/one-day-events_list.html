@@ -4,6 +4,7 @@
   <h2>
     {{ event.title }}
   </h2>
+{% endfor %}
 
 {% capture nowunix %}{{site.time| date: '%s'}}{% endcapture %}
 {% capture addedtime %}{{event.added | date: '%s'}}{% endcapture %}
