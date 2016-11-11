@@ -14,6 +14,8 @@ html_title: "RO-DBT intensive training course, Dorset UK, 2017-2018"
 title: "RO-DBT Intensive, Dorset"
 eventtype: intensive
 hide:
+intensive: true
+oneday:
 ---
 
 
