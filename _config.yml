@@ -8,12 +8,9 @@ gems:
   - jekyll-redirect-from
 
 collections:
-  one-day-events:
+  events:
     output: true
-    title: One-Day-Events
-  intensive-training:
-    output: true
-    title: Intensive-Training
+    title: Events
 
 
 emails:
