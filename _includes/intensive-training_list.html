@@ -1,4 +1,4 @@
-{% assign events = site.intensive-training | sort: 'document.starts'   %}
+{% assign events = site.events | sort: 'document.starts'   %}
 {% for event in site.events | where_exp:"intensive",
 "item.intensive == true" %}
   <h2>
