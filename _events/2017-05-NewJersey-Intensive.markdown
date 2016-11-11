@@ -14,6 +14,8 @@ html_title: "RO-DBT intensive training course, New Jersey, 2017-2018"
 title: "RO-DBT Intensive, New Jersey"
 eventtype: intensive
 hide:
+intensive: true
+oneday:
 ---
 
 
