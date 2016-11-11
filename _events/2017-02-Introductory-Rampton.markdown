@@ -11,6 +11,8 @@ html_title: "An Introduction to Radically Open DBT (RO-DBT) with Professor Thoma
 title: An Introduction to Radically Open DBT (RO-DBT) with Professor Thomas Lynch
 eventtype: other
 hide: 
+oneday: true
+intensive:
 ---
 
 ### February 16th, 2017, Retford, Nottinghamshire, UK
