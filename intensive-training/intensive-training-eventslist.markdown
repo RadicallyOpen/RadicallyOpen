@@ -14,7 +14,7 @@ Our Intensive Trainings consist of 2 x 5 days, with 6-9 months in between the tw
 ![APA Sponsor Approval Logo](https://dl.dropboxusercontent.com/u/5411729/APA%20approval%20Icon%20with%20RO%20text.png)
 
 ### Forthcoming workshops and training events
-{% include intensive-training_list.html %}
+{% include intensive_training_list.html %}
 
 
 ### Co-hosted training
