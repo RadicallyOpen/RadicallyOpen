@@ -1,5 +1,5 @@
 {% assign event = site.events | sort: 'document.starts'   %}
-{% site.events | where:"oneday", "true" %}
+{% for event in events | where:"oneday", "true" %}
 
 {% capture nowunix %}{{site.time| date: '%s'}}{% endcapture %}
 {% capture addedtime %}{{event.added | date: '%s'}}{% endcapture %}
