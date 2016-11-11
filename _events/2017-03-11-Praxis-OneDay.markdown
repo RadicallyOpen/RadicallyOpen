@@ -11,6 +11,8 @@ html_title: "An Introduction to Radically Open DBT (RO-DBT) with Prof Thomas Lyn
 title: An Introduction to RO-DBT with Prof Thomas Lynch, Walnut Creek, CA
 eventtype: other
 hide:  
+oneday: true
+intensive:
 ---
 
 #### March 11th, 2017, Walnut Creek, CA
