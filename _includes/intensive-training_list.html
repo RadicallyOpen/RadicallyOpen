@@ -12,8 +12,6 @@
 {% for event in site.events | where_exp:"intensive",
 "item.intensive == true" %}
   <h2>{{ event.title }}</h2>
-{% endfor %}
-
 
 {% if event.hide %}{%else%}
 <div  itemscope itemtype="http://data-vocabulary.org/Event">
