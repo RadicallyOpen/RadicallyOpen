@@ -16,7 +16,7 @@ Our Intensive Trainings consist of 2 x 5 days, with 6-9 months in between the tw
 ### Forthcoming workshops and training events
 {% assign list_event_type = 'intensive' %}
 
-{% include event_list.html %}
+{% include events_list.html %}
 
 ### Co-hosted training
 We regularly run training in partnership with particular organisations, for example at specialist eating disorders services or inpatient units where a whole team wishes to train together. Past and future partners for co-hosted training include:
