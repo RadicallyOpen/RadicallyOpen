@@ -9,10 +9,8 @@ parts:
 name: Keynote by Professor Thomas Lynch, Columbia River Eating Disorder Network Conference, Portland OR
 html_title: "Keynote Professor Thomas Lynch, Columbia River Eating Disorder Network Conference, Portland OR"
 title: Keynote by Professor Thomas Lynch, Columbia River Eating Disorder Network Conference, Portland OR
-eventtype: other
+eventtype: oneday
 hide: 
-oneday: true
-intensive:
 ---
 
 #### February 25th, 2017, Portland, OR 
