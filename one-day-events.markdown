@@ -11,7 +11,8 @@ permalink: /one-day-events/
 One-day training evens are typically hosted by other organisations. Some are presented by the treatment developer himself, professor Thomas Lynch, while others are presented by our accredited RO trainers. 
 
 ### List of upcoming events:
-{% include oneday_events_list.html %}
+{% assign list_event_type = 'oneday' %}
+{% include event_list.html %}
 
 
 
