@@ -10,9 +10,6 @@ tags: RO DBT, events, training
 
 
 
-{% include events_list.html %}
-
-
 <span class="icon-twitter"></span> follow [@radicallyopen](http://twitter.com/{{ site.owner.twitter }}") on Twitter for updates to training dates.
 
 
