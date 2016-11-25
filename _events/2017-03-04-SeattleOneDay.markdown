@@ -11,6 +11,7 @@ html_title: "An Introduction to RO-DBT by Professor Thomas Lynch, Seattle, WA"
 title: An Introduction to RO-DBT by Professor Thomas Lynch
 eventtype: oneday
 hide: true
+oneday: true
 ---
 
 ### March 4th, 2017, Seattle, WA
