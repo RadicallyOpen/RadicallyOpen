@@ -13,8 +13,7 @@ html_title: "RO-DBT intensive training course, Uppsala Sweden, 2018"
 title: "RO-DBT Intensive Uppsala, Sweden"
 eventtype: intensive
 hide: 
-intensive: true
-oneday:
+
 ---
 
 
