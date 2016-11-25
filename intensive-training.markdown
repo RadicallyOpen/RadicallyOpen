@@ -15,6 +15,7 @@ Our Intensive Trainings consist of 2 x 5 days, with 6-9 months in between the tw
 
 ### Forthcoming workshops and training events
 {% assign list_event_type = 'intensive' %}
+
 {% include event_list.html %}
 
 ### Co-hosted training
