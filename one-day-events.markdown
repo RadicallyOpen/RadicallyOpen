@@ -12,7 +12,8 @@ One-day training evens are typically hosted by other organisations. Some are pre
 
 ### List of upcoming events:
 {% assign list_event_type = 'oneday' %}
-{% include event_list.html %}
+
+{% include events_list.html %}
 
 
 
