@@ -1,5 +1,5 @@
 {% if list_event_type %}
-	{% assign events = site.events | sort: 'document.starts' | where: eventtype, 'list_event_type'  %}
+	{% assign events = site.events | sort: 'document.starts' | where: 'eventtype', list_event_type  %}
 {% else %}
 	{% assign events = site.events | sort: 'document.starts'  %}
 {% endif %}
