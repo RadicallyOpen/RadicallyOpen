@@ -12,10 +12,9 @@ location: New Jersey (USA)
 venue: Rutgers University & Rowan University
 html_title: "RO-DBT intensive training course, New Jersey, 2017-2018"
 title: "RO-DBT Intensive, New Jersey"
-eventtype: intensive
+eventtype: oneday
 hide:
-intensive: true
-oneday:
+
 ---
 
 
