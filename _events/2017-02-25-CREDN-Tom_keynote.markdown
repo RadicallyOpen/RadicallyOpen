@@ -6,9 +6,9 @@ starts: 2017-02-25
 parts:
     - from: 2017-02-25
       to: 2017-02-25
-name: Keynote by Professor Thomas Lynch, Columbia River Eating Disorder Network Conference, Portland OR
-html_title: "Keynote Professor Thomas Lynch, Columbia River Eating Disorder Network Conference, Portland OR"
-title: Keynote by Professor Thomas Lynch, Columbia River Eating Disorder Network Conference, Portland OR
+name: Keynote by Professor Thomas Lynch, Columbia River Eating Disorder Network Conference
+html_title: "Keynote Professor Thomas Lynch, Columbia River Eating Disorder Network Conference"
+title: Keynote by Professor Thomas Lynch, Columbia River Eating Disorder Network Conference
 eventtype: oneday
 hide: 
 ---
