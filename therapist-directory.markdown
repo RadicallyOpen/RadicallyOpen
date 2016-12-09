@@ -43,7 +43,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number: 07594 016 925
 * Email: enquiries@alexfowke.co.uk
 * Address: 27 Avenue Mansions, Finchley Road, London, NW3 7AX
-* Website: [AlexFowke](www.alexfowke.co.uk)
+* Website: [AlexFowke](http://www.alexfowke.com/)
 * Treatment of: Depression, Anxiety Disorders, Low Self-Esteem, Stress & Chronic Worry, Relationship Difficulties and Personality Difficulties.
 
 #### Hertfordshire
@@ -75,7 +75,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number: 650-504-6781 
 * Email: cravens@marthacravens.com
 * Website: [MarthaCravens](http://www.marthacravens.com/)
-* Address: 350 Second St, Ste 1, Los Altos - http://www.marthacravens.com/
+* Address: 350 Second St, Ste 1, Los Altos
 * Treatment of: Individuals and Couples struggling with issues of over-control; couples and individual work
 
 
@@ -106,7 +106,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Name: Wes Pederson, PhD
 * Phone number: 650-804-8739
 * Email: wes@thewisemindinstitute.com
-* Website: [TheWiseMindInstitute](www.thewisemindinstitute.com)
+* Website: [TheWiseMindInstitute](http://www.thewisemindinstitute.com)
 * Address: 617 Veterans Blvd, Suite 204, Redwood City, CA 94063
 * Treatment of: Acute or chronic depression, anxiety disorders, substance abuse, relationship and existential issues, emotion dysregulation, and impulse control disorders
 
@@ -159,13 +159,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Name:	DBT Associates
 * Phone number:	763-503-3981
 * Email:  kristendbt@gmail.com
-* Website: [DBTAssociates](www.dbtassociates.com)
+* Website: [DBTAssociates](http://www.dbtassociates.com)
 * Address: 7362 University Ave. NE, Suite 101, Fridley, Minnesota  55432
 
 #### Missouri: Saint Louis
 * Name: Whig Mullins, LCSW, RN
 * Phone number: 314-422-5114
-* Web Site: [OpenDBT](OpenDBT.com)
+* Web Site: [OpenDBT](http://www.OpenDBT.com)
 * Email: wmullinslcsw@gmail.com
 * Address: 11709 Old Ballas Road, Suite 205, Creve Coeur, Missouri, 63141
 * Treatment of: Depression, Anxiety, OCD, Self-Harm, Eating Disorders,Trauma, and PTSD among others. We provide individual and group therapy for adults, couples, families, and adolescents. 
@@ -180,7 +180,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Name: Trent Codd
 * Phone number: 828-350-1177
 * Email: rtcodd@behaviortherapist.com
-* Website: [BehaviorTherapist](www.BehaviorTherapist.com)
+* Website: [BehaviorTherapist](http://www.BehaviorTherapist.com)
 * Address: 1085 Tunnel Road, 7A; Asheville, NC  28805
 * Treatment of: Personality and OC-Spectrum Disorders
 
@@ -211,7 +211,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number:	503-705-2194
 * Email: knscal@comcast.net
 * Treatment of:	Depression, anxiety, PTSD. Mostly couples or individuals who would like to improve their relationships
-* Website: [KatherineCalvertLCSW](www.KatherineCalvertLCSW.com)
+* Website: [KatherineCalvertLCSW](http://www.KatherineCalvertLCSW.com)
  
 #### Oregon: Portland
 * Name: Jason Luoma, Ph.D.
@@ -233,7 +233,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number: (503) 267-4786
 * Email: lilinhallylcsw@gmail.com
 * Address: 1136 NW Hoyt St., Suite 230 Portland, Or 97209
-* Website: [PearlDistrictCounselling](www.pearldistrictcounseling.com)
+* Website: [PearlDistrictCounselling](http://www.pearldistrictcounseling.com)
 * Treatment of: Adults and adolescents diagnosed with Mood and Anxiety disorders 
 
 #### Pennsylvania: Pittsburgh
@@ -244,7 +244,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Name: Lauren Ruth Martin, MA (Under Supervision for LPC-MHSP), PSYCHē PLLC
 * Phone number: 615-274-8400
 * Email: laurenmartin@psychepllc.com
-* Website: [Psychepllc](www.psychepllc.com)
+* Website: [Psychepllc](http://www.psychepllc.com)
 * Address: 1200 Division Street Nashville, TN 37203
 * Treatment of: My practice offers DBT-to-Fidelity, RO-DBT in full, and standard treatment using contextual-behavioral models. Treatment focuses include Self-Harm Behaviors, Suicidality, Mood Disorders (Depression, Anxiety, Bipolar, Disruptive Mood Dysregulation Disorder) and Personality Disorders (BPD, Schizotypal PD, OCPD, Dependent PD). Populations range from adolescents to adults, and I specialize in socially anxious adolescents, adolescents with mood disorders, millennials, and adults life transitions (grief, marriage, job transition, etc). 
 
@@ -283,7 +283,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Company: Evidence Based Treatment Centers of Seattle
 * Phone number:	206-374-0109
 * Email: elotempio@ebtseattle.com
-* Website: [EBTSeattle](www.ebtseattle.com)
+* Website: [EBTSeattle](http://www.ebtseattle.com)
 * Treatment of:	eating disorders, depression, personality disorders
 
 #### Washington: Seattle, Bellevue and surrounding Puget Sound area
@@ -303,8 +303,8 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Name: Alexia "Lexi" Giblin, PhD, CEDS
 * Clinic:  Opal: Food+Body Wisdom
 * Phone number: 206-926-9087
-* Website: [OpalFoodandBody](www.opalfoodandbody.com)
-* Address: 1100 NE 45th St, Ste 600     Seattle, WA 98105
+* Website: [OpalFoodandBody](http://www.opalfoodandbody.com)
+* Address: 1100 NE 45th St, Ste 600, Seattle, WA 98105
 * Treatment of: Partial hospitalization, intensive outpatient, and traditional outpatient for eating disorders; Anxiety and mood disorders also treated
 
 #### Wisconsin: Marathon (Central Wisconsin)
