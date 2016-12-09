@@ -152,6 +152,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number: (317) 573-0149
 * Fax: (317) 573-0154
 * Email: cward@woodviewgroup.com ; pchristy@woodviewgroup.com
+* Website: [WoodviewGroup](http://woodviewgroup.com/)
 * Address: 70 E. 91st St. Indianapolis, IN 46240
 * Treatment of: adults and adolescents (skills classes for both) diagnosed with anxiety disorders, depression, Autism Spectrum Disorder, personality disorders, eating disorders
 
