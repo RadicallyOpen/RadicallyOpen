@@ -164,10 +164,10 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 7362 University Ave. NE, Suite 101, Fridley, Minnesota  55432
 
 #### Missouri: Saint Louis
-* Name: Whig Mullins, LCSW, RN
-* Phone number: 314-422-5114
+* Name: Whig Mullins, LCSW, RN and Sameera Malik, MSW, LCSW
+* Phone number: 314-422-5114 and 314- 488-6284
 * Web Site: [OpenDBT](http://www.OpenDBT.com)
-* Email: wmullinslcsw@gmail.com
+* Email: wmullinslcsw@gmail.com and sameeramaliklcsw@gmail.com 
 * Address: 11709 Old Ballas Road, Suite 205, Creve Coeur, Missouri, 63141
 * Treatment of: Depression, Anxiety, OCD, Self-Harm, Eating Disorders,Trauma, and PTSD among others. We provide individual and group therapy for adults, couples, families, and adolescents. 
 
