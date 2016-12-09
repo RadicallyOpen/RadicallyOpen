@@ -43,13 +43,20 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number: 07594 016 925
 * Email: enquiries@alexfowke.co.uk
 * Address: 27 Avenue Mansions, Finchley Road, London, NW3 7AX
-* Website: www.alexfowke.co.uk
+* Website: [AlexFowke](www.alexfowke.co.uk)
 * Treatment of: Depression, Anxiety Disorders, Low Self-Esteem, Stress & Chronic Worry, Relationship Difficulties and Personality Difficulties.
 
 #### Hertfordshire
 * Name: Sime Nyathi-Ndlovu
 * Phone: 07789494941
 * Email: Simelinkosi.Nyathi-Ndlovu@hpft.nhs.uk
+* Treatment of: Eating Disorders
+
+#### Scotland: Stirling
+* Name: Dr Stephen Anderson, Consultant Psychiatrist and Annette Gilmour, Nurse Specialist
+* Phone: 01786 458549
+* Email: FV-UHB.eatingdisorders@nhs.net
+* Address: Eating Disorders Service, Livilands Resource Centre, Stirling Community Hospital, Stilring FK82AU Scotland
 * Treatment of: Eating Disorders
 
 #### Scottish Borders: Borders wide service (skills class in Melrose)
@@ -67,7 +74,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Name: Dr. Martha Cravens, PSY24041
 * Phone number: 650-504-6781 
 * Email: cravens@marthacravens.com
-* Website: http://www.marthacravens.com/
+* Website: [MarthaCravens](http://www.marthacravens.com/)
 * Address: 350 Second St, Ste 1, Los Altos - http://www.marthacravens.com/
 * Treatment of: Individuals and Couples struggling with issues of over-control; couples and individual work
 
@@ -80,15 +87,6 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 329 S. San Antonio Rd. Suite 3, Los Altos, CA 94022
 * Treatment of:	Mood, sleep and anxiety disorders and eating disorders; Social Anxiety, Avoidant PD, OCPD and Borderline Personality Disorder practicing DBT for over 17 years, RO-DBT, Behavior Activation and CBT-I
 			
-
-#### California: Menlo Park
-* Name:	Julie Leader, PhD
-* Phone number:	(650) 322-4800
-* Email: julieleader@hotmail.com
-* Address: 800 Menlo Ave. Suite 121, Menlo Park, CA  94025
-* Treatment of:	Anxiety, Depression, Bipolar Disorder, Social Phobia, Simple Phobias (e.g. driving, specific animals, germs, etc.), PTSD, Personality Disorders: OCPD, Paranoid PD, Avoidant PD, Borderline Personality Disorder
-			
-
 #### California: Pacifica		
 * Name:	Max Burns, M.D.
 * Phone number:	(650)363-7234
@@ -108,9 +106,17 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Name: Wes Pederson, PhD
 * Phone number: 650-804-8739
 * Email: wes@thewisemindinstitute.com
-* Website: www.thewisemindinstitute.com
+* Website: [TheWiseMindInstitute](www.thewisemindinstitute.com)
 * Address: 617 Veterans Blvd, Suite 204, Redwood City, CA 94063
 * Treatment of: Acute or chronic depression, anxiety disorders, substance abuse, relationship and existential issues, emotion dysregulation, and impulse control disorders
+
+#### California: Redwood City
+* Name:	Julie Leader, PhD
+* Phone number: (650)260-0070
+* Fax: (650)260-0070
+* Email: julieleader@hotmail.com
+* Address: 611 Veterans Blvd., Suite 102, Redwood City, CA 94063
+* Treatment of:	Anxiety, Depression, Bipolar Disorder, Social Phobia, Simple Phobias (e.g. driving, specific animals, germs, etc.), PTSD, Personality Disorders: OCPD, Paranoid PD, Avoidant PD, Borderline Personality Disorder
 
 #### California: San Diego and North County, Carlsbad
 * Name: Angela Klein, Ph.D.
@@ -127,14 +133,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address 2: 61 Avenida de Orinda #100, Orinda, CA 94556
 * Treatment of: Depression, Anxiety, Social Anxiety, OCD, Personality Disorders, Relationship Counseling, etc.
 
-
 #### Florida: Tampa Bay Area, Tampa
 * Name: Victoria Potocki, LMHC and Kelly E. Turner
 * Phone number: 443-621-0976
 * Location: Tampa Bay Area, Tampa Florida
 * Treatment of: adults and adolescents (skills classes going for both) diagnosed with depression, anxiety, anorexia 
 
-#### Illinois/Cook County: Chicago and Evanston
+#### Illinois: Cook County, Chicago and Evanston
 * Name: Michael Maslar
 * Phone number: 847-733-4300. x648
 * Email: mmaslar@family-institute.org
@@ -142,12 +147,28 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address2: The Family Institute, 8 S. Michigan Ave., Chicago, IL 60603, United States
 * Treatment of: Anxiety, Depression, Anorexia, Perfectionism
 
+#### Indiana: Indianapolis
+* Name: Courtney Ward, Psy.D., HSPP and Pam Christy, Psy.D., HSPP; Woodview Psychology Group 
+* Phone number: (317) 573-0149
+* Fax: (317) 573-0154
+* Email: cward@woodviewgroup.com ; pchristy@woodviewgroup.com
+* Address: 70 E. 91st St. Indianapolis, IN 46240
+* Treatment of: adults and adolescents (skills classes for both) diagnosed with anxiety disorders, depression, Autism Spectrum Disorder, personality disorders, eating disorders
+
 #### Minnesota: Fridley		
 * Name:	DBT Associates
 * Phone number:	763-503-3981
 * Email:  kristendbt@gmail.com
-* Website: www.dbtassociates.com
+* Website: [DBTAssociates](www.dbtassociates.com)
 * Address: 7362 University Ave. NE, Suite 101, Fridley, Minnesota  55432
+
+#### Missouri: Saint Louis
+* Name: Whig Mullins, LCSW, RN
+* Phone number: 314-422-5114
+* Web Site: [OpenDBT](OpenDBT.com)
+* Email: wmullinslcsw@gmail.com
+* Address: 11709 Old Ballas Road, Suite 205, Creve Coeur, Missouri, 63141
+* Treatment of: Depression, Anxiety, OCD, Self-Harm, Eating Disorders,Trauma, and PTSD among others. We provide individual and group therapy for adults, couples, families, and adolescents. 
 
 #### New Jersey: Waldwick (30 mins from NYC)
 * Name: Christine Hudson, Ph.D.; Hudson Psychological Group.  
@@ -159,7 +180,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Name: Trent Codd
 * Phone number: 828-350-1177
 * Email: rtcodd@behaviortherapist.com
-* Website: www.BehaviorTherapist.com
+* Website: [BehaviorTherapist](www.BehaviorTherapist.com)
 * Address: 1085 Tunnel Road, 7A; Asheville, NC  28805
 * Treatment of: Personality and OC-Spectrum Disorders
 
@@ -190,14 +211,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number:	503-705-2194
 * Email: knscal@comcast.net
 * Treatment of:	Depression, anxiety, PTSD. Mostly couples or individuals who would like to improve their relationships
-* Website: www.KatherineCalvertLCSW.com
+* Website: [KatherineCalvertLCSW](www.KatherineCalvertLCSW.com)
  
 #### Oregon: Portland
 * Name: Jason Luoma, Ph.D.
 * Phone number: 503-281-4852 x13
 * Email: jbluoma@portlandpsychotherapyclinic.com
 * Address: Portland Psychotherapy, 3700 N WIlliams Ave., Portland, OR 97227
-* Website: http://www.portlandpsychotherapyclinic.com/counseling/jason-luoma
+* Website: [PortlandPsychotherapyClinic](http://www.portlandpsychotherapyclinic.com/counseling/jason-luoma)
 * Treatment of: chronic, treatment resistant depression
 
 #### Oregon: Portland
@@ -207,9 +228,25 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Email: kirstenmcateerlpc@gmail.com
 * Treatment: I specialize in the treatment of eating disorders but do treat other issues (trauma, anxiety) as well.  
 
+#### Oregon: Portland
+* Name: Li Lin Hally, LCSW
+* Phone number: (503) 267-4786
+* Email: lilinhallylcsw@gmail.com
+* Address: 1136 NW Hoyt St., Suite 230 Portland, Or 97209
+* Website: [PearlDistrictCounselling](www.pearldistrictcounseling.com)
+* Treatment of: Adults and adolescents diagnosed with Mood and Anxiety disorders 
+
 #### Pennsylvania: Pittsburgh
 * Name: Tiffany Painter, LCSW
 * Phone number:  412-246-5454
+
+#### Tennessee: Nashville
+* Name: Lauren Ruth Martin, MA (Under Supervision for LPC-MHSP), PSYCHē PLLC
+* Phone number: 615-274-8400
+* Email: laurenmartin@psychepllc.com
+* Website: [Psychepllc](www.psychepllc.com)
+* Address: 1200 Division Street Nashville, TN 37203
+* Treatment of: My practice offers DBT-to-Fidelity, RO-DBT in full, and standard treatment using contextual-behavioral models. Treatment focuses include Self-Harm Behaviors, Suicidality, Mood Disorders (Depression, Anxiety, Bipolar, Disruptive Mood Dysregulation Disorder) and Personality Disorders (BPD, Schizotypal PD, OCPD, Dependent PD). Populations range from adolescents to adults, and I specialize in socially anxious adolescents, adolescents with mood disorders, millennials, and adults life transitions (grief, marriage, job transition, etc). 
 
 #### Texas: Houston
 * Name: Karyn Hall, Ph.D.  (DBT Center)
@@ -234,7 +271,6 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Mailing address: 535 Lamont, San Antonio, TX 78209
 * Treatment of: sub-clinical and chronic eating disorders; situational, chronic, and treatment-resistant anxiety and mood disorders; trauma; impulsivity; chaotic relationships; self harm and suicidality; Personality Disorders: obsessive-compulsive, borderline, avoidant. We provide both group and individual therapy for adolescents and adults.
 
-
 #### Washington: Pullman (Eastern) Washington
 * Names: Rhonda Allenger, Alisha Dearmim, Rick Chapman 
 * Phone number: 509 334-1133
@@ -247,8 +283,8 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Company: Evidence Based Treatment Centers of Seattle
 * Phone number:	206-374-0109
 * Email: elotempio@ebtseattle.com
+* Website: [EBTSeattle](www.ebtseattle.com)
 * Treatment of:	eating disorders, depression, personality disorders
-* Website: www.ebtseattle.com
 
 #### Washington: Seattle, Bellevue and surrounding Puget Sound area
 * Name:	Kristi Colwell, MA, LMHC
@@ -263,10 +299,19 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 1200 Fifth Avenue, Suite 800, Seattle, WA 98101
 * Treatment of: Eating disorders, personality disorders, anxiety, depression
 
-#### Washington/King County: Seattle
+#### Washington: King County, Seattle
 * Name: Alexia "Lexi" Giblin, PhD, CEDS
 * Clinic:  Opal: Food+Body Wisdom
 * Phone number: 206-926-9087
-* Website: www.opalfoodandbody.com
+* Website: [OpalFoodandBody](www.opalfoodandbody.com)
 * Address: 1100 NE 45th St, Ste 600     Seattle, WA 98105
 * Treatment of: Partial hospitalization, intensive outpatient, and traditional outpatient for eating disorders; Anxiety and mood disorders also treated
+
+#### Wisconsin: Marathon (Central Wisconsin)
+* Name: Melissa Skrzypchak 
+* Phone number: 715-690-1272
+* Fax: 715-544-1212
+* Email: melissa@alliancehealthclinic.com
+* Address: ALLIANCE MEDICAL GROUP, 2417 POST ROAD, STEVENS POINT, WI 54481
+* Treatment of: RO-DBT, DBT, CBT, CPT, ACT
+
