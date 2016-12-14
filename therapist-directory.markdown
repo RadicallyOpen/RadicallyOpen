@@ -237,6 +237,15 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Website: [PearlDistrictCounselling](http://www.pearldistrictcounseling.com)
 * Treatment of: Adults and adolescents diagnosed with Mood and Anxiety disorders 
 
+#### South Carolina: Greenville / Upstate of South Carolina
+* Name:  Kim Halley, LMFT & Jamie Martin. LPCI
+* Practice Name: Clarify Counseling, LLC
+* Phone number: 1-864-634-4876
+* Fax: 1-864-412-3430
+* Email:  dbt@clarifycounseling.com and jmartin@clarifycounseling.com
+* Address: 14 Manly Street, Greenville, SC 29601 
+* Treatment of: Over Control Disorders
+
 #### Pennsylvania: Pittsburgh
 * Name: Tiffany Painter, LCSW
 * Phone number:  412-246-5454
