@@ -39,7 +39,7 @@ Merley House, Merley House Lane, Wimborne, Dorset, BH21 3AA
 A link to the venue is [here](http://www.merleyhouseevents.co.uk/business-meeting-seminar-networking-venue-dorset/)
 
 ## Prices and booking
-Please note: lunch is not included in the price for this training. Food can be pre-ordered and paid nearer the time. 
+Please note: a light lunch will be provided every day.
 
 {{site.intensive_prices_UK}}
 
