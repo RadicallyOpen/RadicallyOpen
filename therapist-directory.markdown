@@ -204,7 +204,8 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number:	(503) 515-1791
 * Fax: (866) 833-8702
 * Email: kirstenmcateerlpc@gmail.com
-* Address: 4424 NE Glisan St.m Portland, OR  97213
+* Website: [KirstenMcAteer](http://kirstenmcateerlpc.com/)
+* Address: 1220 SW Morrison St., Ste. 905, Portland, OR  97205
 * Treatment of:	primarily eating disorders, but also general anxiety and mood related issues
 
 #### Oregon: Portland
