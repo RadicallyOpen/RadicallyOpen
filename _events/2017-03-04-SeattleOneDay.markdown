@@ -10,7 +10,7 @@ name: An Introduction to RO-DBT by Professor Thomas Lynch
 html_title: "An Introduction to RO-DBT by Professor Thomas Lynch, Seattle, WA"
 title: An Introduction to RO-DBT by Professor Thomas Lynch
 eventtype: oneday
-hide: true
+hide: 
 oneday: true
 ---
 
@@ -30,10 +30,10 @@ Upon completion of this one-day training, participants will be able to:
 
 
 #### Travel information
-The training day will be held at the Hotel Deca, University District, Seattle, WA
+The training day will be held at the Hotel Deca, University District, Seattle, WA. More information can be found on the [Opal Food+Body website](http://www.opalfoodandbody.com/?p=26246&post_type=tribe_events&preview=1&_ppp=604ffaa09d)
 
 #### Prices and booking
+For prices and booking, please go directly to the [Opal Food+Body website](http://www.opalfoodandbody.com/?p=26246&post_type=tribe_events&preview=1&_ppp=604ffaa09d)
 
-### Registration
 
 > {{site.forbooking}}
