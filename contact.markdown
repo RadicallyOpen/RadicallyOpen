@@ -115,6 +115,10 @@ England
 
 +44 (0)7452 027245
 
+Registered in England: 9333062
+
+VAT Reg: 258 1469 80
+
 </pre>
 <p>
 <a href="/assets/radicallyopen.vcf">Add to address book</a>
