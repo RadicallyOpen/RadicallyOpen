@@ -10,7 +10,7 @@ name: RO-DBT Conference--Research and Training Day
 html_title: "RO-DBT Conference--Research and Training Day, Retford, Nottinghamshire, UK"
 title: RO-DBT Conference--Research and Training Day
 eventtype: oneday
-hide: 
+hide: true
 
 ---
 
