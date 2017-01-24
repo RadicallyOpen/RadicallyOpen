@@ -79,13 +79,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Treatment of: Individuals and Couples struggling with issues of over-control; couples and individual work
 
 
-#### California: Los Altos		
+#### California: Centrally located for San Mateo and Santa Clara counties and Silicon Valley including Redwood City, Palo Alto, Mountain View, Sunnyvale, Cupertino, Los Gatos, Santa Clara and San Jose		
 * Name:	Hal Lynne Micali, MFT
 * Phone number:	650 917-9100 
 * Fax:	650 941-8083 
 * Email: hlmicali@pacbell.net
 * Address: 329 S. San Antonio Rd. Suite 3, Los Altos, CA 94022
-* Treatment of:	Mood, sleep and anxiety disorders and eating disorders; Social Anxiety, Avoidant PD, OCPD and Borderline Personality Disorder practicing DBT for over 17 years, RO-DBT, Behavior Activation and CBT-I
+* Treatment of:	Depression, anxiety, sleep and eating disorders, issues of Over Control, Social Anxiety, Avoidant Personality Disorder, OCPD and Borderline Personality Disorder practicing DBT for over 19 years, RO-DBT, Behavior Activation and CBT-I
 			
 #### California: Pacifica		
 * Name:	Max Burns, M.D.
