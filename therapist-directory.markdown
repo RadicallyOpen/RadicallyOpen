@@ -52,19 +52,19 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Email: Simelinkosi.Nyathi-Ndlovu@hpft.nhs.uk
 * Treatment of: Eating Disorders
 
+#### Kent: Maidstone
+* Name: Alan Dunlop – Outpatient & Liaison Nurse
+* Phone: 01622 729982
+* Email: alan.dunlop@kmpt.nhs.uk 
+* Address: The Red House,22 Oakapple Lane, Barming, Maidstone, Kent, ME16 9NW
+* Treatment of: Eating Disorders
+
 #### Scotland: Stirling
 * Name: Dr Stephen Anderson, Consultant Psychiatrist and Annette Gilmour, Nurse Specialist
 * Phone: 01786 458549
 * Email: FV-UHB.eatingdisorders@nhs.net
 * Address: Eating Disorders Service, Livilands Resource Centre, Stirling Community Hospital, Stilring FK82AU Scotland
 * Treatment of: Eating Disorders
-
-#### Scottish Borders: Borders wide service (skills class in Melrose)
-* Name: Alan Dunlop – Specialist Nurse eating Disorders
-* Phone number: 01896 661130
-* Email: Alan.dunlop@borders.scot.nhs.uk
-* Address: Borders Crisis Team and Liaison Psychiatry Team, 10 Sime Place, Galashiels, TD1 1ST
-* Treament of: Eating Disorders
 
 
 # USA
