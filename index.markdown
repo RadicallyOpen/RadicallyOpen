@@ -25,7 +25,7 @@ We specialise in intensive training and online support for professionals who wan
 - [More about our training courses for health professionals](/professionals/)
 - [Read what patients and health professionals are saying about RO DBT](/about/quotes/)
 
-### Latest news: The RO-DBT Textbook is now available to pre-order!
+### Latest news: The RO-DBT Textbook and Skills Manual are now available to pre-order!
 Click [here for the RO-DBT Textbook](https://www.amazon.com/Radically-Open-Dialectical-Behavior-Therapy/dp/1626259283/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=1626259283&pd_rd_r=C5HVC9BK1VKDT6RH03CD&pd_rd_w=uwYDr&pd_rd_wg=IVTZD&psc=1&refRID=C5HVC9BK1VKDT6RH03CD)
 and [here for the RO-DBT Skills Manual](https://www.amazon.com/Training-Radically-Dialectical-Behavior-Therapy/dp/1626259313/ref=pd_sbs_14_1?_encoding=UTF8&psc=1&refRID=684DKKSW9AK7DY3HA2FH). 
 
