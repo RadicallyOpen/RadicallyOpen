@@ -10,7 +10,7 @@ name: An Introduction to Radically Open DBT (RO-DBT), DBT Associates
 html_title: "An Introduction to Radically Open DBT (RO-DBT), Fridley MN"
 title: An Introduction to RO-DBT, DBT Associates, Fridley MN
 eventtype: oneday
-hide:  
+hide: true  
 ---
 
 #### January 27th, 2017, Fridley MN 
