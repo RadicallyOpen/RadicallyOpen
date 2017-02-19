@@ -1,14 +1,14 @@
 ---
 layout: page
-location:  Columbus, OH, USA
+location: Columbus, OH, USA
 venue: The Blackwell Inn and Conference Center
 starts: 2017-05-09
 parts:
     - from: 2017-05-09
       to: 2017-05-09
-name: RO-DBT: A New Approach for Patients who suffer from Emotional or Behavioral Over-Control
-html_title: "RO-DBT: A New Approach for Patients who suffer from Emotional or Behavioral Over-Control, Ohio State University"
-title: RO-DBT: A New Approach for Patients who suffer from Emotional or Behavioral Over-Control
+name: RO-DBT--A New Approach for Patients who suffer from Emotional or Behavioral Over-Control
+html_title: "RO-DBT--A New Approach for Patients who suffer from Emotional or Behavioral Over-Control, Ohio State University"
+title: RO-DBT--A New Approach for Patients who suffer from Emotional or Behavioral Over-Control
 eventtype: oneday
 hide: 
 ---
