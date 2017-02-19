@@ -1,6 +1,6 @@
 ---
 layout: page
-location:  Columbus. OH, USA
+location:  Columbus, OH, USA
 venue: The Blackwell Inn and Conference Center
 starts: 2017-05-09
 parts:
