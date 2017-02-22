@@ -266,6 +266,15 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 920 Frostwood Drive, Houston, Tx 77024
 * Treatment of: Borderline Personality Disorder, Anxiety disorders, eating disorders, complex depression, complex substance abuse disorders,  avoidant personality disorder, trauma, PTSD, paranoid personality disorder, OC personality disorders, individuals who are suicidal
  
+ 
+#### Texas: Houston (Memorial City) 
+* Name: DBT Center of Houston
+* Phone number: 713.973.2800
+* Fax: 713.973.3902
+* Email: administration@dbtcenterhouston.com	
+* Address: 920 Frostwood Dr. Suite 680
+* Treatment of: over control and under control disorders - including chronic depression, chronic anxiety, eating disorders, chemical dependency, personality disorders, suicidal ideation, and self-harm issues
+ 
 #### Texas: San Antonio
 * Name: Lori Prado, LMHC, LPC-S
 * Phone number: 210-488-2093
