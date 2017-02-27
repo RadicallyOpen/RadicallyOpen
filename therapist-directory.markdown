@@ -244,6 +244,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number: 1-864-634-4876
 * Fax: 1-864-412-3430
 * Email:  dbt@clarifycounseling.com and jmartin@clarifycounseling.com
+* Website: [Clarify Counseling](http://www.clarifycounseling.com/)
 * Address: 14 Manly Street, Greenville, SC 29601 
 * Treatment of: Over Control Disorders
 
