@@ -301,10 +301,9 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 
 #### Washington: Seattle
 * Name:	Elizabeth LoTempio, PsyD
-* Company: Evidence Based Treatment Centers of Seattle
-* Phone number:	206-374-0109
-* Email: elotempio@ebtseattle.com
-* Website: [EBTSeattle](http://www.ebtseattle.com)
+* Phone number:	206-218-3277
+* Email: contact@drelizabethlotempio.com
+* Website: [DrElizabethLoTempio](drelizabethlotempio.com)
 * Treatment of:	eating disorders, depression, personality disorders
 
 #### Washington: Seattle, Bellevue and surrounding Puget Sound area
