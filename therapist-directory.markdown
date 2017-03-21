@@ -327,6 +327,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 1100 NE 45th St, Ste 600, Seattle, WA 98105
 * Treatment of: Partial hospitalization, intensive outpatient, and traditional outpatient for eating disorders; Anxiety and mood disorders also treated
 
+#### Washington: Seattle
+* Name: Larissa Mancil, PhD
+* Phone number: 206-550-3344
+* Email: Larissam@ryther.org
+* Address: 2400 NE 95th st Seattle, Wa
+* Treatment of: anxiety, depression, eating disorders and suicidality in teens and young adults (up to age 23) 
+
 #### Wisconsin: Marathon (Central Wisconsin)
 * Name: Melissa Skrzypchak 
 * Phone number: 715-690-1272
