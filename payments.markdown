@@ -19,7 +19,7 @@ Please use invoice number as payment reference
 
 ### US, Canadian, and European courses
 - Payments can be made directly via a link to PayPal in the invoice we will send you.
-- However, we offer a $100 discount to customers who pay via Transferwise instead. Please send us an email if you wish to make use of this option. We will then send you an invitation link via www.TransferWise.com, allowing you to pay via credit card.
+- However, we offer a $100 discount to US customers who pay via Transferwise instead. Please send us an email if you wish to make use of this option. We will then send you an invitation link via www.TransferWise.com, allowing you to pay via credit card.
 - You can send an international payment via your bank using the SWIFT and IBAN codes above
 
 Please use invoice number as payment reference
