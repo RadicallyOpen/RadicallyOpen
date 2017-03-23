@@ -6,7 +6,7 @@ title: Make a payment
 
 ### UK courses
 
-For UK courses you can pay UK bank transfer or cheque.
+For UK courses you can pay UK bank transfer.
 
 * Account name: Radically Open
 * Sort code: 20-75-01
