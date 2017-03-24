@@ -10,7 +10,7 @@ name: An Introduction to Radically Open DBT (RO-DBT)
 html_title: "An Introduction to Radically Open DBT (RO-DBT), Portland OR"
 title: An Introduction to RO-DBT, Lewis & Clark Graduate School, Portland OR
 eventtype: oneday
-hide: 
+hide: true
 
 ---
 
