@@ -10,7 +10,7 @@ name: An Introduction to RO-DBT by Professor Thomas Lynch
 html_title: "An Introduction to RO-DBT by Professor Thomas Lynch, Seattle, WA"
 title: An Introduction to RO-DBT by Professor Thomas Lynch
 eventtype: oneday
-hide: 
+hide: true
 oneday: true
 ---
 
