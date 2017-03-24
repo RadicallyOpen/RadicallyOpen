@@ -157,7 +157,8 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Treatment of: adults and adolescents (skills classes for both) diagnosed with anxiety disorders, depression, Autism Spectrum Disorder, personality disorders, eating disorders
 
 #### Minnesota: Fridley		
-* Name:	DBT Associates
+* Name:	DBT Associates 
+* Clinicians: Kristen Fritsinger; Chris Kvidera, LICSW; Marilyn Reichman, MA, LP; and Sue Venzke, LICSW
 * Phone number:	763-503-3981
 * Email:  kristendbt@gmail.com
 * Website: [DBTAssociates](http://www.dbtassociates.com)
