@@ -10,7 +10,7 @@ name: An Introduction to Radically Open DBT (RO-DBT) with Prof Thomas Lynch, Pra
 html_title: "An Introduction to Radically Open DBT (RO-DBT) with Prof Thomas Lynch"
 title: An Introduction to RO-DBT with Prof Thomas Lynch, Walnut Creek, CA
 eventtype: oneday
-hide:  
+hide: true
 
 ---
 
