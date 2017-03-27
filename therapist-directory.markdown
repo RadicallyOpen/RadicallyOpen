@@ -158,9 +158,9 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 
 #### Minnesota: Fridley		
 * Name:	DBT Associates 
-* Clinicians: Kristen Fritsinger; Chris Kvidera, LICSW; Marilyn Reichman, MA, LP; and Sue Venzke, LICSW
+* Clinicians: Anne Gresham, RN, CNS; Kristen Fritsinger, LICSW; Chris Kvidera, LICSW; Marilyn Reichman, MA, LP; and Sue Venzke, LICSW
 * Phone number:	763-503-3981
-* Email:  kristendbt@gmail.com
+* Email: anne.gresham@dbtassociates.com, kristen.fritsinger@dbtassociates.com, chris.kvidera@dbtassociates.com, marilyn.reichman@dbtassociates.com, susan.venzke@dbtassociates.com
 * Website: [DBTAssociates](http://www.dbtassociates.com)
 * Address: 7362 University Ave. NE, Suite 101, Fridley, Minnesota  55432
 
