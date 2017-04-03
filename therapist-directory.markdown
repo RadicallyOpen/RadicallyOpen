@@ -139,6 +139,15 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Location: Tampa Bay Area, Tampa Florida
 * Treatment of: adults and adolescents (skills classes going for both) diagnosed with depression, anxiety, anorexia 
 
+#### Georgia: Atlanta (Emory/Brookhaven Areas)
+* Name: Erin M. Jones, PhD
+* Phone number: 404-727-3443 (main intake line)
+* Address: Emory Child and Adolescent Mood Program, 12 Executive Park Drive NE, Ste 248, Atlanta, GA 30329
+* Email: erin.m.jones@emory.edu
+* Website - main: http://www.camp-emory.com 
+* Website - provider page: http://www.camp-emory.com/Jones.htm
+* Treatment of: Specialize in treatment of Feeding and Eating Disorders. We also provide evidence based treatment for Anxiety Disorders, OCD, and Mood Disorders. Our clinic provides outpatient services for children, adolescents, and young adults (ages 7-25). Outpatient services include individual therapy, family therapy, and group therapy (at this time we offer groups for anxiety disorders only). 
+
 #### Illinois: Cook County, Chicago and Evanston
 * Name: Michael Maslar
 * Phone number: 847-733-4300. x648
