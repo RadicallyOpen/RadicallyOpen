@@ -195,12 +195,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 1085 Tunnel Road, 7A; Asheville, NC  28805
 * Treatment of: Personality and OC-Spectrum Disorders
 
-#### Ohio: Central Ohio area		
-* Name:	Nathan D. Tomcik, PhD
+#### Ohio: Powell (Central Ohio area)		
+* Name:	Nathan D. Tomcik, PhD, ABPP
 * Phone number:	(614) 301-3289
 * Email: ntomcik@gmail.com
+* Website: www.drnathantomcik.com
 * Address: 515 Village Park Dr., Powell, OH 43065 
-* Treatment of:	depression, anxiety, personality disorders, trauma, relationship problems, substance use disorders
+* Treatment of adults, couples and families: depresion, anxiety, trauma related conditions, relationship problems, couple/family therapy
+
 
 #### Oregon/Multnomah: Portland
 * Name: Erin Driskill, LCSW
