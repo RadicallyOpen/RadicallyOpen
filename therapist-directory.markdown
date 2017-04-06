@@ -27,13 +27,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 1040-1200 Burrard St, Vancouver BC V6Z 2C7
 * Treatment of: Suicidal thinking or behaviour (e.g., suicide attempts), Self-injury and other self-destructive behaviours, Difficulties with anger and anger management, Problems with other emotions (such as intense sadness or recurrent fear);  Impulsive behaviours that can be dangerous (such as reckless driving, recurrent unsafe sex, etc.); Difficulty building and maintaining healthy relationships; Chronic feelings of emptiness; Depression among older adults; Problems with alcohol & drug use; Eating disordered behaviour such as bingeing and purging; Other issues with problems related to over-control.
 
-# Sweden
-
-#### Stockholm & Uppsala
-* Name: Martina Wolf-Arehult
-* Phone number: int-46-(0)70-6117011
-* Email: martina.wolf@akademiska.se
-* Treatment of: Eating Disorders, Affective Disorders, Borderline Personality Disorders
+#### British Columbia: Victoria
+* Name: J. Nicole Little, Ph.D., R.C.C.
+* Phone number: 250-598-0544
+* Address: 316-1175 Cook Street
+* Email: cole@islandfamilycounselling.ca
+* Website:  www.islandfamilycounselling.ca
+* Treatment of: adolescents and adults in areas of depression, anxiety, disordered eating and oc personalities.
  
 
 # UK
@@ -354,3 +354,10 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: ALLIANCE MEDICAL GROUP, 2417 POST ROAD, STEVENS POINT, WI 54481
 * Treatment of: RO-DBT, DBT, CBT, CPT, ACT
 
+# Sweden
+
+#### Stockholm & Uppsala
+* Name: Martina Wolf-Arehult
+* Phone number: int-46-(0)70-6117011
+* Email: martina.wolf@akademiska.se
+* Treatment of: Eating Disorders, Affective Disorders, Borderline Personality Disorders
