@@ -75,7 +75,7 @@ For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or ca
 
 ### Want to ask us a specific question?
 
-If you would like us to contact you regarding RO DBT or forthcoming training events, please complete the form below:
+If you have a specific question about something, you can ask that here by completing the form below:
 
 <form name="insightly_web_to_contact" action="https://googleapps.insight.ly/WebToContact/Create" method="post">
 
