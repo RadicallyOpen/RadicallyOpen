@@ -77,7 +77,8 @@ For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or ca
 
 If you have a specific question about something, please email [Roelie](mailto:roelie@radicallyopen.net)
 
-## Our Address
+
+### Our Address
 
 <pre>
 15 Thornbury Avenue
