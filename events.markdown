@@ -7,9 +7,6 @@ meta_description: Full listing of forthcoming RO-DBT training events.
 permalink: /events/
 ---
 
-#### We are an approved Sponsor for the American Psychological Association!
-![APA Sponsor Approval Logo](https://dl.dropboxusercontent.com/u/5411729/APA%20approval%20Icon%20with%20RO%20text.png)
-
 
 ### Forthcoming workshops and training events
 
