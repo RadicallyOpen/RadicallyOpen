@@ -26,7 +26,7 @@ We specialise in intensive training and online support for professionals who wan
 - [Read what patients and health professionals are saying about RO DBT](/about/quotes/)
 
 
-![APA Sponsor Approval Logo](https://dl.dropboxusercontent.com/u/5411729/APA%20approval%20Icon%20with%20RO%20text.png)
+
 
 <hr>
 
