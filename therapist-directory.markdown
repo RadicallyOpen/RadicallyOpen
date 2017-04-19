@@ -165,6 +165,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 70 E. 91st St. Indianapolis, IN 46240
 * Treatment of: adults and adolescents (skills classes for both) diagnosed with anxiety disorders, depression, Autism Spectrum Disorder, personality disorders, eating disorders
 
+#### Indiana: Indianapolis
+* Name: Pam Christy, PsD, HSPP
+* Phone number: (317) 573-0149
+* Address: 70 E. 91st St.; Ste. 210 Indianapolis, IN 46240
+* Email: pchristy@woodviewgroup.com
+* Website: woodviewgroup.com
+* Treatment of:  Adolescents and Adults; persistent social anxiety, generalized anxiety, obsessive-compulsive personality, persistent depression, avoidant personality, high functioning autism 
+
 #### Minnesota: Fridley		
 * Name:	DBT Associates 
 * Clinicians: Anne Gresham, RN, CNS; Kristen Fritsinger, LICSW; Chris Kvidera, LICSW; Marilyn Reichman, MA, LP; and Sue Venzke, LICSW
