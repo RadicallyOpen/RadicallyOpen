@@ -28,6 +28,7 @@ The conference will be held at the Mike Harris Learning & Development (MHLD) Cen
 The cost for attending this one-day conference is £150. If booked at the same time with our [One-Day RO-DBT Introductory Training in February 2017](http://www.radicallyopen.net/events/2017-02-Introductory-Rampton), the cost for both events will be £275 in total. 
 
 ### Please complete our registration form to sign up to this training event:
-[Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
+[Complete Registration Form](https://goo.gl/forms/Dk13fx4NrFSsU3ns1)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe9lWGHCV9kFZ2MrFmAhGdLadL2YzrAoQ6p5Ldqqa-Unc58AA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 > {{site.forbooking}}
