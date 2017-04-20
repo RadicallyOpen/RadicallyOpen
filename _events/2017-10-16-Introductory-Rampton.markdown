@@ -34,6 +34,6 @@ The training will be held at the Mike Harris Learning & Development (MHLD) Centr
 The cost for attending this one-day introductory training is £150. 
 
 ### Please complete our registration form to sign up to this training event:
-[Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe9lWGHCV9kFZ2MrFmAhGdLadL2YzrAoQ6p5Ldqqa-Unc58AA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 > {{site.forbooking}}
