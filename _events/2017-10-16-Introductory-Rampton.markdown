@@ -31,7 +31,7 @@ Radically Open Dialectical Behavior Therapy (RO DBT) is a treatment for patients
 The training will be held at the Mike Harris Learning & Development (MHLD) Centre, Rampton Hospital, Woodbeck, Retford, DN22 0PD
 
 #### Prices and booking
-The cost for attending this one-day introductory training is £150. 
+The cost for attending this one-day introductory training is £150 plus £30 VAT. 
 
 ### Please complete our registration form to sign up to this training event:
 [RO-Introductory Nottinhamshire Registration Form](https://goo.gl/forms/Dk13fx4NrFSsU3ns1)
