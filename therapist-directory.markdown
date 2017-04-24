@@ -35,6 +35,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Website:  www.islandfamilycounselling.ca
 * Treatment of: adolescents and adults in areas of depression, anxiety, disordered eating and oc personalities.
  
+#### Nova Scotia: Halifax/Dartmouth
+* Name: Jacqueline Cohen
+* Phone number: 902-464-6093
+* Fax: 902-461-4220
+* Email: Jacquie.cohen@nshealth.ca
+* Address: Borderline Personality Disorder Treatment Program, Nova Scotia Hospital Site, 294 Pleasant Street, Dartmouth, NS, B2Y 3S3
+* Treatment of: Adults with borderline personality disorder, problems with overcontrol, OCPD, PTSD, chronic depression, and anxiety disorders
 
 # UK
 
