@@ -13,7 +13,7 @@ venue: Ashbourne Centre, Kingsway Hospital, Derby
 html_title: "RO-DBT intensive training course, Derbyshire UK, 2016-2017"
 title: "RO-DBT Intensive Derbyshire, UK -SOLD OUT-"
 eventtype: intensive
-hide:
+hide: true
 intensive: true
 oneday:
 ---
