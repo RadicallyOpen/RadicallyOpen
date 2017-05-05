@@ -47,6 +47,6 @@ Early bird expiry date: March 9, 2018
 
 
 ## Please complete our registration form if you are signing up to our training event:
-[Complete Registration Form](http://goo.gl/forms/PrthbLygcq)
+[Complete Nottingham & Derby Registration Form](https://goo.gl/forms/2n0GyJbY7l35ps7q1)
 
 > {{site.forbooking}}
