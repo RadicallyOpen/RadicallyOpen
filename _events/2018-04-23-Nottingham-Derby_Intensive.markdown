@@ -8,7 +8,7 @@ parts:
       to: 2018-04-27
     - from: 2018-11-05
       to: 2018-11-09
-location: Nottingham (part 1 & Derby (part 2)
+location: Nottingham (part 1) & Derby (part 2)
 venue: Duncan MacMillan House (Nottingham) & Kingsway Hospital (Derby)
 html_title: "RO-DBT intensive training course, Nottingham & Derby (UK), 2018"
 title: "RO-DBT Intensive, Nottingham & Derby (UK)"
