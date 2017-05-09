@@ -43,6 +43,8 @@ This event is co-hosted by the Centre for Eating Disorders at the [Akademiska Sj
 
 {{site.intensive_prices_UK}}
 
+Early bird expiry date: 29th December 2017
+
 ### Please complete our registration form if you are signing up to our training event:
 [RO-DBT Intensive Uppsala Sweden Registration Form](https://goo.gl/forms/8SCsrPvTLt5XkOtm2)
 
