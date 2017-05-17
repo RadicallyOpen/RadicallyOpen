@@ -14,7 +14,7 @@ collections:
 
 
 emails:
-  enquiries: erica@radicallyopen.net
+  enquiries: anne@radicallyopen.net
   technical: roelie@radicallyopen.net
 
 # Owner/author information
@@ -29,7 +29,7 @@ owner:
 
 
 bookings:
-  email:          erica@radicallyopen.net
+  email:          anne@radicallyopen.net
 
 
 # Links to include in top navigation
@@ -74,7 +74,7 @@ introduction_generic_description: This workshop is a comprehensive introduction 
 
 ce_credits_text: "- **CE credits are available for this course**"
 
-forbooking: For additional information about booking, please email [Erica Smith](mailto:erica@radicallyopen.net) or call Roelie Hempel via +44 (0)7452 027245.
+forbooking: For additional information about booking, please email [Anne Gresham](mailto:anne@radicallyopen.net) or call Roelie Hempel via +44 (0)7452 027245.
 
 forpayments: "[Paying for courses](/payments/)"
 
