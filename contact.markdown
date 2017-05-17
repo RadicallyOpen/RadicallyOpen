@@ -81,16 +81,17 @@ If you have a specific question about something, please email [Anne](mailto:anne
 ### Our Address
 
 <pre>
-15 Thornbury Avenue
-Southampton
-SO15 5BQ
-England
+Radically Open Ltd
+27 Old Gloucester Street
+London
+WC1N 3AX
+United Kingdom
 
 +44 (0)7452 027245
 
 Registered in England: 9333062
 
-VAT Reg: 258 1469 80
+VAT Reg: GB258146980
 
 </pre>
 <p>
