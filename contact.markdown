@@ -75,7 +75,7 @@ For enquiries, please email [Erica Smith](mailto:{{site.bookings.email}}), or ca
 
 ### Want to ask us a specific question?
 
-If you have a specific question about something, please email [Roelie](mailto:roelie@radicallyopen.net)
+If you have a specific question about something, please email [Anne](mailto:anne@radicallyopen.net)
 
 
 ### Our Address
