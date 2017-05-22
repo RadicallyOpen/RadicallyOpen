@@ -10,7 +10,7 @@ name: RO-DBT--A New Approach for Patients who suffer from Emotional or Behaviora
 html_title: "RO-DBT--A New Approach for Patients who suffer from Emotional or Behavioral Over-Control, Ohio State University"
 title: RO-DBT--A New Approach for Patients who suffer from Emotional or Behavioral Over-Control
 eventtype: oneday
-hide: 
+hide: true
 ---
 
 ### May 9th, 2017, Columbus, OH, USA
