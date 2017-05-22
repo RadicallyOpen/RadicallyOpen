@@ -82,9 +82,9 @@ If you have a specific question about something, please email [Anne](mailto:anne
 
 <pre>
 Radically Open Ltd
-27 Old Gloucester Street
-London
-WC1N 3AX
+15 Thornbury Avenue
+Southampton
+SO15 5BQ
 United Kingdom
 
 +44 (0)7452 027245
