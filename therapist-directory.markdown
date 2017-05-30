@@ -336,6 +336,15 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Mailing address: 535 Lamont, San Antonio, TX 78209
 * Treatment of: sub-clinical and chronic eating disorders; situational, chronic, and treatment-resistant anxiety and mood disorders; trauma; impulsivity; chaotic relationships; self harm and suicidality; Personality Disorders: obsessive-compulsive, borderline, avoidant. We provide both group and individual therapy for adolescents and adults.
 
+####  Virginia: Arlington, and Washington, DC   
+* Name: Joanna Marino
+* Email: JMarino@pbshealthcare.com
+* Phone Number: 571-257-3378
+* Address: 2001 Jefferson Davis Highway #211 Arlington VA 22202
+* Website: [www.pbshealthcare.com](www.pbshealthcare.com)
+* Treatment of: Eating Disorders, Depression, Anxiety, Personality Disorders   
+
+
 #### Washington: Pullman (Eastern) Washington
 * Names: Rhonda Allenger, Alisha Dearmim, Rick Chapman 
 * Phone number: 509 334-1133
