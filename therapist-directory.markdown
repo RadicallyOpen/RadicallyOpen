@@ -35,6 +35,10 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Website:  www.islandfamilycounselling.ca
 * Treatment of: adolescents and adults in areas of depression, anxiety, disordered eating and oc personalities.
  
+#### Quebec: Montreal
+* Name: Helene Poitras
+* Email: helenepoitras@hotmail.com
+
 #### Nova Scotia: Halifax/Dartmouth
 * Name: Jacqueline Cohen
 * Phone number: 902-464-6093
@@ -196,6 +200,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 11709 Old Ballas Road, Suite 205, Creve Coeur, Missouri, 63141
 * Treatment of: Depression, Anxiety, OCD, Self-Harm, Eating Disorders,Trauma, and PTSD among others. We provide individual and group therapy for adults, couples, families, and adolescents. 
 
+#### New Jersey: Middlesex and Monmouth Counties
+* Name: Michelle Drapkin
+* Email: michelledrapkin@drmichelledrapkin.com
+* Phone Number: 415.779.2437
+* Address: 16 Pearl Street, Metuchen, NJ 08840
+* Website: [CBTCenterofCentralNJ.com](http://www.CBTCenterofCentralNJ.com)
+* Treatment of: Anxiety, Depression, Addictions
+
 #### New Jersey: Waldwick (30 mins from NYC)
 * Name: Christine Hudson, Ph.D.; Hudson Psychological Group.  
 * Phone:  973-931-2113, 
@@ -286,6 +298,11 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Website: [Psychepllc](http://www.psychepllc.com)
 * Address: 1200 Division Street Nashville, TN 37203
 * Treatment of: My practice offers DBT-to-Fidelity, RO-DBT in full, and standard treatment using contextual-behavioral models. Treatment focuses include Self-Harm Behaviors, Suicidality, Mood Disorders (Depression, Anxiety, Bipolar, Disruptive Mood Dysregulation Disorder) and Personality Disorders (BPD, Schizotypal PD, OCPD, Dependent PD). Populations range from adolescents to adults, and I specialize in socially anxious adolescents, adolescents with mood disorders, millennials, and adults life transitions (grief, marriage, job transition, etc). 
+
+#### Texas: Flower Mound
+* Name: Mary Thomas, LCSW
+* Address: Open Road Counseling Center, 3204 Long Prairie Rd. Ste. A-1, Flower Mound, TX 75022
+* Phone number: (469) 423-0177
 
 #### Texas: Houston
 * Name: Karyn Hall, Ph.D.  (DBT Center)
