@@ -295,7 +295,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number:  412-246-5454
 
 #### Tennessee: Nashville
-* Name: Lauren Ruth Martin, MA (Under Supervision for LPC-MHSP), PSYCHē PLLC
+* Name: Lauren Ruth Martin, MA, LPC-MHSP
 * Phone number: 615-274-8400
 * Email: laurenmartin@psychepllc.com
 * Website: [Psychepllc](http://www.psychepllc.com)
