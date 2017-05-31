@@ -145,10 +145,13 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Treatment of: Depression, Anxiety, Social Anxiety, OCD, Personality Disorders, Relationship Counseling, etc.
 
 #### Florida: Tampa Bay Area, Tampa
-* Name: Victoria Potocki, LMHC and Kelly E. Turner
-* Phone number: 443-621-0976
-* Location: Tampa Bay Area, Tampa Florida
-* Treatment of: adults and adolescents (skills classes going for both) diagnosed with depression, anxiety, anorexia 
+* Name: Kelly Turner, LCSW, Victoria Potocki, LMHC, & Heidi Petracco, LCSW
+* Email: kturnertampabaydbt@gmail.com 
+* Phone Number: 443-621-0976
+* Address: 5121 Ehrlich Rd, Blog 101, Suite G, Tampa, FL 33624
+* Website: [www.TBDBT.com](www.TBDBT.com)
+* Treatment of: Adults and Adolescents (skills classes for both) diagnosed with Depression, Anxiety, OCD and Anorexia.
+
 
 #### Georgia: Atlanta (Emory/Brookhaven Areas)
 * Name: Erin M. Jones, PhD
