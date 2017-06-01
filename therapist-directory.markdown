@@ -211,6 +211,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Website: [CBTCenterofCentralNJ.com](http://www.CBTCenterofCentralNJ.com)
 * Treatment of: Anxiety, Depression, Addictions
 
+#### New Jersey: Montville NJ. Morris, Essex and Passaic County.
+* Name:  Ava M. Frotton
+* Email: avafrotton@gmail.com
+* Phone Number:  973-222-7863
+* Address: 339 Changebridge Road, Suite 1, Pine Brook NJ 07058
+* Website: [www.avafrotton.com](www.avafrotton.com)
+* Treatment of: I treat eating disorders including anorexia, OCD, OCPD, depression and other mood disorders, anxiety, BPD and trauma. I work with teens and adults.
+
 #### New Jersey: Waldwick (30 mins from NYC)
 * Name: Christine Hudson, Ph.D.; Hudson Psychological Group.  
 * Phone:  973-931-2113, 
@@ -234,7 +242,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Treatment of adults, couples and families: depresion, anxiety, trauma related conditions, relationship problems, couple/family therapy
 
 
-#### Oregon/Multnomah: Portland
+#### Oregon: Portland
 * Name: Erin Driskill, LCSW
 * Phone:503-208-3101
 * Email: erindriskilllcsw@yahoo.com
