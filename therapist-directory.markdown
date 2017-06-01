@@ -216,7 +216,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Email: avafrotton@gmail.com
 * Phone Number:  973-222-7863
 * Address: 339 Changebridge Road, Suite 1, Pine Brook NJ 07058
-* Website: [www.avafrotton.com](www.avafrotton.com)
+* Website: [www.avafrotton.com](http://www.avafrotton.com)
 * Treatment of: I treat eating disorders including anorexia, OCD, OCPD, depression and other mood disorders, anxiety, BPD and trauma. I work with teens and adults.
 
 #### New Jersey: Waldwick (30 mins from NYC)
@@ -352,7 +352,7 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Email: JMarino@pbshealthcare.com
 * Phone Number: 571-257-3378
 * Address: 2001 Jefferson Davis Highway #211 Arlington VA 22202
-* Website: [www.pbshealthcare.com](www.pbshealthcare.com)
+* Website: [www.pbshealthcare.com](http://www.pbshealthcare.com/)
 * Treatment of: Eating Disorders, Depression, Anxiety, Personality Disorders   
 
 
