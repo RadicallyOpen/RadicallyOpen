@@ -398,6 +398,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address: 2400 NE 95th st Seattle, Wa
 * Treatment of: anxiety, depression, eating disorders and suicidality in teens and young adults (up to age 23) 
 
+#### Washinton: Bellevue, Seattle and vicinity
+* Name:  Lisa Geraud LMFT RD
+* Email: lisageraudcounseling@gmail.com
+* Phone Number: 425.688.7877 ext 3
+* Address: 9 Lake Bellevue Drive. Suite 214. Bellevue WA 98005
+* Website: [lisageraud.com](http://www.lisageraud.com)
+* Treatment of: (for example, Anorexia Nervosa, Depression, etc.). Anorexia nervosa, bulimia nervosa, binge eating disorder (FBT and FBT-TAY specialization), anxiety, depression, chronic pain and medical issues, relationship issues, grief and loss.  
+
 #### Wisconsin: Marathon (Central Wisconsin)
 * Name: Melissa Skrzypchak 
 * Phone number: 715-690-1272
