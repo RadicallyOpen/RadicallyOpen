@@ -158,8 +158,8 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Phone number: 404-727-3443 (main intake line)
 * Address: Emory Child and Adolescent Mood Program, 12 Executive Park Drive NE, Ste 248, Atlanta, GA 30329
 * Email: erin.m.jones@emory.edu
-* Website - main: http://www.camp-emory.com 
-* Website - provider page: http://www.camp-emory.com/Jones.htm
+* Website - main: [http://www.camp-emory.com](http://www.camp-emory.com)
+* Website - provider page: [http://www.camp-emory.com/Jones.htm](http://www.camp-emory.com/Jones.htm)
 * Treatment of: Specialize in treatment of Feeding and Eating Disorders. We also provide evidence based treatment for Anxiety Disorders, OCD, and Mood Disorders. Our clinic provides outpatient services for children, adolescents, and young adults (ages 7-25). Outpatient services include individual therapy, family therapy, and group therapy (at this time we offer groups for anxiety disorders only). 
 
 #### Illinois: Cook County, Chicago and Evanston
@@ -169,6 +169,14 @@ Below is a list of health professionals trained in RO-DBT who can be contacted d
 * Address1: The Family Institute, 618 Library Place, Evanston, IL 60201, United States
 * Address2: The Family Institute, 8 S. Michigan Ave., Chicago, IL 60603, United States
 * Treatment of: Anxiety, Depression, Anorexia, Perfectionism
+
+#### Illinois: McHenry and DeKalb Counties
+* Name: Kevin Kloosterman, LMFT
+* Email: relationquest@gmail.com
+* Phone Number: 815-895-8382
+* Address: 215 W. Elm Street, Sycamore, IL 60178
+* Website: [www.relationquest.com](www.relationquest.com)
+* Treatment of: Individuals and Couples struggling with depression, anxiety, over-control challenges and disorders, autism spectrum, social anxiety, sub-acute anorexia, and perfectionism.  LGBTQ affirming.
 
 #### Indiana: Indianapolis
 * Name: Courtney Ward, Psy.D., HSPP and Pam Christy, Psy.D., HSPP; Woodview Psychology Group 
