@@ -6,7 +6,7 @@ starts: 2017-08-11
 parts:
     - from: 2017-08-11
       to: 2017-08-11
-name: Intro to Radically Open DBT
+name: Intro to Radically Open DBT by Michael Maslar, Psy.D.
 html_title: "Intro to Radically Open DBT by Michael Maslar, Psy.D."
 title: Intro to Radically Open DBT by Michael Maslar, Psy.D.
 eventtype: oneday
