@@ -6,7 +6,7 @@ starts: 2017-07-14
 parts:
     - from: 2017-07-14
       to: 2017-07-14
-name: Intro to Radically Open DBT by Michael Maslar, Psy.D.
+name: Radically Open-DBT Workshop by Karyn Hall, PhD and Hope Arnold, LCSW
 html_title: "Radically Open-DBT Workshop by Karyn Hall, PhD and Hope Arnold, LCSW"
 title: Radically Open-DBT Workshop by Karyn Hall, PhD and Hope Arnold, LCSW
 eventtype: oneday
